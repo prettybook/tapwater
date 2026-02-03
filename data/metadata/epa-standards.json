@@ -1,0 +1,152 @@
+{
+  "lastUpdated": "2026-01-01",
+  "source": "EPA National Primary Drinking Water Regulations",
+  "sourceUrl": "https://www.epa.gov/dwstandardsregulations",
+  "standards": [
+    {
+      "contaminantCode": "1005",
+      "contaminantName": "Lead",
+      "mcl": 0.015,
+      "mclg": 0,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Infants and children: Delays in physical or mental development; adults: kidney problems, high blood pressure"
+    },
+    {
+      "contaminantCode": "1010",
+      "contaminantName": "Copper",
+      "mcl": 1.3,
+      "mclg": 1.3,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Short-term exposure: Gastrointestinal distress; long-term exposure: Liver or kidney damage"
+    },
+    {
+      "contaminantCode": "1040",
+      "contaminantName": "Total Coliform",
+      "mcl": 0,
+      "mclg": 0,
+      "unit": "presence/absence",
+      "category": "Microorganisms",
+      "healthEffects": "Not a health threat itself but can indicate the presence of other disease-causing bacteria"
+    },
+    {
+      "contaminantCode": "1041",
+      "contaminantName": "E. coli",
+      "mcl": 0,
+      "mclg": 0,
+      "unit": "presence/absence",
+      "category": "Microorganisms",
+      "healthEffects": "Severe illness, especially in infants, young children, and elderly"
+    },
+    {
+      "contaminantCode": "2050",
+      "contaminantName": "Arsenic",
+      "mcl": 0.01,
+      "mclg": 0,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Skin damage, circulatory problems, increased cancer risk"
+    },
+    {
+      "contaminantCode": "2456",
+      "contaminantName": "Nitrate",
+      "mcl": 10,
+      "mclg": 10,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Infants could become seriously ill ('blue baby syndrome')"
+    },
+    {
+      "contaminantCode": "2950",
+      "contaminantName": "Fluoride",
+      "mcl": 4.0,
+      "mclg": 4.0,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Bone disease (pain and tenderness of the bones); children may get mottled teeth"
+    },
+    {
+      "contaminantCode": "2984",
+      "contaminantName": "Chlorine",
+      "mcl": 4.0,
+      "mclg": 4.0,
+      "unit": "mg/L",
+      "category": "Disinfectants",
+      "healthEffects": "Eye/nose irritation; stomach discomfort"
+    },
+    {
+      "contaminantCode": "2987",
+      "contaminantName": "Chloramine",
+      "mcl": 4.0,
+      "mclg": 4.0,
+      "unit": "mg/L",
+      "category": "Disinfectants",
+      "healthEffects": "Eye/nose irritation; stomach discomfort; anemia"
+    },
+    {
+      "contaminantCode": "2964",
+      "contaminantName": "Total Trihalomethanes (TTHMs)",
+      "mcl": 0.08,
+      "mclg": 0,
+      "unit": "mg/L",
+      "category": "Disinfection Byproducts",
+      "healthEffects": "Liver, kidney or central nervous system problems; increased risk of cancer"
+    },
+    {
+      "contaminantCode": "2969",
+      "contaminantName": "Haloacetic Acids (HAA5)",
+      "mcl": 0.06,
+      "mclg": 0,
+      "unit": "mg/L",
+      "category": "Disinfection Byproducts",
+      "healthEffects": "Increased risk of cancer"
+    },
+    {
+      "contaminantCode": "1094",
+      "contaminantName": "Chromium (total)",
+      "mcl": 0.1,
+      "mclg": 0.1,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Allergic dermatitis"
+    },
+    {
+      "contaminantCode": "1024",
+      "contaminantName": "Barium",
+      "mcl": 2,
+      "mclg": 2,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Increase in blood pressure"
+    },
+    {
+      "contaminantCode": "1085",
+      "contaminantName": "Mercury",
+      "mcl": 0.002,
+      "mclg": 0.002,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Kidney damage"
+    },
+    {
+      "contaminantCode": "1074",
+      "contaminantName": "Selenium",
+      "mcl": 0.05,
+      "mclg": 0.05,
+      "unit": "mg/L",
+      "category": "Inorganic Chemicals",
+      "healthEffects": "Hair or fingernail loss; numbness in fingers or toes; circulatory problems"
+    }
+  ],
+  "hardnessScale": {
+    "soft": { "min": 0, "max": 60, "description": "Soft water" },
+    "moderatelyHard": { "min": 60, "max": 120, "description": "Moderately hard water" },
+    "hard": { "min": 120, "max": 180, "description": "Hard water" },
+    "veryHard": { "min": 180, "max": null, "description": "Very hard water" }
+  },
+  "notes": {
+    "leadActionLevel": "Lead has an action level of 0.015 mg/L, not an MCL. If more than 10% of tap water samples exceed this level, water systems must take additional steps.",
+    "hardness": "Water hardness is not regulated by the EPA as it does not pose a health risk, but is included for consumer information."
+  }
+}

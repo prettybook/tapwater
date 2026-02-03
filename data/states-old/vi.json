@@ -1,0 +1,1921 @@
+{
+  "stateCode": "VI",
+  "stateName": "Virgin Islands",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "water-and-power-authority-stx",
+      "name": "WATER AND POWER AUTHORITY - STX",
+      "county": "St. Croix Island",
+      "population": 35000,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "VI0000097",
+      "utilityName": "Water And Power Authority - STX",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000097",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2004-H2",
+        "lastSampleDate": "2004-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "water-and-power-authority-stt",
+      "name": "WATER AND POWER AUTHORITY - STT",
+      "county": "St. Thomas Island",
+      "population": 34000,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "VI0000443",
+      "utilityName": "Water And Power Authority - STT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000443",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2002-H2",
+        "lastSampleDate": "2002-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ocean-point-terminals",
+      "name": "OCEAN POINT TERMINALS",
+      "county": "St. Croix Island",
+      "population": 2500,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "VI0000349",
+      "utilityName": "Ocean Point Terminals",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000349",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "lorraine-village",
+      "name": "LORRAINE VILLAGE",
+      "county": "St. Croix Island",
+      "population": 1008,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000066",
+      "utilityName": "Lorraine Village",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000066",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2008-H1",
+        "lastSampleDate": "2008-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "bovoni-housing-project-i-and-ii",
+      "name": "BOVONI HOUSING PROJECT I AND II",
+      "county": "St. Thomas Island",
+      "population": 960,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000029",
+      "utilityName": "Bovoni Housing Project I and II",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000029",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "uvi-stthomas",
+      "name": "UVI ST.THOMAS",
+      "county": "St. Thomas Island",
+      "population": 900,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000174",
+      "utilityName": "UVI St.Thomas",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000174",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "harbour-view-apartments",
+      "name": "HARBOUR VIEW APARTMENTS",
+      "county": "St. Croix Island",
+      "population": 863,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000078",
+      "utilityName": "Harbour View Apartments",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000078",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "walter-im-hodge-pavillion",
+      "name": "WALTER IM HODGE PAVILLION",
+      "county": null,
+      "population": 633,
+      "waterSystemCount": 1,
+      "primarySource": "Unknown",
+      "pwsid": "VI1000700",
+      "utilityName": "Walter IM Hodge Pavillion",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000700",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "lovenlund-apartments",
+      "name": "LOVENLUND APARTMENTS",
+      "county": "St. Thomas Island",
+      "population": 510,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000304",
+      "utilityName": "Lovenlund Apartments",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000304",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "teague-bay",
+      "name": "Teague Bay",
+      "county": null,
+      "population": 374,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "VI0000074",
+      "utilityName": "The Reef Condo",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000074",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 2.255,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "mill-harbour-condos",
+      "name": "MILL HARBOUR CONDOS",
+      "county": "St. Croix Island",
+      "population": 345,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000068",
+      "utilityName": "Mill Harbour Condos",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000068",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H2",
+        "lastSampleDate": "2007-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cowpet-bay-village-west",
+      "name": "COWPET BAY VILLAGE-WEST",
+      "county": "St. Thomas Island",
+      "population": 300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000094",
+      "utilityName": "Cowpet Bay Village-West",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000094",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 89.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1994-H1",
+        "lastSampleDate": "1994-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "point-pleasant-resort",
+      "name": "POINT PLEASANT RESORT",
+      "county": "St. Thomas Island",
+      "population": 273,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000271",
+      "utilityName": "Point Pleasant Resort",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000271",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 36.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1994-H2",
+        "lastSampleDate": "1994-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "estate-diamond",
+      "name": "Estate Diamond",
+      "county": null,
+      "population": 267,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI2000029",
+      "utilityName": "Peppertree Terrace Trailer Park",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI2000029",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H2",
+        "lastSampleDate": "2007-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sapphire-villcondos-west",
+      "name": "SAPPHIRE VILL.CONDOS (WEST)",
+      "county": "St. Thomas Island",
+      "population": 225,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000030",
+      "utilityName": "Sapphire Vill.condos (West)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000030",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 588.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.728,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1994-H1",
+        "lastSampleDate": "1994-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "association-of-stc-condos",
+      "name": "ASSOCIATION OF STC CONDOS",
+      "county": "St. Croix Island",
+      "population": 199,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000075",
+      "utilityName": "Association of StC Condos",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000075",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 108.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "elysian-beach-resort",
+      "name": "ELYSIAN BEACH RESORT",
+      "county": "St. Thomas Island",
+      "population": 197,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "VI1000080",
+      "utilityName": "Elysian Beach Resort",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000080",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "stx-mutual-homes-36",
+      "name": "STX. MUTUAL HOMES 36",
+      "county": "St. Croix Island",
+      "population": 197,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000465",
+      "utilityName": "Stx. Mutual Homes 36",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000465",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "louise-e-brown-iii",
+      "name": "LOUISE E BROWN III",
+      "county": "St. Croix Island",
+      "population": 181,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000560",
+      "utilityName": "Louise E Brown III",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000560",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "cane-brake-apartments",
+      "name": "CANE BRAKE APARTMENTS",
+      "county": "St. Croix Island",
+      "population": 177,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000305",
+      "utilityName": "Cane Brake Apartments",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000305",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 77.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "stx-mutual-homes-5460",
+      "name": "STX. MUTUAL HOMES 54/60",
+      "county": "St. Croix Island",
+      "population": 150,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000467",
+      "utilityName": "Stx. Mutual Homes 54/60",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000467",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2008-H1",
+        "lastSampleDate": "2008-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "herbert-grigg-i-c",
+      "name": "HERBERT GRIGG I-C",
+      "county": "St. Croix Island",
+      "population": 133,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000477",
+      "utilityName": "Herbert Grigg I-C",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000477",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "herbert-grigg-kitchen",
+      "name": "HERBERT GRIGG KITCHEN",
+      "county": "St. Croix Island",
+      "population": 133,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000058",
+      "utilityName": "Herbert Grigg Kitchen",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000058",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "st-thomas-healthcare-management",
+      "name": "ST. THOMAS HEALTHCARE MANAGEMENT",
+      "county": "St. Thomas Island",
+      "population": 128,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000138",
+      "utilityName": "St. Thomas Healthcare Management",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000138",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "long-reef-apartments",
+      "name": "LONG REEF APARTMENTS",
+      "county": "St. Croix Island",
+      "population": 124,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000064",
+      "utilityName": "Long Reef Apartments",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000064",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cowpet-bay-village-east",
+      "name": "COWPET BAY VILLAGE-EAST",
+      "county": "St. Thomas Island",
+      "population": 120,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "VI0000108",
+      "utilityName": "Cowpet Bay Village-East",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000108",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "stx-mutual-homes-2126",
+      "name": "STX. MUTUAL HOMES 21/26",
+      "county": "St. Croix Island",
+      "population": 119,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000464",
+      "utilityName": "Stx. Mutual Homes 21/26",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000464",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 25.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "stx-mutual-homes-1415",
+      "name": "STX. MUTUAL HOMES 14/15",
+      "county": "St. Croix Island",
+      "population": 118,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000463",
+      "utilityName": "Stx. Mutual Homes 14/15",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000463",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2008-H1",
+        "lastSampleDate": "2008-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "dorthea-condo",
+      "name": "DORTHEA CONDO",
+      "county": "St. Thomas Island",
+      "population": 110,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000072",
+      "utilityName": "Dorthea Condo",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000072",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2008-H2",
+        "lastSampleDate": "2008-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "herbert-grigg-ltc",
+      "name": "HERBERT GRIGG LTC",
+      "county": "St. Croix Island",
+      "population": 106,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000025",
+      "utilityName": "Herbert Grigg LTC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000025",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H2",
+        "lastSampleDate": "2007-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "burnett-towers",
+      "name": "BURNETT TOWERS",
+      "county": "St. Thomas Island",
+      "population": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000122",
+      "utilityName": "Burnett Towers",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000122",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H1",
+        "lastSampleDate": "2009-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "good-hope-townhouses",
+      "name": "GOOD HOPE TOWNHOUSES",
+      "county": "St. Croix Island",
+      "population": 98,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000098",
+      "utilityName": "Good Hope Townhouses",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000098",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 9.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "criminal-justice-complex",
+      "name": "CRIMINAL JUSTICE COMPLEX",
+      "county": "St. Thomas Island",
+      "population": 96,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000044",
+      "utilityName": "Criminal Justice Complex",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000044",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "queen-louise-home",
+      "name": "QUEEN LOUISE HOME",
+      "county": "St. Croix Island",
+      "population": 90,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000071",
+      "utilityName": "Queen Louise Home",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000071",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 9.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H2",
+        "lastSampleDate": "2007-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "stx-mutual-homes-4453",
+      "name": "STX. MUTUAL HOMES 44/53",
+      "county": "St. Croix Island",
+      "population": 86,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000466",
+      "utilityName": "Stx. Mutual Homes 44/53",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000466",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "compass-point-marina",
+      "name": "COMPASS POINT MARINA",
+      "county": "St. Thomas Island",
+      "population": 81,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000086",
+      "utilityName": "Compass Point Marina",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000086",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 39.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2008-H2",
+        "lastSampleDate": "2008-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "estate-carlton",
+      "name": "Estate Carlton",
+      "county": null,
+      "population": 80,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000335",
+      "utilityName": "Estate Carlton Condos",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000335",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 20.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 1.615,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "anchorage-condos",
+      "name": "ANCHORAGE CONDOS",
+      "county": "St. Thomas Island",
+      "population": 75,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000082",
+      "utilityName": "Anchorage Condos",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000082",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "magens-point-condos",
+      "name": "MAGENS POINT CONDOS",
+      "county": "St. Thomas Island",
+      "population": 75,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000188",
+      "utilityName": "Magens Point Condos",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000188",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "saman-villas",
+      "name": "SAMAN VILLAS",
+      "county": "St. Croix Island",
+      "population": 70,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000522",
+      "utilityName": "Saman Villas",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000522",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "fairway-village",
+      "name": "FAIRWAY VILLAGE",
+      "county": "St. Thomas Island",
+      "population": 64,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000175",
+      "utilityName": "Fairway Village",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000175",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "watergate-west-b-18-sea-cliff-villas",
+      "name": "WATERGATE WEST B-18 SEA CLIFF VILLAS",
+      "county": "St. Thomas Island",
+      "population": 61,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000046",
+      "utilityName": "Watergate West B-18 Sea Cliff Villas",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000046",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "questa-verde-d-b",
+      "name": "QUESTA VERDE D-B",
+      "county": "St. Croix Island",
+      "population": 59,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000049",
+      "utilityName": "Questa Verde D-B",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000049",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H1",
+        "lastSampleDate": "2007-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ebenezer-garden",
+      "name": "EBENEZER GARDEN",
+      "county": "St. Thomas Island",
+      "population": 50,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000220",
+      "utilityName": "Ebenezer Garden",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000220",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "watergate-west-b-21-sea-cliff-villas",
+      "name": "WATERGATE WEST B-21 SEA CLIFF VILLAS",
+      "county": "St. Thomas Island",
+      "population": 45,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000047",
+      "utilityName": "Watergate West B-21 Sea Cliff Villas",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000047",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "clearview-apts",
+      "name": "CLEARVIEW APTS",
+      "county": "St. Thomas Island",
+      "population": 44,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000052",
+      "utilityName": "Clearview Apts",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000052",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "heritage-hills-condos",
+      "name": "HERITAGE HILLS CONDOS",
+      "county": "St. Thomas Island",
+      "population": 44,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000118",
+      "utilityName": "Heritage Hills Condos",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000118",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "peter-farm-condo",
+      "name": "PETER FARM CONDO",
+      "county": "St. Croix Island",
+      "population": 42,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000020",
+      "utilityName": "Peter Farm Condo",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000020",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "plantation-manor-poinsetta",
+      "name": "PLANTATION MANOR- POINSETTA",
+      "county": "St. Thomas Island",
+      "population": 42,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000237",
+      "utilityName": "Plantation Manor- Poinsetta",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000237",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 276.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1994-H2",
+        "lastSampleDate": "1994-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "questa-verde-f",
+      "name": "QUESTA VERDE F",
+      "county": "St. Croix Island",
+      "population": 42,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000072",
+      "utilityName": "Questa Verde F",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000072",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H2",
+        "lastSampleDate": "2007-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cabrita-point-resort",
+      "name": "CABRITA POINT RESORT",
+      "county": "St. Thomas Island",
+      "population": 40,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000131",
+      "utilityName": "Cabrita Point Resort",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000131",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 39.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H1",
+        "lastSampleDate": "2009-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "granda-del-mar",
+      "name": "GRANDA DEL MAR",
+      "county": "St. Croix Island",
+      "population": 40,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000342",
+      "utilityName": "Granda Del Mar",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000342",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "the-golden-twin-apts-bay-court-n",
+      "name": "THE GOLDEN TWIN APT.S (BAY COURT-N)",
+      "county": "St. Croix Island",
+      "population": 38,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000069",
+      "utilityName": "The Golden Twin Apt.s (bay Court-n)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000069",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "plantation-manor-hibiscus",
+      "name": "PLANTATION MANOR- HIBISCUS",
+      "county": "St. Thomas Island",
+      "population": 35,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000234",
+      "utilityName": "Plantation Manor- Hibiscus",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000234",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 177.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1994-H2",
+        "lastSampleDate": "1994-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "watergate-west-b-22-sea-cliff-villas",
+      "name": "WATERGATE WEST B-22 SEA CLIFF VILLAS",
+      "county": "St. Thomas Island",
+      "population": 35,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000048",
+      "utilityName": "Watergate West B-22 Sea Cliff Villas",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000048",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "watergate-west-b-24-sea-cliff-villas",
+      "name": "WATERGATE WEST B-24 SEA CLIFF VILLAS",
+      "county": "St. Thomas Island",
+      "population": 34,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000121",
+      "utilityName": "Watergate West B-24 Sea Cliff Villas",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000121",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "plantation-manor-papaya",
+      "name": "PLANTATION MANOR- PAPAYA",
+      "county": "St. Thomas Island",
+      "population": 32,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000236",
+      "utilityName": "Plantation Manor- Papaya",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000236",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 129.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 1.903,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1994-H2",
+        "lastSampleDate": "1994-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "fort-louise-augusta-condos",
+      "name": "FORT LOUISE AUGUSTA CONDOS",
+      "county": "St. Croix Island",
+      "population": 30,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000062",
+      "utilityName": "Fort Louise Augusta Condos",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000062",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2008-H1",
+        "lastSampleDate": "2008-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "genip-gardens",
+      "name": "GENIP GARDENS",
+      "county": "St. Croix Island",
+      "population": 28,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000549",
+      "utilityName": "Genip Gardens",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000549",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "questa-verde-k-l",
+      "name": "QUESTA VERDE K-L",
+      "county": "St. Croix Island",
+      "population": 28,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000051",
+      "utilityName": "Questa Verde K-L",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000051",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "sweet-lime-village",
+      "name": "SWEET LIME VILLAGE",
+      "county": "St. Croix Island",
+      "population": 28,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000524",
+      "utilityName": "Sweet Lime Village",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000524",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 44.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "plantation-manor-banana",
+      "name": "PLANTATION MANOR- BANANA",
+      "county": "St. Thomas Island",
+      "population": 26,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI0000235",
+      "utilityName": "Plantation Manor- Banana",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI0000235",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "calabash-boom-apartments-st-john",
+      "name": "CALABASH BOOM APARTMENTS (ST. JOHN)",
+      "county": "St. John Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000329",
+      "utilityName": "Calabash Boom Apartments (St. John)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000329",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "crown-view-apts-bldg-a",
+      "name": "CROWN VIEW APTS. BLDG A",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000341",
+      "utilityName": "Crown View Apts. Bldg A",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000341",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "crown-view-apts-bldg-b",
+      "name": "CROWN VIEW APTS. BLDG B",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000342",
+      "utilityName": "Crown View Apts. Bldg B",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000342",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "flamboyant-gardens-e",
+      "name": "FLAMBOYANT GARDENS E",
+      "county": "St. Croix Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000551",
+      "utilityName": "Flamboyant Gardens E",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000551",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "flamboyant-gardens-f",
+      "name": "FLAMBOYANT GARDENS F",
+      "county": "St. Croix Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000552",
+      "utilityName": "Flamboyant Gardens F",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000552",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "flamboyant-gardens-g",
+      "name": "FLAMBOYANT GARDENS G",
+      "county": "St. Croix Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000553",
+      "utilityName": "Flamboyant Gardens G",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000553",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "flamboyant-gardens-i",
+      "name": "FLAMBOYANT GARDENS I",
+      "county": "St. Croix Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000554",
+      "utilityName": "Flamboyant Gardens I",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000554",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "flamboyant-gardens-j",
+      "name": "FLAMBOYANT GARDENS J",
+      "county": "St. Croix Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000555",
+      "utilityName": "Flamboyant Gardens J",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000555",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "magens-junction",
+      "name": "MAGENS JUNCTION",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000354",
+      "utilityName": "Magens Junction",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000354",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "patriot-manor",
+      "name": "PATRIOT MANOR",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000332",
+      "utilityName": "Patriot Manor",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000332",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "questa-verde-m-n",
+      "name": "QUESTA VERDE M-N",
+      "county": "St. Croix Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI3000050",
+      "utilityName": "Questa Verde M-N",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI3000050",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 67.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 8.645,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2007-H1",
+        "lastSampleDate": "2007-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sugar-estates-senior-residence",
+      "name": "SUGAR ESTATES SENIOR RESIDENCE",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000351",
+      "utilityName": "Sugar Estates Senior Residence",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000351",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "sunset-gardens-east",
+      "name": "SUNSET GARDENS EAST",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000343",
+      "utilityName": "Sunset Gardens East",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000343",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "water-point",
+      "name": "WATER POINT",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000345",
+      "utilityName": "Water Point",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000345",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "watergate-east-ro",
+      "name": "WATERGATE EAST - RO",
+      "county": "St. Thomas Island",
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "VI1000322",
+      "utilityName": "Watergate East - RO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=VI1000322",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    }
+  ]
+}

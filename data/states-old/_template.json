@@ -1,0 +1,111 @@
+{
+  "_comment": "TEMPLATE FILE - Rename to state slug (e.g., california.json) and populate with real data",
+  "name": "California",
+  "slug": "california",
+  "abbreviation": "CA",
+  "population": 39538223,
+  "cityCount": 482,
+  "lastUpdated": "2026-01-15",
+  "cities": [
+    {
+      "slug": "los-angeles",
+      "name": "Los Angeles",
+      "state": "California",
+      "stateAbbr": "CA",
+      "stateSlug": "california",
+      "county": "Los Angeles County",
+      "population": 3898747,
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "systems": [
+        {
+          "pwsid": "CA1910067",
+          "name": "Los Angeles Department of Water & Power",
+          "populationServed": 3900000,
+          "serviceConnectionsCount": 700000,
+          "sourceType": "Mixed",
+          "isPrimary": true,
+          "violations": [
+            {
+              "id": "V001",
+              "contaminantCode": "1040",
+              "contaminantName": "Total Coliform",
+              "violationType": "MCL",
+              "isHealthBased": true,
+              "compliancePeriodBegin": "2025-07-01",
+              "compliancePeriodEnd": "2025-09-30",
+              "enforcementAction": "Notice to Public",
+              "federalMCL": 0,
+              "measuredValue": 1
+            }
+          ],
+          "leadData": {
+            "ninetiethPercentile": 0.008,
+            "actionLevelExceedances": 0,
+            "lastSampleDate": "2025-12-15",
+            "sampleCount": 150,
+            "exceedsActionLevel": false
+          }
+        }
+      ],
+      "hardness": {
+        "value": 178,
+        "unit": "ppm",
+        "gpg": 10.4,
+        "classification": "Hard",
+        "range": {
+          "min": 26.2,
+          "max": 472.0
+        },
+        "sampleCount": 107,
+        "source": "USGS/EPA Water Quality Portal",
+        "isCountyAverage": true,
+        "countyName": "Los Angeles"
+      },
+      "lastUpdated": "2026-01-15"
+    },
+    {
+      "slug": "san-francisco",
+      "name": "San Francisco",
+      "state": "California",
+      "stateAbbr": "CA",
+      "stateSlug": "california",
+      "county": "San Francisco County",
+      "population": 873965,
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "systems": [
+        {
+          "pwsid": "CA3810001",
+          "name": "San Francisco Public Utilities Commission",
+          "populationServed": 2700000,
+          "serviceConnectionsCount": 180000,
+          "sourceType": "Surface Water",
+          "isPrimary": true,
+          "violations": [],
+          "leadData": {
+            "ninetiethPercentile": 0.003,
+            "actionLevelExceedances": 0,
+            "lastSampleDate": "2025-11-20",
+            "sampleCount": 100,
+            "exceedsActionLevel": false
+          }
+        }
+      ],
+      "hardness": {
+        "value": 25,
+        "unit": "ppm",
+        "gpg": 1.5,
+        "classification": "Soft",
+        "range": {
+          "min": 10,
+          "max": 50
+        },
+        "sampleCount": 45,
+        "source": "USGS/EPA Water Quality Portal",
+        "isCountyAverage": false
+      },
+      "lastUpdated": "2026-01-15"
+    }
+  ]
+}

@@ -1,0 +1,3477 @@
+{
+  "stateCode": "HI",
+  "stateName": "Hawaii",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "honolulu-windward-pearlharbor",
+      "name": "HONOLULU-WINDWARD-PEARLHARBOR",
+      "county": null,
+      "population": 631389,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000331",
+      "utilityName": "HNL-WINDWARD-PEARL HARBOR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000331",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "waipahu-ewa-waianae",
+      "name": "WAIPAHU-EWA-WAIANAE",
+      "county": null,
+      "population": 222735,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000335",
+      "utilityName": "WAIPAHU-EWA-WAIANAE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000335",
+      "allUtilities": [
+        "WAIPAHU-EWA-WAIANAE",
+        "BARBERS POINT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "wailuku",
+      "name": "WAILUKU",
+      "county": null,
+      "population": 74511,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "HI0000212",
+      "utilityName": "WAILUKU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000212",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "pearl-harbor",
+      "name": "PEARL HARBOR",
+      "county": null,
+      "population": 65230,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000360",
+      "utilityName": "JOINT BASE PEARL HARBOR-HICKAM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000360",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "mililani-bws",
+      "name": "MILILANI BWS",
+      "county": null,
+      "population": 50573,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000367",
+      "utilityName": "MILILANI",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000367",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hilo",
+      "name": "HILO",
+      "county": null,
+      "population": 39477,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000101",
+      "utilityName": "HILO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000101",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "schofield-barracks",
+      "name": "SCHOFIELD BARRACKS",
+      "county": "Honolulu",
+      "population": 37920,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000345",
+      "utilityName": "SCHOFIELD BARRACKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000345",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": null,
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "lihue-kapaa",
+      "name": "LIHUE-KAPAA",
+      "county": null,
+      "population": 34854,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "HI0000400",
+      "utilityName": "LIHUE-KAPAA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000400",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "wahiawa",
+      "name": "WAHIAWA",
+      "county": "Honolulu",
+      "population": 31088,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000333",
+      "utilityName": "WAHIAWA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000333",
+      "allUtilities": [
+        "KUNIA VILLAGE",
+        "CAMP STOVER",
+        "NCTAMS EASTPAC",
+        "POAMOHO",
+        "WAHIAWA"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "makawao",
+      "name": "MAKAWAO",
+      "county": null,
+      "population": 30900,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000213",
+      "utilityName": "MAKAWAO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000213",
+      "allUtilities": [
+        "MAKAWAO",
+        "BALDWIN RANCH ESTATES",
+        "HOKU'ULA WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.88,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "north-kona",
+      "name": "NORTH KONA",
+      "county": null,
+      "population": 29581,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000131",
+      "utilityName": "NORTH KONA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000131",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "lahaina",
+      "name": "LAHAINA",
+      "county": null,
+      "population": 20107,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000214",
+      "utilityName": "LAHAINA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000214",
+      "allUtilities": [
+        "LAHAINA",
+        "HONOKOHAU"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.78,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kaneohe",
+      "name": "KANEOHE",
+      "county": null,
+      "population": 16300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000356",
+      "utilityName": "MARINE CORPS BASE HAWAII",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000356",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kalaheo",
+      "name": "KALAHEO",
+      "county": null,
+      "population": 12660,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000434",
+      "utilityName": "KALAHEO-KOLOA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000434",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kula",
+      "name": "KULA",
+      "county": null,
+      "population": 12488,
+      "waterSystemCount": 4,
+      "primarySource": "Surface Water",
+      "pwsid": "HI0000215",
+      "utilityName": "UPPER KULA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000215",
+      "allUtilities": [
+        "UPPER KULA",
+        "HALEAKALA NATIONAL PARK",
+        "LOWER KULA",
+        "KULA NANI"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.09,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "waikoloa-dho",
+      "name": "WAIKOLOA (DHO)",
+      "county": null,
+      "population": 12100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000135",
+      "utilityName": "WAIKOLOA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000135",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "waipio",
+      "name": "WAIPIO",
+      "county": null,
+      "population": 11516,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000334",
+      "utilityName": "WAIPIO HEIGHTS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000334",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "waialua-haleiwa",
+      "name": "WAIALUA-HALEIWA",
+      "county": null,
+      "population": 10526,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000332",
+      "utilityName": "WAIALUA-HALEIWA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000332",
+      "allUtilities": [
+        "WAIALUA SUGAR PUMP 2",
+        "DILLINGHAM RANCH",
+        "WAIALUA-HALEIWA",
+        "VILLA ROSE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "south-kohala",
+      "name": "SOUTH KOHALA",
+      "county": null,
+      "population": 9612,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "HI0000130",
+      "utilityName": "SOUTH KOHALA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000130",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kaanapali-dho",
+      "name": "KAANAPALI (DHO)",
+      "county": null,
+      "population": 8000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000205",
+      "utilityName": "KAANAPALI",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000205",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "fort-shafter",
+      "name": "FORT SHAFTER",
+      "county": "Honolulu",
+      "population": 7067,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000341",
+      "utilityName": "FORT SHAFTER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000341",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": null,
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "princeville-dho",
+      "name": "PRINCEVILLE (DHO)",
+      "county": null,
+      "population": 6911,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000428",
+      "utilityName": "PRINCEVILLE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000428",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "south-kona",
+      "name": "SOUTH KONA",
+      "county": null,
+      "population": 6512,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000132",
+      "utilityName": "SOUTH KONA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000132",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "olaa-mtview",
+      "name": "OLAA-MT.VIEW",
+      "county": null,
+      "population": 6467,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000112",
+      "utilityName": "OLAA-MOUNTAIN VIEW",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000112",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "salt-lake",
+      "name": "SALT LAKE",
+      "county": null,
+      "population": 6406,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000337",
+      "utilityName": "ALIAMANU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000337",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kekaha-dow",
+      "name": "KEKAHA (DOW)",
+      "county": null,
+      "population": 5998,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000406",
+      "utilityName": "KEKAHA-WAIMEA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000406",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hanapepe-eleele-dow",
+      "name": "HANAPEPE-ELEELE (DOW)",
+      "county": null,
+      "population": 5592,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000404",
+      "utilityName": "HANAPEPE-ELEELE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000404",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "laie",
+      "name": "LAIE",
+      "county": null,
+      "population": 5577,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000325",
+      "utilityName": "LAIE WATER COMPANY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000325",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "moanalua",
+      "name": "MOANALUA",
+      "county": null,
+      "population": 5555,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000346",
+      "utilityName": "TRIPLER ARMY MEDICAL CNTR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000346",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hvnp-dho",
+      "name": "HVNP (DHO)",
+      "county": null,
+      "population": 5205,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000146",
+      "utilityName": "HAWAII VOLCANOES NAT.PARK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000146",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.99,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "north-kohala",
+      "name": "NORTH KOHALA",
+      "county": null,
+      "population": 4933,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000129",
+      "utilityName": "NORTH KOHALA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000129",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "sunset-beach",
+      "name": "SUNSET BEACH",
+      "county": null,
+      "population": 4916,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000366",
+      "utilityName": "WAIALEE-SUNSET BEACH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000366",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hawaiian-shores-dho",
+      "name": "HAWAIIAN SHORES DHO",
+      "county": null,
+      "population": 4906,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000117",
+      "utilityName": "HAWAIIAN BEACHES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000117",
+      "allUtilities": [
+        "HAWAIIAN BEACHES",
+        "HAWAIIAN SHORES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "haina",
+      "name": "HAINA",
+      "county": null,
+      "population": 4563,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000161",
+      "utilityName": "HAINA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000161",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kapalua-dho",
+      "name": "KAPALUA (DHO)",
+      "county": null,
+      "population": 4200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000204",
+      "utilityName": "KAPALUA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000204",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kapalama",
+      "name": "KAPALAMA",
+      "county": null,
+      "population": 4000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000319",
+      "utilityName": "KAMEHAMEHA SCHOOLS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000319",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kaunakakai",
+      "name": "KAUNAKAKAI",
+      "county": null,
+      "population": 3702,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000234",
+      "utilityName": "KAUNAKAKAI",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000234",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.77,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kona",
+      "name": "KONA",
+      "county": null,
+      "population": 3455,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000163",
+      "utilityName": "KAUPULEHU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000163",
+      "allUtilities": [
+        "KAUPULEHU",
+        "KONA WATER SERVICE COMPANY",
+        "KEOPU WATER ASSOCIATION",
+        "HAWAIIAN OCEAN VIEW ESTATES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "downtown-honolulu",
+      "name": "DOWNTOWN HONOLULU",
+      "county": null,
+      "population": 3440,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000312",
+      "utilityName": "THE QUEEN'S MEDICAL CENTER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000312",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kilauea-dow",
+      "name": "KILAUEA (DOW)",
+      "county": null,
+      "population": 3420,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000407",
+      "utilityName": "KILAUEA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000407",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "lanai",
+      "name": "LANAI",
+      "county": null,
+      "population": 3200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000237",
+      "utilityName": "LANAI CITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000237",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "waiohinu-naalehu",
+      "name": "WAIOHINU-NAALEHU",
+      "county": null,
+      "population": 2948,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000108",
+      "utilityName": "WAIOHINU-NAALEHU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000108",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kahuku",
+      "name": "KAHUKU",
+      "county": null,
+      "population": 2730,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000365",
+      "utilityName": "KAHUKU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000365",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "anahola",
+      "name": "ANAHOLA",
+      "county": null,
+      "population": 2573,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000401",
+      "utilityName": "ANAHOLA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000401",
+      "allUtilities": [
+        "ANAHOLA",
+        "MOLOAA IRRIGATION COOPERATIVE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hoolehua",
+      "name": "HOOLEHUA",
+      "county": null,
+      "population": 2400,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000230",
+      "utilityName": "HOOLEHUA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000230",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H2",
+        "lastSampleDate": "2020-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "papaikou",
+      "name": "PAPAIKOU",
+      "county": null,
+      "population": 2203,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000107",
+      "utilityName": "PAPAIKOU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000107",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "lalamilo",
+      "name": "LALAMILO",
+      "county": null,
+      "population": 1895,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000160",
+      "utilityName": "LALAMILO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000160",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "pahoa",
+      "name": "PAHOA",
+      "county": null,
+      "population": 1885,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000111",
+      "utilityName": "PAHOA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000111",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "mokuleia",
+      "name": "MOKULEIA",
+      "county": null,
+      "population": 1800,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000338",
+      "utilityName": "DILLINGHAM AIRFIELD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000338",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "pepeekeo",
+      "name": "PEPEEKEO",
+      "county": null,
+      "population": 1510,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000106",
+      "utilityName": "PEPEEKEO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000106",
+      "allUtilities": [
+        "PEPEEKEO",
+        "PEPEEKEO WATER ASSOCIATION"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "pahala",
+      "name": "PAHALA",
+      "county": null,
+      "population": 1301,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000109",
+      "utilityName": "PAHALA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000109",
+      "allUtilities": [
+        "PAHALA",
+        "WOOD VALLEY"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hana",
+      "name": "HANA",
+      "county": null,
+      "population": 1284,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000217",
+      "utilityName": "HANA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000217",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H2",
+        "lastSampleDate": "2020-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kaumakani",
+      "name": "KAUMAKANI",
+      "county": null,
+      "population": 1271,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000417",
+      "utilityName": "GAY & ROBINSON",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000417",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "pmrf-housing-dho",
+      "name": "PMRF HOUSING (DHO)",
+      "county": null,
+      "population": 1200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000430",
+      "utilityName": "PACIFIC MISSILE RANGE FACILITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000430",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "laupahoehoe",
+      "name": "LAUPAHOEHOE",
+      "county": null,
+      "population": 1169,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000102",
+      "utilityName": "LAUPAHOEHOE-KAPEHU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000102",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "ualapue",
+      "name": "UALAPUE",
+      "county": null,
+      "population": 1119,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000233",
+      "utilityName": "UALAPUE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000233",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H2",
+        "lastSampleDate": "2020-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "maunaloa-molokai",
+      "name": "MAUNALOA, MOLOKAI",
+      "county": null,
+      "population": 1000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000231",
+      "utilityName": "MAUNALOA-KALUAKOI",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000231",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kohala-joint-venture",
+      "name": "KOHALA JOINT VENTURE",
+      "county": null,
+      "population": 850,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000151",
+      "utilityName": "KOHALA RANCH WATER CO.",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000151",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 10.75,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "haena-wainiha",
+      "name": "HAENA-WAINIHA",
+      "county": null,
+      "population": 833,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000415",
+      "utilityName": "HAENA-WAINIHA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000415",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "keola-hana-hotel-dho",
+      "name": "KEOLA HANA-HOTEL DHO",
+      "county": null,
+      "population": 816,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000201",
+      "utilityName": "HANA WATER SYSTEMS - SOUTH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000201",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "paauilo",
+      "name": "PAAUILO",
+      "county": null,
+      "population": 716,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000134",
+      "utilityName": "PAAUILO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000134",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hanalei-dow",
+      "name": "HANALEI (DOW)",
+      "county": null,
+      "population": 674,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000403",
+      "utilityName": "HANALEI",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000403",
+      "allUtilities": [
+        "ANINI",
+        "HANALEI"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "honomu",
+      "name": "HONOMU",
+      "county": null,
+      "population": 645,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000105",
+      "utilityName": "HONOMU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000105",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "mahanalua-nui",
+      "name": "MAHANALUA NUI",
+      "county": null,
+      "population": 606,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000251",
+      "utilityName": "MAHANALUA NUI SUBDIVISON",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000251",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kawela",
+      "name": "KAWELA",
+      "county": null,
+      "population": 553,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000248",
+      "utilityName": "KAWELA PLANTATION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000248",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kualapuu",
+      "name": "KUALAPUU",
+      "county": null,
+      "population": 500,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000229",
+      "utilityName": "KUALAPUU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000229",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kukuihaele",
+      "name": "KUKUIHAELE",
+      "county": null,
+      "population": 483,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000133",
+      "utilityName": "KUKUIHAELE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000133",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "puuwaawaa-ranch-dho",
+      "name": "PUUWAAWAA RANCH DHO",
+      "county": null,
+      "population": 468,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000150",
+      "utilityName": "NAPUU WATER INC.",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000150",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "waipahu",
+      "name": "WAIPAHU",
+      "county": null,
+      "population": 444,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "HI0000348",
+      "utilityName": "WAIAWA CORRECTIONAL FACILITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000348",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "hakalau-wailea",
+      "name": "HAKALAU-WAILEA",
+      "county": null,
+      "population": 402,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000154",
+      "utilityName": "HAKALAU-WAILEA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000154",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "anahola-farm-lots-dho",
+      "name": "ANAHOLA FARM LOTS (DHO)",
+      "county": null,
+      "population": 385,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000432",
+      "utilityName": "ANAHOLA FARM LOTS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000432",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "makena",
+      "name": "MAKENA",
+      "county": null,
+      "population": 360,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000235",
+      "utilityName": "KALAE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000235",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2013-H2",
+        "lastSampleDate": "2013-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kahana-valley",
+      "name": "KAHANA VALLEY",
+      "county": null,
+      "population": 300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000368",
+      "utilityName": "WAIAHOLE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000368",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kalapana-dws",
+      "name": "KALAPANA (DWS)",
+      "county": null,
+      "population": 275,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000110",
+      "utilityName": "KALAPANA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000110",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "keanae-dws",
+      "name": "KEANAE (DWS)",
+      "county": null,
+      "population": 270,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000219",
+      "utilityName": "KEANAE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000219",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.74,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2013-H2",
+        "lastSampleDate": "2013-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "ookala",
+      "name": "OOKALA",
+      "county": null,
+      "population": 264,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000104",
+      "utilityName": "OOKALA (DWS)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000104",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kealia-dho",
+      "name": "KEALIA (DHO)",
+      "county": null,
+      "population": 260,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000423",
+      "utilityName": "KEALIA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000423",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "niulii",
+      "name": "NIULII",
+      "county": null,
+      "population": 254,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000139",
+      "utilityName": "NIULII",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000139",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "punaluu-dho",
+      "name": "PUNALUU (DHO)",
+      "county": null,
+      "population": 200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000114",
+      "utilityName": "PUNALU'U",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000114",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kawaihae",
+      "name": "KAWAIHAE",
+      "county": null,
+      "population": 193,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000164",
+      "utilityName": "KAWAIHAE UNIT #1",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000164",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "haiku",
+      "name": "HAIKU",
+      "county": null,
+      "population": 180,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000254",
+      "utilityName": "MAUNAOLU PLANTATION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000254",
+      "allUtilities": [
+        "WEST KUIAHA MEADOWS",
+        "MAUNAOLU PLANTATION",
+        "HAIKU TOWN WATER ASSOCIATION, INC."
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kahili-mountain-park",
+      "name": "KAHILI MOUNTAIN PARK",
+      "county": null,
+      "population": 175,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000422",
+      "utilityName": "KAHILI MOUNTAIN PARK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000422",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kauai",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kaeleku-ag-park-hana",
+      "name": "KAELEKU AG PARK HANA",
+      "county": null,
+      "population": 160,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000243",
+      "utilityName": "HANA WATER SYSTEMS - NORTH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000243",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "ninole",
+      "name": "NINOLE",
+      "county": null,
+      "population": 151,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000103",
+      "utilityName": "NINOLE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000103",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kahakuloa-homestead",
+      "name": "KAHAKULOA HOMESTEAD",
+      "county": null,
+      "population": 150,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000249",
+      "utilityName": "KAHAKULOA WATER CO.",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000249",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kalaupapa",
+      "name": "KALAUPAPA",
+      "county": null,
+      "population": 110,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000239",
+      "utilityName": "KALAUPAPA NHP",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000239",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "nahiku",
+      "name": "NAHIKU",
+      "county": null,
+      "population": 107,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000220",
+      "utilityName": "NAHIKU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000220",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "waikii-ranch-dho",
+      "name": "WAIKII RANCH (DHO)",
+      "county": null,
+      "population": 102,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000162",
+      "utilityName": "WAIKI'I RANCH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000162",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hawaii",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "olowalu",
+      "name": "OLOWALU",
+      "county": null,
+      "population": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000209",
+      "utilityName": "OLOWALU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000209",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kailua-maui",
+      "name": "KAILUA MAUI",
+      "county": null,
+      "population": 90,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000203",
+      "utilityName": "KAILUA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000203",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "haleakala",
+      "name": "HALEAKALA",
+      "county": null,
+      "population": 80,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000245",
+      "utilityName": "KIPU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000245",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 9.34,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kahuku-air-base",
+      "name": "KAHUKU AIR BASE",
+      "county": null,
+      "population": 75,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000315",
+      "utilityName": "KAHUKU AIR BASE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000315",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "honolulu",
+      "name": "HONOLULU",
+      "county": null,
+      "population": 48,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000372",
+      "utilityName": "WOODLANDS AT NUUANU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000372",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Honolulu",
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kipapa-acres-cpr",
+      "name": "KIPAPA ACRES C.P.R.",
+      "county": "Honolulu",
+      "population": 43,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000328",
+      "utilityName": "KIPAPA ACRES C.P.R.",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000328",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": null,
+        "sampleCount": 13
+      }
+    },
+    {
+      "slug": "kihei",
+      "name": "KIHEI",
+      "county": null,
+      "population": 26,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "HI0000256",
+      "utilityName": "MAUI HIGHLANDS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=HI0000256",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 21.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Maui",
+        "sampleCount": 13
+      }
+    }
+  ]
+}

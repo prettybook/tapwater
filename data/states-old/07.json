@@ -1,0 +1,410 @@
+{
+  "stateCode": "07",
+  "stateName": "07",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "sac-fox-meskwaki-in-iowa",
+      "name": "SAC & FOX (MESKWAKI) IN IOWA",
+      "county": null,
+      "population": 4765,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000003",
+      "utilityName": "SAC & FOX (MESKWAKI) IN IOWA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "omaha-tribe-pws",
+      "name": "OMAHA TRIBE PWS",
+      "county": null,
+      "population": 1800,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000007",
+      "utilityName": "OMAHA TRIBE PWS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000007",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.78,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "pender-village-of",
+      "name": "PENDER, VILLAGE OF",
+      "county": null,
+      "population": 1100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "073117308",
+      "utilityName": "PENDER, VILLAGE OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=073117308",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "emerson-village-of",
+      "name": "EMERSON, VILLAGE OF",
+      "county": null,
+      "population": 820,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "073104305",
+      "utilityName": "EMERSON, VILLAGE OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=073104305",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "winnebago-village-of",
+      "name": "WINNEBAGO, VILLAGE OF",
+      "county": null,
+      "population": 787,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000005",
+      "utilityName": "WINNEBAGO, VILLAGE OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000005",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.37,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "walthill-village-of",
+      "name": "WALTHILL, VILLAGE OF",
+      "county": null,
+      "population": 780,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "073117301",
+      "utilityName": "WALTHILL, VILLAGE OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=073117301",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "santee",
+      "name": "SANTEE",
+      "county": null,
+      "population": 630,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000004",
+      "utilityName": "SANTEE UTILITY COMMISSION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000004",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "kickapoo-tribal",
+      "name": "KICKAPOO TRIBAL",
+      "county": null,
+      "population": 520,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "070000002",
+      "utilityName": "KICKAPOO TRIBAL WATERWORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000002",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 40,
+        "healthBased": 13
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "thurston-co-rural",
+      "name": "THURSTON CO RURAL",
+      "county": null,
+      "population": 448,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "073120301",
+      "utilityName": "THURSTON CO RURAL WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=073120301",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "iowa-tribe-of-ks-ne",
+      "name": "IOWA TRIBE OF KS & NE",
+      "county": null,
+      "population": 192,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000008",
+      "utilityName": "IOWA TRIBE OF KS & NE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000008",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 39,
+        "healthBased": 3
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "winnebago-tribe-pow-wow-grounds",
+      "name": "WINNEBAGO TRIBE POW WOW GROUNDS",
+      "county": null,
+      "population": 160,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000006",
+      "utilityName": "WINNEBAGO TRIBE POW WOW GROUNDS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000006",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.53,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "winnebago-tribe-thunder-way-housing",
+      "name": "WINNEBAGO TRIBE- THUNDER WAY HOUSING",
+      "county": null,
+      "population": 160,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000010",
+      "utilityName": "WINNEBAGO TRIBE- THUNDER WAY HOUSING",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "rosalie-village-of",
+      "name": "ROSALIE, VILLAGE OF",
+      "county": null,
+      "population": 156,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "073117307",
+      "utilityName": "ROSALIE, VILLAGE OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=073117307",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "winnebago-tribe-mission-north",
+      "name": "WINNEBAGO TRIBE MISSION NORTH",
+      "county": null,
+      "population": 145,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000025",
+      "utilityName": "WINNEBAGO TRIBE MISSION NORTH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000025",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "thurston-village-of",
+      "name": "THURSTON, VILLAGE OF",
+      "county": null,
+      "population": 120,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "073117303",
+      "utilityName": "THURSTON, VILLAGE OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=073117303",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "sac-fox-missouri-river",
+      "name": "SAC & FOX - MISSOURI RIVER",
+      "county": null,
+      "population": 54,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "070000013",
+      "utilityName": "SAC & FOX - MISSOURI RIVER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=070000013",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 14,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2027-H2",
+        "lastSampleDate": "2027-12-31"
+      },
+      "hardness": null
+    }
+  ]
+}

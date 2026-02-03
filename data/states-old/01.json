@@ -1,0 +1,97 @@
+{
+  "stateCode": "01",
+  "stateName": "01",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "mohegan-tribal",
+      "name": "MOHEGAN TRIBAL",
+      "county": null,
+      "population": 31961,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "010109005",
+      "utilityName": "Mohegan Tribal Utility Authority",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=010109005",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "mashantucket-pequot",
+      "name": "MASHANTUCKET PEQUOT",
+      "county": null,
+      "population": 26445,
+      "waterSystemCount": 1,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "010106001",
+      "utilityName": "Mashantucket Pequot Water System",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=010106001",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aquinnah-wampanoag",
+      "name": "AQUINNAH WAMPANOAG",
+      "county": null,
+      "population": 89,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "010307001",
+      "utilityName": "Aquinnah Wampanoag",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=010307001",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 43,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    }
+  ]
+}

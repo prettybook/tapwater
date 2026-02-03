@@ -1,0 +1,2143 @@
+{
+  "stateCode": "DE",
+  "stateName": "Delaware",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "bear",
+      "name": "BEAR",
+      "county": null,
+      "population": 231594,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000552",
+      "utilityName": "ARTESIAN WATER COMPANY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000552",
+      "allUtilities": [
+        "ARTESIAN WATER COMPANY",
+        "ST ANDREWS SINGLE FAMILY HOMES",
+        "ST ANDREWS APARTMENTS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "hockessin",
+      "name": "HOCKESSIN",
+      "county": null,
+      "population": 231114,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "DE0000552",
+      "utilityName": "ARTESIAN WATER COMPANY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000552",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "wilmington",
+      "name": "WILMINGTON",
+      "county": null,
+      "population": 208471,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "DE0000663",
+      "utilityName": "WILMINGTON WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000663",
+      "allUtilities": [
+        "VEOLIA WATER DELAWARE, INC",
+        "WILMINGTON WATER DEPARTMENT"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.96,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "rehoboth-beach",
+      "name": "REHOBOTH BEACH",
+      "county": null,
+      "population": 109905,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000991",
+      "utilityName": "REHOBOTH PUMP DISTRICT (TUI)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000991",
+      "allUtilities": [
+        "HENLOPEN ACRES, TOWN OF",
+        "SILVER VIEW FARM",
+        "PINE VALLEY MOBILE HOME PARK",
+        "REHOBOTH BAY COMMUNITY",
+        "REHOBOTH BEACH WATER DEPARTMENT",
+        "REHOBOTH PUMP DISTRICT (TUI)",
+        "SEAGLASS AT REHOBOTH BEACH"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.58,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "new-castle",
+      "name": "NEW CASTLE",
+      "county": null,
+      "population": 107343,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000564",
+      "utilityName": "VEOLIA WATER DELAWARE, INC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000564",
+      "allUtilities": [
+        "VEOLIA WATER DELAWARE, INC",
+        "MUNICIPAL SERVICES COMMISSION",
+        "GLASGOW PINES II",
+        "HUNTERS RUN",
+        "KINGSMILL"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "millville",
+      "name": "MILLVILLE",
+      "county": null,
+      "population": 51115,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000221",
+      "utilityName": "BETHANY BAY PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000221",
+      "allUtilities": [
+        "BETHANY BAY PUMP DISTRICT",
+        "BETHANY CREST LLC"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 3
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.32,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "dover",
+      "name": "DOVER",
+      "county": null,
+      "population": 42916,
+      "waterSystemCount": 9,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000571",
+      "utilityName": "DOVER WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000571",
+      "allUtilities": [
+        "HUNTERS POINTE PUMP DISTRICT",
+        "VOSHELLS COVE PUMP DISTRICT",
+        "WILLOW TREE PROPERTIES LLC",
+        "KITTS HUMMOCK IMPROVEMENT ASSOC",
+        "LAKELAND/BEECHWOOD PUMP DISTRICT",
+        "DOVER WATER DEPARTMENT",
+        "VILLAGE OF GRANDVIEW",
+        "DOVER AIR PARK",
+        "WEST DOVER PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.94,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "bethany-beach",
+      "name": "BETHANY BEACH",
+      "county": null,
+      "population": 42465,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0323",
+      "utilityName": "ARTESIAN SOUTHERN SUSSEX REGIONAL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0323",
+      "allUtilities": [
+        "BETHANY BEACH WATER DEPARTMENT",
+        "SUSSEX SHORES WATER COMPANY",
+        "ARTESIAN SOUTHERN SUSSEX REGIONAL"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.14,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "newark",
+      "name": "NEWARK",
+      "county": null,
+      "population": 40338,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000630",
+      "utilityName": "NEWARK WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000630",
+      "allUtilities": [
+        "NEWARK WATER DEPARTMENT",
+        "ASCOT LANDING SUBDIVISION"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "dewey-beach",
+      "name": "DEWEY BEACH",
+      "county": null,
+      "population": 31078,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000825",
+      "utilityName": "DEWEY BEACH WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000825",
+      "allUtilities": [
+        "CHERRY CREEK VALLEY",
+        "DEWEY BEACH WATER DEPARTMENT"
+      ],
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.02,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "middletown",
+      "name": "MIDDLETOWN",
+      "county": null,
+      "population": 29608,
+      "waterSystemCount": 10,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000614",
+      "utilityName": "MIDDLETOWN WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000614",
+      "allUtilities": [
+        "MT PLEASANT MHP, LLC",
+        "SUMMIT POND PUMP DISTRICT",
+        "MIDDLETOWN WATER DEPARTMENT",
+        "PONDS OF ODESSA (AWC)",
+        "WILLOW GROVE MILL",
+        "PARKSIDE",
+        "DOVE RUN",
+        "VILLAGEBROOK",
+        "NORTH WEST PUMP DISTRICT",
+        "SOUTH EAST PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.2,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "smyrna",
+      "name": "SMYRNA",
+      "county": null,
+      "population": 28555,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000004",
+      "utilityName": "GARRISON LAKE PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000004",
+      "allUtilities": [
+        "GARRISON LAKE PUMP DISTRICT",
+        "DELAWARE CORRECTIONAL CENTER",
+        "SMYRNA WATER DEPARTMENT",
+        "HEDGEROW HOLLOW",
+        "WOODLAND TRAILER COURT",
+        "EVERGREEN POST ACUTE",
+        "HOLLY HILL ESTATES"
+      ],
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.29,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "camden-wyoming",
+      "name": "CAMDEN-WYOMING",
+      "county": null,
+      "population": 23446,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000124",
+      "utilityName": "CAMDEN PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000124",
+      "allUtilities": [
+        "CAMDEN PUMP DISTRICT",
+        "WOODS EDGE MOBILE HOME PARK",
+        "LAW MOBILE HOME PARK",
+        "CAMDEN WYOMING SEWER AND WATER AUTHORITY",
+        "PONDS OF WILLOW GROVE",
+        "WILD QUAIL PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.47,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "millsboro",
+      "name": "MILLSBORO",
+      "county": null,
+      "population": 22633,
+      "waterSystemCount": 13,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000625",
+      "utilityName": "LONG NECK WATER COMPANY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000625",
+      "allUtilities": [
+        "ENCHANTED ACRES MHC LLC",
+        "HOMESTEAD PARK",
+        "COLONIAL ESTATES MOBILE HOME PARK",
+        "CAREY ESTATES, LLC",
+        "FOREST PARK",
+        "MILLSBORO WATER DEPARTMENT",
+        "COUNTRY LIVING MOBILE COURT",
+        "LONG NECK WATER COMPANY",
+        "SHAWNS HIDEAWAY SYSTEM #1",
+        "INGRAMS POINT (AWC)",
+        "LONG NECK VILLAGE",
+        "WOODLANDS OF MILLSBORO PUMP DISTRICT",
+        "BAYWOOD GREENS"
+      ],
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.74,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "lewes",
+      "name": "LEWES",
+      "county": null,
+      "population": 17498,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000602",
+      "utilityName": "LEWES BOARD OF PUBLIC WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000602",
+      "allUtilities": [
+        "LEWES BOARD OF PUBLIC WORKS",
+        "LOVE CREEK PARK",
+        "ANGOLA BEACH ESTATES",
+        "ANGOLA CREST II",
+        "TALL PINES RESORT COMMUNITY SYS1",
+        "TALL PINES RESORT COMMUNITY SYS2",
+        "ARTESIAN NORTHERN SUSSEX REGIONAL"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.52,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "milford",
+      "name": "MILFORD",
+      "county": null,
+      "population": 13907,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000616",
+      "utilityName": "MILFORD WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000616",
+      "allUtilities": [
+        "BROADKILN BEACH WATER COMPANY (TUI)",
+        "MILFORD WATER DEPARTMENT",
+        "SOUTH SHORES (TUI)",
+        "DEER MEADOWS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.82,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "fenwick-island",
+      "name": "FENWICK ISLAND",
+      "county": null,
+      "population": 12264,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0837",
+      "utilityName": "BAYSIDE PUMP DISTRICT (TUI)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0837",
+      "allUtilities": [
+        "CAPE WINDSOR COMMUNITY ASSOCIATION INC",
+        "SWANN KEYS",
+        "MALLARD LAKES",
+        "BAYSIDE PUMP DISTRICT (TUI)"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.16,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2032-H2",
+        "lastSampleDate": "2032-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "magnolia",
+      "name": "MAGNOLIA",
+      "county": null,
+      "population": 11474,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0428",
+      "utilityName": "CHURCH CREEK (AWC)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0428",
+      "allUtilities": [
+        "MAGNOLIA WATER DEPARTMENT",
+        "GRANADA MOBILE HOME COURT",
+        "SOUTHWOOD ACRES PUMP DISTRICT",
+        "MISTY PINES PUMP DISTRICT",
+        "CHURCH CREEK (AWC)",
+        "BARKERS LANDING"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.77,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "seaford",
+      "name": "SEAFORD",
+      "county": null,
+      "population": 11349,
+      "waterSystemCount": 14,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000246",
+      "utilityName": "SEAFORD WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000246",
+      "allUtilities": [
+        "UPCOUNTRY MANUFACTURED HOME COMMUNITY",
+        "DOVE ESTATES",
+        "HOLLY VIEW MOBILE HOME PARK",
+        "SEAFORD WATER DEPARTMENT",
+        "TODDS MOBILE COURT",
+        "PINE RIDGE MOBILE HOME PARK",
+        "SUSSEX MANOR MOBILE HOME PARK",
+        "SCOTTSDALE MOBILE HOME PARK",
+        "LAKESIDE HOME LLC",
+        "MOBILE GARDENS I",
+        "BLADES, TOWN OF",
+        "CLEARBROOKE ESTATES PUMP DISTRICT",
+        "GREEN ACRES PUMP DISTRICT",
+        "HOME TOWN VILLAGE OF COOL BRANCH"
+      ],
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.92,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "dover-afb",
+      "name": "DOVER AFB",
+      "county": null,
+      "population": 11000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000579",
+      "utilityName": "DOVER AIR FORCE BASE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000579",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "georgetown",
+      "name": "GEORGETOWN",
+      "county": null,
+      "population": 9610,
+      "waterSystemCount": 10,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000592",
+      "utilityName": "GEORGETOWN WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000592",
+      "allUtilities": [
+        "SAND HILL ACRES",
+        "FISH HOOK MOBILE HOME PARK",
+        "STOCKLEY CENTER",
+        "GEORGETOWN WATER DEPARTMENT",
+        "AVALON WOODS OWNERS ASSOC INC",
+        "COUNTY SEAT GARDENS",
+        "SAND HILL MOBILE HOME PARK",
+        "COUNTRY CLUB VILLAGE (TUI)",
+        "BLUE HERON ESTATES",
+        "WILLOW LAKE PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.97,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 2.648,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "clayton",
+      "name": "CLAYTON",
+      "county": null,
+      "population": 7014,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0673",
+      "utilityName": "ARTESIAN NORTHERN KENT REGIONAL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0673",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "odessa",
+      "name": "ODESSA",
+      "county": null,
+      "population": 5730,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0334",
+      "utilityName": "EAST NCC DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0334",
+      "allUtilities": [
+        "EAST NCC DISTRICT",
+        "DRAWYERS CREEK PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.02,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "laurel",
+      "name": "LAUREL",
+      "county": null,
+      "population": 5674,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000597",
+      "utilityName": "LAUREL WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000597",
+      "allUtilities": [
+        "LAUREL VILLAGE MOBILE HOME PARK",
+        "BRIARWOOD MANOR MHP",
+        "LAUREL WATER DEPARTMENT",
+        "SHADY ACRES MOBILE HOME PARK",
+        "LAUREL PUMP DISTRICT",
+        "SANDY RIDGE PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.06,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "bridgeville",
+      "name": "BRIDGEVILLE",
+      "county": null,
+      "population": 4408,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000559",
+      "utilityName": "BRIDGEVILLE WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000559",
+      "allUtilities": [
+        "BRIDGEVILLE MALL (TUI)",
+        "PLEASANT ACRES, LLC",
+        "BRIDGEVILLE WATER DEPARTMENT",
+        "BRIDGEVILLE PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.11,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "milton",
+      "name": "MILTON",
+      "county": null,
+      "population": 4340,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000629",
+      "utilityName": "MILTON WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000629",
+      "allUtilities": [
+        "MILTON WATER DEPARTMENT",
+        "THE VINES OF SANDHILL (AWC)",
+        "TEAL POINT (TUI)",
+        "GRANTS WAY PUMP DISTRICT (TUI)",
+        "BRUMBLEY'S FAMILY PARK"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.88,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "harrington",
+      "name": "HARRINGTON",
+      "county": null,
+      "population": 3875,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000126",
+      "utilityName": "HARRINGTON WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000126",
+      "allUtilities": [
+        "HARRINGTON WATER DEPARTMENT",
+        "MESSICK'S MHC LLC SYSTEM 2",
+        "MESSICK'S MHC LLC SYSTEM 3",
+        "MESSICK'S MHC LLC SYSTEM 4",
+        "MESSICK'S MHC LLC SYSTEM 5",
+        "MESSICK'S MHC LLC SYSTEM 6"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.86,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "selbyville",
+      "name": "SELBYVILLE",
+      "county": null,
+      "population": 3502,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000654",
+      "utilityName": "SELBYVILLE WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000654",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "cheswold",
+      "name": "CHESWOLD",
+      "county": null,
+      "population": 3318,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0740",
+      "utilityName": "BURTONWOOD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0740",
+      "allUtilities": [
+        "STRIMEL'S MHP LLC.",
+        "PINEWOOD ACRES",
+        "BLANTON'S MANUFACTURED HOME COMMUNITY",
+        "FOX POINTE SUBDIVISION",
+        "BURTONWOOD"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.16,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "delmar",
+      "name": "DELMAR",
+      "county": null,
+      "population": 2756,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000567",
+      "utilityName": "DELMAR UTILITY COMM  (TN OF DELMAR)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000567",
+      "allUtilities": [
+        "DELMAR UTILITY COMM  (TN OF DELMAR)",
+        "HOLLY OAK MOBILE HOME PARK",
+        "STAGE VILLAGE MHC",
+        "COUNTRY GROVE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.72,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "delaware-city",
+      "name": "DELAWARE CITY",
+      "county": null,
+      "population": 2610,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000566",
+      "utilityName": "DELAWARE CITY WATER DEPARTMENT (AWC)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000566",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "felton",
+      "name": "FELTON",
+      "county": null,
+      "population": 2543,
+      "waterSystemCount": 8,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000580",
+      "utilityName": "FELTON WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000580",
+      "allUtilities": [
+        "SERENITY MANOR ESTATES",
+        "LAKE FOREST ESTATES",
+        "J & J MHP",
+        "FELTON WATER DEPARTMENT",
+        "FLYING DUTCHMAN MOBILE HOME PARK 2",
+        "FLYING DUTCHMAN MOBILE HOME PARK 3",
+        "CANTERBURY CROSSING PUMP DISTRICT",
+        "PARADISE ESTATES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "dagsboro",
+      "name": "DAGSBORO",
+      "county": null,
+      "population": 2233,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0799",
+      "utilityName": "DAGSBORO WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0799",
+      "allUtilities": [
+        "INDIAN RIVER ACRES PUMP DISTRICT",
+        "HOLIDAY ACRES, LLC",
+        "PEPPER CREEK DISTRICT (TUI)",
+        "POINT FARM",
+        "SEA WINDS PUMP DISTRICT",
+        "GANDER WOODS PUMP DISTRICT",
+        "DAGSBORO WATER DEPT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.92,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "frederica",
+      "name": "FREDERICA",
+      "county": null,
+      "population": 1811,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000587",
+      "utilityName": "FREDERICA WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000587",
+      "allUtilities": [
+        "FREDERICA WATER DEPARTMENT",
+        "FREDERICA PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.31,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "ellendale",
+      "name": "ELLENDALE",
+      "county": null,
+      "population": 1379,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0020052",
+      "utilityName": "INGRAM VILLAGE (AWC)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0020052",
+      "allUtilities": [
+        "NEW MARKET VILLAGE",
+        "SHADY OAK TRAILER COURT",
+        "INGRAM VILLAGE (AWC)",
+        "CAPTAIN'S WAY",
+        "GREATER ELLENDALE WATER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.2,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "greenwood",
+      "name": "GREENWOOD",
+      "county": null,
+      "population": 1088,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000558",
+      "utilityName": "GREENWOOD WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000558",
+      "allUtilities": [
+        "COUNTRY REST HOME",
+        "GREENWOOD WATER DEPARTMENT",
+        "GREENWOOD COUNTRY RETIREMENT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "lincoln",
+      "name": "LINCOLN",
+      "county": null,
+      "population": 1077,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000254",
+      "utilityName": "CEDAR VILLAGE LLC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000254",
+      "allUtilities": [
+        "CEDAR VILLAGE LLC",
+        "EDS MOBILE HOME PARK",
+        "CROSSWINDS MHP, LLC",
+        "MEADOWS AT CUBBAGE POND"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 3
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.81,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "ocean-view",
+      "name": "OCEAN VIEW",
+      "county": null,
+      "population": 1040,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000252",
+      "utilityName": "BAYSHORE MOBILE HOME PARK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000252",
+      "allUtilities": [
+        "BAYSHORE MOBILE HOME PARK",
+        "QUILLENS POINT",
+        "CEDAR LANDING"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.38,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "frankford",
+      "name": "FRANKFORD",
+      "county": null,
+      "population": 932,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0020119",
+      "utilityName": "FRIENDSHIP CREEK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0020119",
+      "allUtilities": [
+        "PEPPER RIDGE PARK",
+        "COUNTRYSIDE HAMLET",
+        "FRIENDSHIP CREEK",
+        "SYCAMORE CHASE (AWC)"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.23,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "slaughter-beach",
+      "name": "SLAUGHTER BEACH",
+      "county": null,
+      "population": 846,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0002618",
+      "utilityName": "SLAUGHTER BEACH PWS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0002618",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H1",
+        "lastSampleDate": "2023-06-30"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "winterthur",
+      "name": "WINTERTHUR",
+      "county": null,
+      "population": 687,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000503",
+      "utilityName": "WINTERTHUR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000503",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 12.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "kenton",
+      "name": "KENTON",
+      "county": null,
+      "population": 618,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0868",
+      "utilityName": "KENTON PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0868",
+      "allUtilities": [
+        "TWIN MAPLES TRAILER PARK",
+        "WHITE OAK SUBDIVISION",
+        "KENTON PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "harbeson",
+      "name": "HARBESON",
+      "county": null,
+      "population": 432,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000220",
+      "utilityName": "HUNTER MILL ESTATES PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000220",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 45.2,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sussex",
+        "sampleCount": 2409
+      }
+    },
+    {
+      "slug": "hartly",
+      "name": "HARTLY",
+      "county": null,
+      "population": 420,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000960",
+      "utilityName": "FOREST GROVE PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000960",
+      "allUtilities": [
+        "HARTLY MOBILE HOME PARK",
+        "FOREST GROVE PUMP DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.94,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "little-creek",
+      "name": "LITTLE CREEK",
+      "county": null,
+      "population": 399,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000118",
+      "utilityName": "COOPER FARM PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000118",
+      "allUtilities": [
+        "COOPER FARM PUMP DISTRICT",
+        "OAK GROVE ESTATES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.62,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "port-penn",
+      "name": "PORT PENN",
+      "county": null,
+      "population": 214,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000553",
+      "utilityName": "BAYVIEW IMPROVEMENT COMPANY (AWC)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000553",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "townsend",
+      "name": "TOWNSEND",
+      "county": null,
+      "population": 204,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000007",
+      "utilityName": "FREDERICK LODGE PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000007",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "bowers-beach",
+      "name": "BOWERS BEACH",
+      "county": null,
+      "population": 129,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000309",
+      "utilityName": "FISHERMANS VILLAGE (TUI)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000309",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.2,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "marydel",
+      "name": "MARYDEL",
+      "county": null,
+      "population": 123,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE00A0411",
+      "utilityName": "LONG FARM ESTATES PUMP DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE00A0411",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "rising-sun",
+      "name": "RISING SUN",
+      "county": null,
+      "population": 65,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000560",
+      "utilityName": "HILLTOP TRAILER PARK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000560",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "montchanin",
+      "name": "MONTCHANIN",
+      "county": null,
+      "population": 60,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000399",
+      "utilityName": "CARPENTERS ROW",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000399",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 109.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "New Castle",
+        "sampleCount": 3040
+      }
+    },
+    {
+      "slug": "lebanon",
+      "name": "LEBANON",
+      "county": null,
+      "population": 54,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000574",
+      "utilityName": "MARANATHA COURT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000574",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    },
+    {
+      "slug": "viola",
+      "name": "VIOLA",
+      "county": null,
+      "population": 50,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "DE0000129",
+      "utilityName": "COUNTRYSIDE ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=DE0000129",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 60.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Kent",
+        "sampleCount": 1569
+      }
+    }
+  ]
+}

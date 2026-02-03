@@ -1,0 +1,808 @@
+{
+  "stateCode": "GU",
+  "stateName": "Guam",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "adelup",
+      "name": "ADELUP",
+      "county": null,
+      "population": 296070,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": [
+        "GWA CENTRAL WATER SYSTEM",
+        "GWA NORTHERN WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 175.059,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "agana-heights",
+      "name": "AGANA HEIGHTS",
+      "county": null,
+      "population": 296070,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": [
+        "GWA CENTRAL WATER SYSTEM",
+        "GWA NORTHERN WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 175.059,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "anigua",
+      "name": "ANIGUA",
+      "county": null,
+      "population": 296070,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": [
+        "GWA CENTRAL WATER SYSTEM",
+        "GWA NORTHERN WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 175.059,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "asan",
+      "name": "ASAN",
+      "county": null,
+      "population": 296070,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": [
+        "GWA CENTRAL WATER SYSTEM",
+        "GWA NORTHERN WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 175.059,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "pigo",
+      "name": "PIGO",
+      "county": null,
+      "population": 296070,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": [
+        "GWA CENTRAL WATER SYSTEM",
+        "GWA NORTHERN WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 175.059,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "talofofo",
+      "name": "TALOFOFO",
+      "county": null,
+      "population": 280473,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": [
+        "GWA SOUTHERN WATER SYSTEM",
+        "GWA NORTHERN WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.47,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 167.58,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "adacao",
+      "name": "ADACAO",
+      "county": null,
+      "population": 274672,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 170.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "dededo",
+      "name": "DEDEDO",
+      "county": null,
+      "population": 274672,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 170.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "tamuning",
+      "name": "TAMUNING",
+      "county": null,
+      "population": 274672,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 170.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "tumon",
+      "name": "TUMON",
+      "county": null,
+      "population": 274672,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000006",
+      "utilityName": "GWA NORTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000006",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 170.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "apra-heights",
+      "name": "APRA HEIGHTS",
+      "county": null,
+      "population": 34178,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000003",
+      "utilityName": "GWA CENTRAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000003",
+      "allUtilities": [
+        "GWA CENTRAL WATER SYSTEM",
+        "U.S. NAVY WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.85,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 240.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "agat",
+      "name": "AGAT",
+      "county": null,
+      "population": 21398,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000003",
+      "utilityName": "GWA CENTRAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 240.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "piti",
+      "name": "PITI",
+      "county": null,
+      "population": 21398,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000003",
+      "utilityName": "GWA CENTRAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 240.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "santa-rita",
+      "name": "SANTA RITA",
+      "county": null,
+      "population": 21398,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000003",
+      "utilityName": "GWA CENTRAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 240.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guam-naval-facility",
+      "name": "GUAM NAVAL FACILITY",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guam-naval-magazine",
+      "name": "GUAM NAVAL MAGAZINE",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guam-naval-regional-medical-ce",
+      "name": "GUAM NAVAL REGIONAL MEDICAL CE",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guam-naval-ship-repair-facilit",
+      "name": "GUAM NAVAL SHIP REPAIR FACILIT",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guam-naval-station",
+      "name": "GUAM NAVAL STATION",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guam-naval-supply-depot",
+      "name": "GUAM NAVAL SUPPLY DEPOT",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "naval-communications-area-mast",
+      "name": "NAVAL COMMUNICATIONS AREA MAST",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "north-tipalao",
+      "name": "NORTH TIPALAO",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "south-tipalao",
+      "name": "SOUTH TIPALAO",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sumay",
+      "name": "SUMAY",
+      "county": null,
+      "population": 12780,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000010",
+      "utilityName": "U.S. NAVY WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "andersen-air-force-base",
+      "name": "ANDERSEN AIR FORCE BASE",
+      "county": "Guam",
+      "population": 7700,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "GU0000009",
+      "utilityName": "ANDERSEN AIR FORCE BASE WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000009",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.85,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "unatac",
+      "name": "UNATAC",
+      "county": null,
+      "population": 5801,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "GU0000001",
+      "utilityName": "GWA SOUTHERN WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=GU0000001",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.83,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 53.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    }
+  ]
+}

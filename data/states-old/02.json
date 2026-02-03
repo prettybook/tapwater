@@ -1,0 +1,217 @@
+{
+  "stateCode": "02",
+  "stateName": "02",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "saint-regis-mohawk-tribe",
+      "name": "SAINT REGIS MOHAWK TRIBE",
+      "county": null,
+      "population": 5500,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "020000005",
+      "utilityName": "SAINT REGIS MOHAWK TRIBE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=020000005",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cattaraugus-cws",
+      "name": "CATTARAUGUS CWS",
+      "county": null,
+      "population": 4999,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "020000008",
+      "utilityName": "CATTARAUGUS CWS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=020000008",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "onondaga-nation-ws",
+      "name": "ONONDAGA NATION WS",
+      "county": null,
+      "population": 1200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "020000012",
+      "utilityName": "ONONDAGA NATION WS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=020000012",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 18,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "jimmersontown-ws",
+      "name": "JIMMERSONTOWN WS",
+      "county": null,
+      "population": 296,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "020000001",
+      "utilityName": "JIMMERSONTOWN WS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=020000001",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "steamburg-ws",
+      "name": "STEAMBURG WS",
+      "county": null,
+      "population": 288,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "020000004",
+      "utilityName": "STEAMBURG WS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=020000004",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sullivan-hollow",
+      "name": "SULLIVAN HOLLOW",
+      "county": null,
+      "population": 64,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "020000016",
+      "utilityName": "SULLIVAN HOLLOW",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=020000016",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "shelton-trailer-park",
+      "name": "SHELTON TRAILER PARK",
+      "county": null,
+      "population": 40,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "020011102",
+      "utilityName": "SHELTON TRAILER PARK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=020011102",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    }
+  ]
+}

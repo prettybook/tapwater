@@ -1,0 +1,2167 @@
+{
+  "stateCode": "05",
+  "stateName": "05",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "mt-pleasant",
+      "name": "MT. PLEASANT",
+      "county": null,
+      "population": 10198,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293201",
+      "utilityName": "MT. PLEASANT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293201",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "east-bay",
+      "name": "EAST BAY",
+      "county": null,
+      "population": 7284,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293603",
+      "utilityName": "EAST BAY WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293603",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "prairie-island",
+      "name": "PRAIRIE ISLAND",
+      "county": null,
+      "population": 6699,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294502",
+      "utilityName": "PRAIRIE ISLAND",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294502",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hannahville-community",
+      "name": "HANNAHVILLE COMMUNITY",
+      "county": null,
+      "population": 4391,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293611",
+      "utilityName": "HANNAHVILLE COMMUNITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293611",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "oneida-1-or-site-1",
+      "name": "ONEIDA #1 OR SITE #1",
+      "county": null,
+      "population": 4322,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295703",
+      "utilityName": "ONEIDA #1 OR SITE #1",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295703",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "vineland",
+      "name": "VINELAND",
+      "county": null,
+      "population": 4220,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294301",
+      "utilityName": "VINELAND",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294301",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.96,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "lower-sioux",
+      "name": "LOWER SIOUX",
+      "county": null,
+      "population": 4000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294503",
+      "utilityName": "LOWER SIOUX",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294503",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "keshena",
+      "name": "KESHENA",
+      "county": null,
+      "population": 3960,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295508",
+      "utilityName": "KESHENA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295508",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.65,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "lac-du-flambeau",
+      "name": "LAC DU FLAMBEAU",
+      "county": null,
+      "population": 3168,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295401",
+      "utilityName": "LAC DU FLAMBEAU",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295401",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.69,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "dry-town",
+      "name": "DRY TOWN",
+      "county": null,
+      "population": 3030,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295310",
+      "utilityName": "DRY TOWN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295310",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "south-central",
+      "name": "SOUTH-CENTRAL",
+      "county": null,
+      "population": 2805,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295003",
+      "utilityName": "SOUTH-CENTRAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "little-river-tribal",
+      "name": "LITTLE RIVER TRIBAL",
+      "county": null,
+      "population": 2802,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293702",
+      "utilityName": "LITTLE RIVER TRIBAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293702",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sand-pillow",
+      "name": "SAND PILLOW",
+      "county": null,
+      "population": 2746,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295011",
+      "utilityName": "SAND PILLOW",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295011",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "vermilion",
+      "name": "VERMILION",
+      "county": null,
+      "population": 2486,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294402",
+      "utilityName": "VERMILION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294402",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "peshawbestown",
+      "name": "PESHAWBESTOWN",
+      "county": null,
+      "population": 2135,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293601",
+      "utilityName": "PESHAWBESTOWN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293601",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "redbyred-lake",
+      "name": "REDBY/RED LAKE",
+      "county": null,
+      "population": 2099,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294602",
+      "utilityName": "REDBY/RED LAKE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294602",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "northside",
+      "name": "NORTHSIDE",
+      "county": null,
+      "population": 2086,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294214",
+      "utilityName": "NORTHSIDE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294214",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "red-cliff-north",
+      "name": "RED CLIFF NORTH",
+      "county": null,
+      "population": 2080,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295802",
+      "utilityName": "RED CLIFF NORTH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295802",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cex-ha-ci",
+      "name": "CEX' HA CI",
+      "county": null,
+      "population": 2002,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295015",
+      "utilityName": "CEX' HA CI",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295015",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "upper-sioux-community",
+      "name": "UPPER SIOUX COMMUNITY",
+      "county": null,
+      "population": 1900,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294902",
+      "utilityName": "UPPER SIOUX COMMUNITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294902",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 39,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 13.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "new-odanah",
+      "name": "NEW ODANAH",
+      "county": null,
+      "population": 1839,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295102",
+      "utilityName": "NEW ODANAH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295102",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 17,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.91,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "lac-vieux-desert",
+      "name": "LAC VIEUX DESERT",
+      "county": null,
+      "population": 1740,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293401",
+      "utilityName": "LAC VIEUX DESERT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293401",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hertel-west",
+      "name": "HERTEL WEST",
+      "county": null,
+      "population": 1281,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295902",
+      "utilityName": "HERTEL WEST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295902",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "mole-lake",
+      "name": "MOLE LAKE",
+      "county": null,
+      "population": 1260,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295601",
+      "utilityName": "MOLE LAKE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295601",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 39,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "neopit",
+      "name": "NEOPIT",
+      "county": null,
+      "population": 1162,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295510",
+      "utilityName": "NEOPIT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295510",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "acorn-trail",
+      "name": "ACORN TRAIL",
+      "county": null,
+      "population": 1090,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293304",
+      "utilityName": "ACORN TRAIL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293304",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.92,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "bay-mills",
+      "name": "BAY MILLS",
+      "county": null,
+      "population": 857,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293101",
+      "utilityName": "BAY MILLS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293101",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "stone-lake-community",
+      "name": "STONE LAKE COMMUNITY",
+      "county": null,
+      "population": 851,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295201",
+      "utilityName": "STONE LAKE COMMUNITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295201",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 14,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "grand-portage",
+      "name": "GRAND PORTAGE",
+      "county": null,
+      "population": 820,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "055294101",
+      "utilityName": "GRAND PORTAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294101",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 280,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 30.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ridgeland",
+      "name": "RIDGELAND",
+      "county": null,
+      "population": 691,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295704",
+      "utilityName": "RIDGELAND",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295704",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "carter-community",
+      "name": "CARTER COMMUNITY",
+      "county": null,
+      "population": 634,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295205",
+      "utilityName": "CARTER COMMUNITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295205",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "naytahwaush",
+      "name": "NAYTAHWAUSH",
+      "county": null,
+      "population": 462,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294701",
+      "utilityName": "NAYTAHWAUSH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294701",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "regional-drinking",
+      "name": "REGIONAL DRINKING",
+      "county": null,
+      "population": 434,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294804",
+      "utilityName": "REGIONAL DRINKING WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294804",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hinckley",
+      "name": "HINCKLEY",
+      "county": null,
+      "population": 400,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294305",
+      "utilityName": "HINCKLEY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294305",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "white-earth",
+      "name": "WHITE EARTH",
+      "county": null,
+      "population": 388,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294704",
+      "utilityName": "WHITE EARTH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294704",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.79,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "nett-lake",
+      "name": "NETT LAKE",
+      "county": null,
+      "population": 386,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294401",
+      "utilityName": "NETT LAKE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294401",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.98,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ponemah",
+      "name": "PONEMAH",
+      "county": null,
+      "population": 371,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294603",
+      "utilityName": "PONEMAH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294603",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 46,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "zeba",
+      "name": "ZEBA",
+      "county": null,
+      "population": 350,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "055293302",
+      "utilityName": "ZEBA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293302",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ball-club",
+      "name": "BALL CLUB",
+      "county": null,
+      "population": 333,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294201",
+      "utilityName": "BALL CLUB",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294201",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.44,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "birch-hill",
+      "name": "BIRCH HILL",
+      "county": null,
+      "population": 322,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295103",
+      "utilityName": "BIRCH HILL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295103",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 20,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "middle-village",
+      "name": "MIDDLE VILLAGE",
+      "county": null,
+      "population": 310,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295507",
+      "utilityName": "MIDDLE VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295507",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "pine-creek-reservation",
+      "name": "PINE CREEK RESERVATION",
+      "county": null,
+      "population": 279,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293901",
+      "utilityName": "PINE CREEK RESERVATION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293901",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "franks-field",
+      "name": "FRANKS FIELD",
+      "county": null,
+      "population": 242,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295104",
+      "utilityName": "FRANKS FIELD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295104",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 11,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hessel",
+      "name": "HESSEL",
+      "county": null,
+      "population": 240,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293504",
+      "utilityName": "HESSEL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293504",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ho-chunk-village",
+      "name": "HO CHUNK VILLAGE",
+      "county": null,
+      "population": 196,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295013",
+      "utilityName": "HO CHUNK VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295013",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "inger",
+      "name": "INGER",
+      "county": null,
+      "population": 186,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294204",
+      "utilityName": "INGER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294204",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "new-post",
+      "name": "NEW POST",
+      "county": null,
+      "population": 150,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295301",
+      "utilityName": "NEW POST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295301",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "manistique",
+      "name": "MANISTIQUE",
+      "county": null,
+      "population": 147,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293501",
+      "utilityName": "MANISTIQUE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293501",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "maple-plain",
+      "name": "MAPLE PLAIN",
+      "county": null,
+      "population": 144,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295901",
+      "utilityName": "MAPLE PLAIN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295901",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ho-chunk-che-nunk",
+      "name": "HO-CHUNK CHE-NUNK",
+      "county": null,
+      "population": 132,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295016",
+      "utilityName": "HO-CHUNK CHE-NUNK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295016",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "indian-heights",
+      "name": "INDIAN HEIGHTS",
+      "county": null,
+      "population": 126,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295012",
+      "utilityName": "INDIAN HEIGHTS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295012",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "bena",
+      "name": "BENA",
+      "county": null,
+      "population": 112,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294202",
+      "utilityName": "BENA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294202",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "plantation",
+      "name": "PLANTATION",
+      "county": null,
+      "population": 105,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294205",
+      "utilityName": "PLANTATION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294205",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "red-wing",
+      "name": "RED WING",
+      "county": null,
+      "population": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295505",
+      "utilityName": "RED WING",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295505",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "zoar",
+      "name": "ZOAR",
+      "county": null,
+      "population": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295509",
+      "utilityName": "ZOAR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295509",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.45,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ridge-road",
+      "name": "RIDGE ROAD",
+      "county": null,
+      "population": 99,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294802",
+      "utilityName": "RIDGE ROAD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294802",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "wah-wahs-noo-da-ke",
+      "name": "WAH WAHS NOO DA KE",
+      "county": null,
+      "population": 99,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293801",
+      "utilityName": "WAH WAHS NOO DA KE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293801",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ponsfordpine-point",
+      "name": "PONSFORD/PINE POINT",
+      "county": null,
+      "population": 85,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294702",
+      "utilityName": "PONSFORD/PINE POINT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294702",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "palmquist",
+      "name": "PALMQUIST",
+      "county": null,
+      "population": 82,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294405",
+      "utilityName": "PALMQUIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294405",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "apple-orchard",
+      "name": "APPLE ORCHARD",
+      "county": null,
+      "population": 74,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294304",
+      "utilityName": "APPLE ORCHARD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294304",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "trailer-court",
+      "name": "TRAILER COURT",
+      "county": null,
+      "population": 68,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295504",
+      "utilityName": "TRAILER COURT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295504",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.31,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "rice-lake",
+      "name": "RICE LAKE",
+      "county": null,
+      "population": 65,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294703",
+      "utilityName": "RICE LAKE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294703",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hillside",
+      "name": "HILLSIDE",
+      "county": null,
+      "population": 63,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295706",
+      "utilityName": "HILLSIDE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295706",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "indian-point",
+      "name": "INDIAN POINT",
+      "county": null,
+      "population": 59,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294404",
+      "utilityName": "INDIAN POINT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294404",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 11.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "wetmore",
+      "name": "WETMORE",
+      "county": null,
+      "population": 52,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293502",
+      "utilityName": "WETMORE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293502",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 9.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "elbow-lake",
+      "name": "ELBOW LAKE",
+      "county": null,
+      "population": 50,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294705",
+      "utilityName": "ELBOW LAKE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294705",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "oak-point",
+      "name": "OAK POINT",
+      "county": null,
+      "population": 45,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294207",
+      "utilityName": "OAK POINT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294207",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 106.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "blackwell-community",
+      "name": "BLACKWELL COMMUNITY",
+      "county": null,
+      "population": 39,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295207",
+      "utilityName": "BLACKWELL COMMUNITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295207",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.2,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sand-hill",
+      "name": "SAND HILL",
+      "county": null,
+      "population": 38,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055295705",
+      "utilityName": "SAND HILL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055295705",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.71,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "mtigwaakiis",
+      "name": "MTIGWAAKIIS",
+      "county": null,
+      "population": 35,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055293802",
+      "utilityName": "MTIGWAAKIIS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055293802",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "old-agency",
+      "name": "OLD AGENCY",
+      "county": null,
+      "population": 30,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294208",
+      "utilityName": "OLD AGENCY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294208",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.93,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "chippewa-ranch",
+      "name": "CHIPPEWA RANCH",
+      "county": null,
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "055294708",
+      "utilityName": "CHIPPEWA RANCH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=055294708",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.37,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    }
+  ]
+}

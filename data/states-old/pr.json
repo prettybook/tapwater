@@ -1,0 +1,3670 @@
+{
+  "stateCode": "PR",
+  "stateName": "Puerto Rico",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "bayamon",
+      "name": "BAYAMON",
+      "county": null,
+      "population": 1082517,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002591",
+      "utilityName": "METROPOLITANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002591",
+      "allUtilities": [
+        "METROPOLITANO",
+        "BO NUEVO"
+      ],
+      "violations3yr": {
+        "total": 58,
+        "healthBased": 36
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-juan",
+      "name": "SAN JUAN",
+      "county": null,
+      "population": 1077357,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002591",
+      "utilityName": "METROPOLITANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002591",
+      "allUtilities": [
+        "SUPERACUEDUCTO",
+        "METROPOLITANO"
+      ],
+      "violations3yr": {
+        "total": 53,
+        "healthBased": 36
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "toa-alta",
+      "name": "TOA ALTA",
+      "county": null,
+      "population": 1077332,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002591",
+      "utilityName": "METROPOLITANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002591",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 53,
+        "healthBased": 36
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ponce",
+      "name": "PONCE",
+      "county": null,
+      "population": 217148,
+      "waterSystemCount": 27,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003824",
+      "utilityName": "PONCE URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003824",
+      "allUtilities": [
+        "PONCE URBANO",
+        "SANTA ISABEL URBANO",
+        "VILLALBA URBANO",
+        "APEADERO",
+        "OROCOVIS URBANO",
+        "GUAYANILLA URBANO",
+        "ENSENADA",
+        "GUARAGUAO",
+        "SALTILLO VACA",
+        "ADJUNTAS URBANO",
+        "REAL ANON",
+        "HOGARES SEGUROS",
+        "COTTO LAUREL",
+        "TIBES",
+        "CERRILLOS",
+        "LAS MESAS",
+        "ACUED. COMUNAL SECTOR SANTA PASCUAS INC.",
+        "BO. MONTE LLANOS",
+        "SERVICIO DE AGUA",
+        "ANON CARMELITA",
+        "PONCE DARLINGTON ELDERLY",
+        "EL TESORO",
+        "ACUED. COMUNAL RIO CHIQUITO",
+        "ASOC. CIVICA PASTILLO TIBES",
+        "LA CARMELITA",
+        "ESTANCIAS DEL MADRIGAL",
+        "ACUED. COMUNITARIO VILLAS DE MONTE VERDE"
+      ],
+      "violations3yr": {
+        "total": 410,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.97,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "mayaguez",
+      "name": "MAYAGUEZ",
+      "county": null,
+      "population": 162876,
+      "waterSystemCount": 3,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003283",
+      "utilityName": "MAYAGUEZ",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003283",
+      "allUtilities": [
+        "MAYAGUEZ",
+        "CONSUMO",
+        "PONCE DE LEON"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 50.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "anasco",
+      "name": "ANASCO",
+      "county": null,
+      "population": 152606,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003283",
+      "utilityName": "MAYAGUEZ",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003283",
+      "allUtilities": [
+        "MAYAGUEZ",
+        "COMITE COMUNAL DE CORCOVADA",
+        "ACUED. RURAL BO. HATILLO ANASCO",
+        "ORGANIZACION COM. AJIES (OCCA)"
+      ],
+      "violations3yr": {
+        "total": 10,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.03,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 50.0,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "penuelas",
+      "name": "PENUELAS",
+      "county": null,
+      "population": 134020,
+      "waterSystemCount": 12,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003824",
+      "utilityName": "PONCE URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003824",
+      "allUtilities": [
+        "PONCE URBANO",
+        "PENUELAS",
+        "MALPASO",
+        "RUCIO",
+        "JAGUA CEIBA",
+        "EL MALTILLO",
+        "CORPORACION PRO SALUD Y MEJORA",
+        "PANDURA",
+        "ACUEDUCTO COMUNAL SAN JOSE",
+        "COROZAL",
+        "COREA METRALLA",
+        "COMITE RESIDENTE SEC. BELLEZA"
+      ],
+      "violations3yr": {
+        "total": 246,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.04,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "moca",
+      "name": "MOCA",
+      "county": null,
+      "population": 128629,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003293",
+      "utilityName": "AGUADILLA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003293",
+      "allUtilities": [
+        "AGUADILLA",
+        "PLATA I Y II",
+        "HUMATAS DEEP WATER",
+        "SONADOR II"
+      ],
+      "violations3yr": {
+        "total": 13,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.07,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aguada",
+      "name": "AGUADA",
+      "county": null,
+      "population": 127413,
+      "waterSystemCount": 9,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003293",
+      "utilityName": "AGUADILLA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003293",
+      "allUtilities": [
+        "AGUADILLA",
+        "RAFAEL MATIAS",
+        "COMUNIDAD GABINO NEGRON",
+        "JAGUEY CHIQUITO",
+        "QUEBRADA LARGA",
+        "LA CEIBA",
+        "COM. AISLADA EN DESARROLLO",
+        "COM. CERRO GORDO SEC. EL PARQUE",
+        "PROYECTO AGUAS"
+      ],
+      "violations3yr": {
+        "total": 108,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.97,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aguadilla",
+      "name": "AGUADILLA",
+      "county": null,
+      "population": 125150,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003293",
+      "utilityName": "AGUADILLA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003293",
+      "allUtilities": [
+        "AGUADILLA",
+        "JARDIN DEL ATLANTICO",
+        "ACUED. CORRECCIONAL GUERRERO"
+      ],
+      "violations3yr": {
+        "total": 13,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "rincon",
+      "name": "RINCON",
+      "county": null,
+      "population": 123885,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003293",
+      "utilityName": "AGUADILLA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003293",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 10,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "arecibo",
+      "name": "ARECIBO",
+      "county": null,
+      "population": 118571,
+      "waterSystemCount": 11,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002652",
+      "utilityName": "ARECIBO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002652",
+      "allUtilities": [
+        "ARECIBO URBANO",
+        "GARROCHALES",
+        "ESPERANZA",
+        "MIRAFLORES",
+        "SABANA HOYOS",
+        "SANTANA",
+        "RIO ARRIBA",
+        "BAJADERO",
+        "SAN RAFAEL",
+        "CAMPAMENTO PENAL SABANA HOYOS",
+        "ARROZAL - LOS MUERTOS"
+      ],
+      "violations3yr": {
+        "total": 39,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "caguas",
+      "name": "CAGUAS",
+      "county": null,
+      "population": 86877,
+      "waterSystemCount": 23,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005086",
+      "utilityName": "CAGUAS NORTE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005086",
+      "allUtilities": [
+        "CAGUAS SUR",
+        "CAGUAS NORTE",
+        "ACUED. RURAL CASA DE PIEDRA INC.",
+        "PARC. NUEVAS CANABONCITO ACUED.",
+        "ACUED. RURAL TURADO ARRIBA",
+        "ACUED. RURAL LOS VELAZQUEZ",
+        "ACUED. RURAL SECT. LOZADA Y POZO DULCE",
+        "EL PARAISO ACUEDUCTO INCORPORADO",
+        "USUARIOS POZO PROFUNDO",
+        "POZO PIÑAS 2 INC",
+        "ACUED. RURAL PEDRO CALIXTO",
+        "ORG. DE RESID. DEL SECT. LA UNION (ORSU)",
+        "ACUED. COM. SECTOR LA SIERRA",
+        "ACUED. COM. BUENOS AIRES",
+        "TURABO CLUSTERS",
+        "ACUEDUCTO RURAL EL MANANTIAL",
+        "POZO DE AGUA",
+        "ASOCIACION DE RESIDENTES VILLA VIGIA",
+        "CAGUAS REAL UTILITY CORP",
+        "ASOC. DE RESIDENTES HACIENDA DEL REY",
+        "ASOC. RES. VILLA DE ORO",
+        "ACUED. DELGADO Y OTROS",
+        "COMUNIDAD EMMANUELLI"
+      ],
+      "violations3yr": {
+        "total": 116,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.97,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 1.4,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "naguabo",
+      "name": "NAGUABO",
+      "county": null,
+      "population": 83376,
+      "waterSystemCount": 5,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005386",
+      "utilityName": "RIO BLANCO,VIEQUES,CULEDRA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005386",
+      "allUtilities": [
+        "CUBUY MAIZALES",
+        "RIO BLANCO,VIEQUES,CULEDRA",
+        "COM. RANCHO GRANDE",
+        "ACUED. DE LA COM. DEL DUQUE",
+        "ACUED. LOMAS DEL VIENTO-MAIZALES"
+      ],
+      "violations3yr": {
+        "total": 71,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.96,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "las-piedras",
+      "name": "LAS PIEDRAS",
+      "county": null,
+      "population": 83118,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005386",
+      "utilityName": "RIO BLANCO,VIEQUES,CULEDRA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005386",
+      "allUtilities": [
+        "BOQUERON",
+        "RIO BLANCO,VIEQUES,CULEDRA",
+        "LIJAS",
+        "COM. ASOMANTE",
+        "ACUEDUCTO RURAL ASOMANTE II",
+        "ALTURAS DE MONTONES 4, INC."
+      ],
+      "violations3yr": {
+        "total": 29,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.99,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H1",
+        "lastSampleDate": "2021-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "vieques",
+      "name": "VIEQUES",
+      "county": null,
+      "population": 80759,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005386",
+      "utilityName": "RIO BLANCO,VIEQUES,CULEDRA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005386",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "rio-grande",
+      "name": "RIO GRANDE",
+      "county": null,
+      "population": 71961,
+      "waterSystemCount": 4,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005296",
+      "utilityName": "EL YUNQUE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005296",
+      "allUtilities": [
+        "EL YUNQUE",
+        "GUZMAN ARRIBA",
+        "MOROVIS",
+        "BARCELONA"
+      ],
+      "violations3yr": {
+        "total": 60,
+        "healthBased": 20
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.09,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "dorado",
+      "name": "DORADO",
+      "county": null,
+      "population": 71613,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005607",
+      "utilityName": "DORADO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005607",
+      "allUtilities": [
+        "MAGUAYO",
+        "DORADO URBANO"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.55,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "isabela",
+      "name": "ISABELA",
+      "county": null,
+      "population": 60606,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002672",
+      "utilityName": "ISABELA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002672",
+      "allUtilities": [
+        "ISABELA",
+        "LAGO GUAJATACA"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cayey",
+      "name": "CAYEY",
+      "county": null,
+      "population": 59815,
+      "waterSystemCount": 8,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004925",
+      "utilityName": "FARALLON",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004925",
+      "allUtilities": [
+        "CAYEY URBANO",
+        "CULEBRAS",
+        "FARALLON",
+        "VECINOS COMUNIDAD LUIS LEBRON",
+        "ASOC. VILLA DE GUAVATE",
+        "CORPORACION ACUEDUCTO ANDALUCIA DE CAYEY",
+        "BRISAS DEL TORITO 1 INC.",
+        "ASOC. PRO BIENESTAR BO. FARALLON"
+      ],
+      "violations3yr": {
+        "total": 57,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.06,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "fajardo",
+      "name": "FAJARDO",
+      "county": null,
+      "population": 58114,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005306",
+      "utilityName": "FAJARDO CEIBA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005306",
+      "allUtilities": [
+        "FAJARDO CEIBA",
+        "COMUNIDAD JUAN DIEGO"
+      ],
+      "violations3yr": {
+        "total": 35,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "fajardo-ceiba",
+      "name": "FAJARDO CEIBA",
+      "county": null,
+      "population": 58011,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005306",
+      "utilityName": "FAJARDO CEIBA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005306",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "villalba",
+      "name": "VILLALBA",
+      "county": null,
+      "population": 49031,
+      "waterSystemCount": 14,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004664",
+      "utilityName": "REGIONAL VILLALBA TOA VACA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004664",
+      "allUtilities": [
+        "VILLALBA URBANO",
+        "APEADERO",
+        "DAJAOS",
+        "ACEITUNAS",
+        "REGIONAL VILLALBA TOA VACA",
+        "LA JULITA",
+        "VILLA BLANCA",
+        "VACAS II",
+        "VACAS III",
+        "VISTA ALEGRE",
+        "SIERRITA",
+        "ACEITUNA II",
+        "SIERRITA-CAONILLA",
+        "ACEITUNA III"
+      ],
+      "violations3yr": {
+        "total": 237,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.97,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "vega-baja",
+      "name": "VEGA BAJA",
+      "county": null,
+      "population": 48067,
+      "waterSystemCount": 6,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002772",
+      "utilityName": "VEGA BAJA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002772",
+      "allUtilities": [
+        "VEGA BAJA URBANO",
+        "PUGNADO",
+        "ALMIRANTE SUR",
+        "ALMIRANTE NORTE",
+        "ALTURAS",
+        "QUEBRADA ARENAS"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.09,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "lajas",
+      "name": "LAJAS",
+      "county": null,
+      "population": 47531,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003343",
+      "utilityName": "LAJAS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003343",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 42,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "santa-isabel",
+      "name": "SANTA ISABEL",
+      "county": null,
+      "population": 44476,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003904",
+      "utilityName": "SANTA ISABEL URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003904",
+      "allUtilities": [
+        "SANTA ISABEL URBANO",
+        "COAMO URBANO"
+      ],
+      "violations3yr": {
+        "total": 32,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "yauco",
+      "name": "YAUCO",
+      "county": null,
+      "population": 42631,
+      "waterSystemCount": 10,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004314",
+      "utilityName": "YAUCO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004314",
+      "allUtilities": [
+        "RIO LOCO",
+        "DUEY",
+        "YAUCO",
+        "ARENAS",
+        "ACUEDUCTO COMUNIDAD BO. RUBIAS",
+        "ACUEDUCTO LA MONTANA INC.",
+        "CERROTE",
+        "GUARAGUAO",
+        "MOGOTE",
+        "ACUED. COM. BO. SIERRA ALTA SECT. CACAO"
+      ],
+      "violations3yr": {
+        "total": 119,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.76,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "manati",
+      "name": "MANATI",
+      "county": null,
+      "population": 40169,
+      "waterSystemCount": 5,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002962",
+      "utilityName": "COTO SUR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002962",
+      "allUtilities": [
+        "MONTE BELLO",
+        "COTO SUR",
+        "TIERRA NUEVA RABANOS",
+        "MANATI EAST",
+        "MONASTERIO MADRE DE DIOS"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.01,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guayama",
+      "name": "GUAYAMA",
+      "county": null,
+      "population": 38857,
+      "waterSystemCount": 3,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004745",
+      "utilityName": "GUAYAMA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004745",
+      "allUtilities": [
+        "GUAYAMA URBANO",
+        "CIMARRONA",
+        "LOS BARROS"
+      ],
+      "violations3yr": {
+        "total": 33,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "juncos",
+      "name": "JUNCOS",
+      "county": null,
+      "population": 38010,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005166",
+      "utilityName": "JUNCOS - CEIBA SUR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005166",
+      "allUtilities": [
+        "CUBUY",
+        "JUNCOS - CEIBA SUR"
+      ],
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hatillo",
+      "name": "HATILLO",
+      "county": null,
+      "population": 37995,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002662",
+      "utilityName": "HATILLO-CAMUY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002662",
+      "allUtilities": [
+        "HATILLO-CAMUY",
+        "QUEBRADA"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "patillas",
+      "name": "PATILLAS",
+      "county": null,
+      "population": 37543,
+      "waterSystemCount": 12,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004835",
+      "utilityName": "PATILLAS URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004835",
+      "allUtilities": [
+        "PATILLAS URBANO",
+        "JACABOAS",
+        "ASOCIACION ACUEDUCTO MULAS JAGUAL, INC.",
+        "BO.REAL",
+        "BO.QUEBRADA ARRIBA",
+        "LOS BARROS MARIN",
+        "MAMEY",
+        "BO. JACABOA- HIGUERO",
+        "APEADERO",
+        "ACUEDUCTO MACHUCHAL",
+        "MULAS SECTOR SOFIA",
+        "MARIN SECTOR BETANCOURT"
+      ],
+      "violations3yr": {
+        "total": 142,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.03,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-sebastian",
+      "name": "SAN SEBASTIAN",
+      "county": null,
+      "population": 36986,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003303",
+      "utilityName": "SAN SEBASTIAN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003303",
+      "allUtilities": [
+        "SAN SEBASTIAN",
+        "WILFREDO VALENTIN",
+        "LAGO GUAJATACA",
+        "ACUED. RURAL GUACIO",
+        "ACUEDUCTO RURAL GUADALUPE MARTI"
+      ],
+      "violations3yr": {
+        "total": 50,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.94,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "arroyo",
+      "name": "ARROYO",
+      "county": null,
+      "population": 36606,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004745",
+      "utilityName": "GUAYAMA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004745",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "humacao",
+      "name": "HUMACAO",
+      "county": null,
+      "population": 36032,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005376",
+      "utilityName": "LAS PIEDRAS HUMACAO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005376",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-lorenzo",
+      "name": "SAN LORENZO",
+      "county": null,
+      "population": 35380,
+      "waterSystemCount": 17,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005106",
+      "utilityName": "SAN LORENZO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005106",
+      "allUtilities": [
+        "SAN LORENZO URBANO",
+        "ESPINO",
+        "JAGUAL",
+        "ASOC. VECINOS SECT. LOS OQUENDO",
+        "MACANEA / ESPINO",
+        "SECTOR LOS DIAZ",
+        "QUEMADOS I SEC. LOS ORTIZ INC.",
+        "LA CUCHILLA",
+        "ACUED.COMUNAL SECT. MANUEL DIAZ",
+        "QUEMADOS II SECT. VICENTE",
+        "CORPORACION SECTOR CANTERA",
+        "COMUNIDAD SECTOR LOS GOMEZ",
+        "EL CERRO",
+        "ACUED. COMUNIDAD 18",
+        "COMUNIDAD EDEM",
+        "ACUEDUCTO SECTOR PACHIN",
+        "ACUED. COMUNAL JUAN FLORES"
+      ],
+      "violations3yr": {
+        "total": 138,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.87,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cidra",
+      "name": "CIDRA",
+      "county": null,
+      "population": 35131,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004695",
+      "utilityName": "CIDRA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004695",
+      "allUtilities": [
+        "CIDRA URBANO",
+        "ASOC. RES. COM. CEIBA CARRASQUILLO",
+        "ASOC. DE AGUA SECTOR PELEGRIN SANTOS",
+        "ALMIRANTE JAGUAS CORP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.98,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "lares",
+      "name": "LARES",
+      "county": null,
+      "population": 29715,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003872",
+      "utilityName": "LARES ESPINO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003872",
+      "allUtilities": [
+        "LARES URBANO",
+        "LARES ESPINO",
+        "LUCAS LUGO",
+        "HACIENDA PLANELL",
+        "ASOC. PRO BIENESTAR MAGUEYES",
+        "COM. LAS CUARENTA"
+      ],
+      "violations3yr": {
+        "total": 96,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sabana-grande",
+      "name": "SABANA GRANDE",
+      "county": null,
+      "population": 29084,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003333",
+      "utilityName": "SABANA GRANDE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003333",
+      "allUtilities": [
+        "SABANA GRANDE",
+        "RAYO"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hatillo-camuy",
+      "name": "HATILLO CAMUY",
+      "county": null,
+      "population": 28735,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002662",
+      "utilityName": "HATILLO-CAMUY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002662",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "quebradillas",
+      "name": "QUEBRADILLAS",
+      "county": null,
+      "population": 27458,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002682",
+      "utilityName": "QUEBRADILLAS URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002682",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "corozal",
+      "name": "COROZAL",
+      "county": null,
+      "population": 27328,
+      "waterSystemCount": 12,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005537",
+      "utilityName": "NEGROS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005537",
+      "allUtilities": [
+        "COROZAL URBANO",
+        "NEGROS",
+        "MANA I",
+        "COMUNIDAD PALMARITO CENTRO",
+        "COPAR",
+        "MANA III",
+        "ACUEDUCTO COMUNAL ELADIO ANDREU INC.",
+        "COMUNIDAD DIVISORIA",
+        "COMUNIDAD SECTOR LA RIVIERA",
+        "COMUNIDAD SANTANA",
+        "COMUNIDAD MANA, SECTOR LOZADA INC.",
+        "JEA QUALITY"
+      ],
+      "violations3yr": {
+        "total": 145,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.51,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "yabucoa",
+      "name": "YABUCOA",
+      "county": null,
+      "population": 27110,
+      "waterSystemCount": 13,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005196",
+      "utilityName": "YABUCOA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005196",
+      "allUtilities": [
+        "GUAYABOTA",
+        "YABUCOA URBANO",
+        "LA GRUA",
+        "TEJAS TRINIDA",
+        "ACUED. RURAL DE TEJAS",
+        "ACUED. RURAL JACANAS PIEDRAS BLANCAS I",
+        "ACUED. SODOMA",
+        "ACUED. BO. GUAYABOTA",
+        "CALABAZAS ARRIBA",
+        "ASOCIACION VECINOS SECTOR LA CASA CORP.",
+        "ACUED. RURAL SECT. EL VEINTE",
+        "ACUED. RURAL JACANAS PIEDRAS BLANCAS",
+        "COMUNIDAD JACANAS SUR INC."
+      ],
+      "violations3yr": {
+        "total": 40,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 9.91,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "utuado",
+      "name": "UTUADO",
+      "county": null,
+      "population": 25734,
+      "waterSystemCount": 16,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002702",
+      "utilityName": "UTUADO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002702",
+      "allUtilities": [
+        "UTUADO URBANO",
+        "MAMEYES ABAJO",
+        "RONCADOR",
+        "SABANA GRANDE",
+        "SANTA ISABEL",
+        "VIVI ABAJO",
+        "ACUED. LA GRAMA",
+        "HACIENDA RULLAN",
+        "COMUNIDAD CHORRERAS",
+        "LA CASCADA MILAGROSA",
+        "VEGUITA",
+        "SIST. RURAL GRAULAO",
+        "SALTOS CAGUANA",
+        "FINCA CARBONELL",
+        "ACUEDUCTO LA ESTANCIA, INC.",
+        "ACUED. COMUNAL QUEBRADA FRIA"
+      ],
+      "violations3yr": {
+        "total": 361,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.78,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "orocovis",
+      "name": "OROCOVIS",
+      "county": null,
+      "population": 25611,
+      "waterSystemCount": 18,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004044",
+      "utilityName": "OROCOVIS URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004044",
+      "allUtilities": [
+        "SANAMUERTO",
+        "OROCOVIS URBANO",
+        "MATRULLA",
+        "ACUEDUCTO LA HACIENDA DAMIAN ABAJO, INC",
+        "COM. CACAO - LA SAPIA",
+        "BAUTA ABAJO, INC.",
+        "COM. SABANA",
+        "LOS MIRANDA PELLEJAS",
+        "ACUEDUCTO PELLEJAS INC.",
+        "EL PERICO II",
+        "ASOCIACION RESIDENTES COMUNIDAD GREGORIO",
+        "ACUEDUCTO TAITA",
+        "COM. SALTOS CABRA",
+        "CORPORACION SALTOS PELLEJA",
+        "SANTO TOMAS DE AQUINO",
+        "COMUNIDAD LIMONES",
+        "COMUNIDAD INTEGRADA EL PUEBLITO INC.",
+        "COMUNIDAD EL FRIO"
+      ],
+      "violations3yr": {
+        "total": 211,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "salinas",
+      "name": "SALINAS",
+      "county": null,
+      "population": 25157,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004895",
+      "utilityName": "COCOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004895",
+      "allUtilities": [
+        "SALINAS URBANO",
+        "COCOS",
+        "COQUI"
+      ],
+      "violations3yr": {
+        "total": 18,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "gurabo",
+      "name": "GURABO",
+      "county": null,
+      "population": 24967,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005096",
+      "utilityName": "GURABO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005096",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 10.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aibonito",
+      "name": "AIBONITO",
+      "county": null,
+      "population": 23829,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004545",
+      "utilityName": "AIBONITO LA PLATA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004545",
+      "allUtilities": [
+        "AIBONITO LA PLATA",
+        "CUYON",
+        "AIBONITO URBANO",
+        "CUYON WATER SERVICES INC.",
+        "ACUEDUCTO COMUNITARIO ALGARROBO",
+        "BAXTER HEALTHCARE OF PR"
+      ],
+      "violations3yr": {
+        "total": 60,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.76,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "morovis",
+      "name": "MOROVIS",
+      "county": null,
+      "population": 22324,
+      "waterSystemCount": 3,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002762",
+      "utilityName": "MOROVIS URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002762",
+      "allUtilities": [
+        "MOROVIS URBANO",
+        "SANAMUERTO",
+        "ARRAIJANES"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "barranquitas",
+      "name": "BARRANQUITAS",
+      "county": null,
+      "population": 21816,
+      "waterSystemCount": 12,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004945",
+      "utilityName": "LAS BOCAS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004945",
+      "allUtilities": [
+        "BARRANQUITAS URBANO",
+        "BARRANCAS NUEVO",
+        "LAS BOCAS",
+        "ACUED. COM. COMUNIDAD CANABON ABAJO",
+        "ACUEDUCTO RURAL TABOR",
+        "ACUED. COM. BO. QUEBRADILLAS",
+        "COMUNIDAD LOS MUCHOS",
+        "ACUED. COM. TORTUGUERO, LA TIZA, INC.",
+        "ACUED. RURAL PALMARITO CINTRON",
+        "COM. DONA MAYO (EL LLANO II)",
+        "HELECHAL-GUAYABO",
+        "ACUED. COM. BARRANCAS CENTRO"
+      ],
+      "violations3yr": {
+        "total": 51,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.62,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "juana-diaz",
+      "name": "JUANA DIAZ",
+      "county": null,
+      "population": 21462,
+      "waterSystemCount": 8,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004604",
+      "utilityName": "EXPERIMENTAL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004604",
+      "allUtilities": [
+        "ARUZ",
+        "AMELIA",
+        "JACAGUAS",
+        "EXPERIMENTAL",
+        "AGUSTINILLO",
+        "GUARDIA NACIONAL DE PR, FORT ALLEN",
+        "GUARAGUAO",
+        "PORTILLO - MIRAMAR"
+      ],
+      "violations3yr": {
+        "total": 89,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.88,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cabo-rojo",
+      "name": "CABO ROJO",
+      "county": null,
+      "population": 20749,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003373",
+      "utilityName": "CABO ROJO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003373",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "barceloneta",
+      "name": "BARCELONETA",
+      "county": null,
+      "population": 18677,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002722",
+      "utilityName": "BARCELONETA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002722",
+      "allUtilities": [
+        "BARCELONETA URBANO",
+        "CIMARRONA"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.74,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aguas-buenas",
+      "name": "AGUAS BUENAS",
+      "county": null,
+      "population": 17468,
+      "waterSystemCount": 10,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005046",
+      "utilityName": "AGUAS BUENAS URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005046",
+      "allUtilities": [
+        "AGUAS BUENAS URBANO",
+        "COMUNIDAD LAS CORUJAS",
+        "COMUNIDAD RIVERA",
+        "MULITAS CENTRO",
+        "JUAN ASENCIO 1 SECTOR LA TIZA",
+        "JUAN ASENCIO",
+        "ACUED. MADRIGUERA",
+        "BAYAMONCITO",
+        "LAS TORRES ANDINO",
+        "ACUED. COM. SECTOR EL LLANO"
+      ],
+      "violations3yr": {
+        "total": 40,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.77,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "comerio",
+      "name": "COMERIO",
+      "county": null,
+      "population": 16933,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004705",
+      "utilityName": "COMERIO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004705",
+      "allUtilities": [
+        "COMERIO URBANO",
+        "PALOMAS II",
+        "COMUNIDAD MAISONET",
+        "COMUNIDAD CEDRITO",
+        "ACUED. RURAL DOÑA ELENA",
+        "LA PRIETA CENTRO"
+      ],
+      "violations3yr": {
+        "total": 96,
+        "healthBased": 18
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.63,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guanica",
+      "name": "GUANICA",
+      "county": null,
+      "population": 16480,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004074",
+      "utilityName": "GUANICA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004074",
+      "allUtilities": [
+        "GUANICA URBANO",
+        "ENSENADA",
+        "RIO LOCO",
+        "ARENAS"
+      ],
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.39,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guayanilla",
+      "name": "GUAYANILLA",
+      "county": null,
+      "population": 16345,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004054",
+      "utilityName": "GUAYANILLA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004054",
+      "allUtilities": [
+        "GUAYANILLA URBANO",
+        "JAGUA PASTO",
+        "DEPORTIVO",
+        "PIEDRAS BLANCAS",
+        "CONSEJO",
+        "PELCHAS",
+        "QUEBRADA HONDA"
+      ],
+      "violations3yr": {
+        "total": 70,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.52,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aibonito-c",
+      "name": "AIBONITO C",
+      "county": null,
+      "population": 16202,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004545",
+      "utilityName": "AIBONITO LA PLATA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004545",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 60,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sabana-hoyos",
+      "name": "SABANA HOYOS",
+      "county": null,
+      "population": 15876,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002822",
+      "utilityName": "SABANA HOYOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002822",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-german",
+      "name": "SAN GERMAN",
+      "county": null,
+      "population": 14901,
+      "waterSystemCount": 9,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003553",
+      "utilityName": "DUEY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003553",
+      "allUtilities": [
+        "EL ROSARIO",
+        "EL JAPONES",
+        "CAIN ALTO",
+        "DUEY",
+        "CAPRILES",
+        "PEDREGAL",
+        "PERICHE",
+        "COM. RIO PIEDRAS",
+        "COMUNIDAD MENDEZ"
+      ],
+      "violations3yr": {
+        "total": 44,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.68,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "negros",
+      "name": "NEGROS",
+      "county": null,
+      "population": 14781,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005537",
+      "utilityName": "NEGROS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005537",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "florida",
+      "name": "FLORIDA",
+      "county": null,
+      "population": 14303,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0002732",
+      "utilityName": "FLORIDA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002732",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "adjuntas",
+      "name": "ADJUNTAS",
+      "county": null,
+      "population": 13633,
+      "waterSystemCount": 17,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004584",
+      "utilityName": "GARZAS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004584",
+      "allUtilities": [
+        "SALTILLO VACA",
+        "ADJUNTAS URBANO",
+        "GUILARTE",
+        "GARZAS",
+        "YAHUECAS",
+        "ADJUNTAS LAS CRUCES, INC",
+        "ASOC. VEC. COM. HELECHALES",
+        "PELLEJAS",
+        "COMUNIDAD PALOMO",
+        "COMUNIDAD JUAN HERNANDEZ",
+        "LIMANI",
+        "ACUEDUCTO GARZAS JUNCOS",
+        "JUAN GONZALEZ",
+        "ASOCIACION ACUEDUCTO REVENTON",
+        "COM. GARZAS CENTRO AEROPUERTO",
+        "ACUEDUCTO COMUNITARIO SOSTENIBLE, INC",
+        "ASOC. DE RESIDENTES CAMINO PAGAN INC"
+      ],
+      "violations3yr": {
+        "total": 219,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.41,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "jayuya",
+      "name": "JAYUYA",
+      "county": null,
+      "population": 13376,
+      "waterSystemCount": 11,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002712",
+      "utilityName": "JAYUYA URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002712",
+      "allUtilities": [
+        "JAYUYA URBANO",
+        "LA PICA",
+        "MAMEYES ARRIBA",
+        "CANALIZO",
+        "ALTURAS PIZA",
+        "ZAMAS",
+        "SANTA ROSA",
+        "ALTURAS DE COLLORES",
+        "VEGUITAS GRIPINAS",
+        "COMUNIDAD SANTA BARBARA",
+        "SANTA BARBARA II"
+      ],
+      "violations3yr": {
+        "total": 183,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.66,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ciales",
+      "name": "CIALES",
+      "county": null,
+      "population": 13316,
+      "waterSystemCount": 5,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002752",
+      "utilityName": "CIALES URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002752",
+      "allUtilities": [
+        "CIALES URBANO",
+        "FRONTON",
+        "LAS DELICIAS",
+        "JAGUAS POZAS",
+        "ACUED. COMUNAL POZO AZUL, CORP."
+      ],
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.62,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "camuy",
+      "name": "CAMUY",
+      "county": null,
+      "population": 13164,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0002872",
+      "utilityName": "QUEBRADA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002872",
+      "allUtilities": [
+        "QUEBRADA",
+        "CIENEGA"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aquas-buenas",
+      "name": "AQUAS BUENAS",
+      "county": null,
+      "population": 13016,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005046",
+      "utilityName": "AGUAS BUENAS URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005046",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "naranjito",
+      "name": "NARANJITO",
+      "county": null,
+      "population": 11012,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005517",
+      "utilityName": "CEDRO ARRIBA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005517",
+      "allUtilities": [
+        "CEDRO ARRIBA",
+        "CORP. DE SERVICIOS DE ACUED. ANONES MAYA",
+        "ANONES CENTRO",
+        "FEIJO",
+        "COMUNIDAD LAS CRUCES",
+        "COMUNIDAD NIEVES SANCHEZ",
+        "ACUEDUCTO RURAL SAN JOSE"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 4.54,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hormiguero",
+      "name": "HORMIGUERO",
+      "county": null,
+      "population": 10541,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003383",
+      "utilityName": "HORMIGUERO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003383",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hormigueros",
+      "name": "HORMIGUEROS",
+      "county": null,
+      "population": 10541,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003383",
+      "utilityName": "HORMIGUERO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003383",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "bo-cocos",
+      "name": "BO COCOS",
+      "county": null,
+      "population": 9956,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004895",
+      "utilityName": "COCOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004895",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "luquillo",
+      "name": "LUQUILLO",
+      "county": null,
+      "population": 9710,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005316",
+      "utilityName": "LUQUILLO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005316",
+      "allUtilities": [
+        "LUQUILLO URBANO",
+        "PAISAJE DEL LAGO"
+      ],
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "maunabo",
+      "name": "MAUNABO",
+      "county": null,
+      "population": 9700,
+      "waterSystemCount": 5,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004815",
+      "utilityName": "MAUNABO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004815",
+      "allUtilities": [
+        "MAUNABO URBANO",
+        "QUEBRADA ARENAS",
+        "TALANTE",
+        "VILLODAS",
+        "SISTEMA CRUZ LEON"
+      ],
+      "violations3yr": {
+        "total": 137,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.97,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "garrochales",
+      "name": "GARROCHALES",
+      "county": null,
+      "population": 7439,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0002782",
+      "utilityName": "GARROCHALES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002782",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "maricao",
+      "name": "MARICAO",
+      "county": null,
+      "population": 7231,
+      "waterSystemCount": 4,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003353",
+      "utilityName": "MARICAO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003353",
+      "allUtilities": [
+        "INDIERA ALTA",
+        "MARICAO",
+        "MONTE DEL ESTADO",
+        "DUEY"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.13,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "las-marias",
+      "name": "LAS MARIAS",
+      "county": null,
+      "population": 7193,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003363",
+      "utilityName": "LAS MARIAS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003363",
+      "allUtilities": [
+        "LAS MARIAS",
+        "SECTOR LAGUNA"
+      ],
+      "violations3yr": {
+        "total": 35,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guaynabo",
+      "name": "GUAYNABO",
+      "county": null,
+      "population": 6541,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0132051",
+      "utilityName": "US ARMY, FORT BUCHANAN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0132051",
+      "allUtilities": [
+        "LOMAS VERDES (WATCH TOWER)",
+        "US ARMY, FORT BUCHANAN"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 11.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "coqui",
+      "name": "COQUI",
+      "county": null,
+      "population": 6307,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004915",
+      "utilityName": "COQUI",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004915",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 14,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "coamo",
+      "name": "COAMO",
+      "county": null,
+      "population": 5832,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003914",
+      "utilityName": "COAMO URBANO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003914",
+      "allUtilities": [
+        "COAMO URBANO",
+        "ASOCIACION RESIDENTE SAN DIEGO",
+        "LA CUESTA",
+        "COAMO ARRIBA",
+        "COMUNIDAD MONTERIA"
+      ],
+      "violations3yr": {
+        "total": 37,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "duey-quinonez",
+      "name": "DUEY QUINONEZ",
+      "county": null,
+      "population": 5708,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003553",
+      "utilityName": "DUEY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003553",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H1",
+        "lastSampleDate": "2018-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "jagual",
+      "name": "JAGUAL",
+      "county": null,
+      "population": 3992,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005416",
+      "utilityName": "JAGUAL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005416",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "rayo-plata",
+      "name": "RAYO PLATA",
+      "county": null,
+      "population": 3855,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003573",
+      "utilityName": "RAYO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003573",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "pugnado",
+      "name": "PUGNADO",
+      "county": null,
+      "population": 3556,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0002972",
+      "utilityName": "PUGNADO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002972",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "almirante",
+      "name": "ALMIRANTE",
+      "county": null,
+      "population": 2873,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002982",
+      "utilityName": "ALMIRANTE SUR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002982",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "bo-jacaboa",
+      "name": "BO JACABOA",
+      "county": null,
+      "population": 2654,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004845",
+      "utilityName": "JACABOAS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004845",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "espino",
+      "name": "ESPINO",
+      "county": null,
+      "population": 2598,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005136",
+      "utilityName": "ESPINO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005136",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2013-H2",
+        "lastSampleDate": "2013-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "barrancas",
+      "name": "BARRANCAS",
+      "county": null,
+      "population": 2379,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004625",
+      "utilityName": "BARRANCAS NUEVO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004625",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "vega-alta",
+      "name": "VEGA ALTA",
+      "county": null,
+      "population": 2344,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005587",
+      "utilityName": "SABANA HOYOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005587",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "culebras",
+      "name": "CULEBRAS",
+      "county": null,
+      "population": 2056,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004665",
+      "utilityName": "CULEBRAS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004665",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "bo-cimarrona",
+      "name": "BO CIMARRONA",
+      "county": null,
+      "population": 1976,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004765",
+      "utilityName": "CIMARRONA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004765",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "canovanas",
+      "name": "CANOVANAS",
+      "county": null,
+      "population": 1967,
+      "waterSystemCount": 3,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002611",
+      "utilityName": "CUBUY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002611",
+      "allUtilities": [
+        "CUBUY",
+        "CUBUY-MARINES",
+        "FINCA LOS GARCIA"
+      ],
+      "violations3yr": {
+        "total": 67,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ciudad-real",
+      "name": "CIUDAD REAL",
+      "county": "Vega Baja Municipio",
+      "population": 1805,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0003812",
+      "utilityName": "CIUDAD REAL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003812",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 13.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "utaudo",
+      "name": "UTAUDO",
+      "county": null,
+      "population": 1754,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003192",
+      "utilityName": "SABANA GRANDE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003192",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 15.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2010-H2",
+        "lastSampleDate": "2010-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "mameyes-arriba",
+      "name": "MAMEYES ARRIBA",
+      "county": null,
+      "population": 1364,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003062",
+      "utilityName": "MAMEYES ARRIBA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003062",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "guayabota",
+      "name": "GUAYABOTA",
+      "county": null,
+      "population": 1028,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005186",
+      "utilityName": "GUAYABOTA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005186",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "mameyes-abajo",
+      "name": "MAMEYES ABAJO",
+      "county": null,
+      "population": 876,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003122",
+      "utilityName": "MAMEYES ABAJO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003122",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "carolina",
+      "name": "CAROLINA",
+      "county": null,
+      "population": 825,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0116041",
+      "utilityName": "SISTEMA DE AGUA DUAL BARRAZA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0116041",
+      "allUtilities": [
+        "SISTEMA DE AGUA DUAL BARRAZA",
+        "PLT.  MUNICIPAL CAROLINA"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": null
+    },
+    {
+      "slug": "jagua-pasto",
+      "name": "JAGUA PASTO",
+      "county": null,
+      "population": 801,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0004244",
+      "utilityName": "JAGUA PASTO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004244",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "tabonuco",
+      "name": "TABONUCO",
+      "county": null,
+      "population": 708,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003523",
+      "utilityName": "MONTE DEL ESTADO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003523",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cubuy",
+      "name": "CUBUY",
+      "county": null,
+      "population": 617,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0005286",
+      "utilityName": "CUBUY MAIZALES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005286",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "la-pica",
+      "name": "LA PICA",
+      "county": null,
+      "population": 561,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0003042",
+      "utilityName": "LA PICA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0003042",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 12.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cuyon-pasto-vie",
+      "name": "CUYON PASTO VIE",
+      "county": null,
+      "population": 515,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0004555",
+      "utilityName": "CUYON",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0004555",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-09-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ceiba",
+      "name": "CEIBA",
+      "county": null,
+      "population": 414,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0619016",
+      "utilityName": "SISTEMA DE AGUA ROOSEVELT ROAD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0619016",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H1",
+        "lastSampleDate": "2016-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "boqueron",
+      "name": "BOQUERON",
+      "county": null,
+      "population": 184,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "PR0005236",
+      "utilityName": "BOQUERON",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0005236",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "acued-canabon-sect-el-parque",
+      "name": "ACUED. CANABON SECT. EL PARQUE",
+      "county": "Barranquitas Municipio",
+      "population": 97,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0510225",
+      "utilityName": "ACUED. CANABON SECT. EL PARQUE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0510225",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sistema-de-agua-matuyas-bajo",
+      "name": "SISTEMA DE AGUA MATUYAS BAJO",
+      "county": "Maunabo Municipio",
+      "population": 88,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0549095",
+      "utilityName": "SISTEMA DE AGUA MATUYAS BAJO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0549095",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 35,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H1",
+        "lastSampleDate": "2020-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "toa-baja",
+      "name": "TOA BAJA",
+      "county": null,
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "PR0002000",
+      "utilityName": "SUPERACUEDUCTO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=PR0002000",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": null
+    }
+  ]
+}

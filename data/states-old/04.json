@@ -1,0 +1,400 @@
+{
+  "stateCode": "04",
+  "stateName": "04",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "cherokee",
+      "name": "CHEROKEE",
+      "county": null,
+      "population": 18415,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "043740039",
+      "utilityName": "CHEROKEE WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=043740039",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "seminole",
+      "name": "SEMINOLE",
+      "county": null,
+      "population": 14521,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "041200003",
+      "utilityName": "SEMINOLE UTILITIES HOLLYWOOD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=041200003",
+      "allUtilities": [
+        "SEMINOLE UTILITIES HOLLYWOOD",
+        "SEMINOLE UTILITIES IMMOKALEE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "choctaw-pearl-river",
+      "name": "CHOCTAW - PEARL RIVER",
+      "county": null,
+      "population": 13055,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "042800003",
+      "utilityName": "CHOCTAW - PEARL RIVER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=042800003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "seminole-brighton-reservation",
+      "name": "SEMINOLE - BRIGHTON RESERVATION",
+      "county": null,
+      "population": 6538,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "041200001",
+      "utilityName": "SEMINOLE - BRIGHTON RESERVATION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=041200001",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.41,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "poarch-creek",
+      "name": "POARCH CREEK",
+      "county": null,
+      "population": 5961,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "040000002",
+      "utilityName": "POARCH CREEK UTILITIES - WEST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=040000002",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "seminole-big-cypress",
+      "name": "SEMINOLE - BIG CYPRESS",
+      "county": null,
+      "population": 2132,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "041200002",
+      "utilityName": "SEMINOLE - BIG CYPRESS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=041200002",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.74,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "choctaw-conehatta",
+      "name": "CHOCTAW - CONEHATTA",
+      "county": null,
+      "population": 1201,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "042800002",
+      "utilityName": "CHOCTAW - CONEHATTA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=042800002",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.94,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "choctaw-tucker",
+      "name": "CHOCTAW - TUCKER",
+      "county": null,
+      "population": 1112,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "042800004",
+      "utilityName": "CHOCTAW - TUCKER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=042800004",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H2",
+        "lastSampleDate": "2020-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "miccosukee-tribe-of-indians",
+      "name": "MICCOSUKEE TRIBE OF INDIANS",
+      "county": null,
+      "population": 955,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "041210001",
+      "utilityName": "MICCOSUKEE TRIBE OF INDIANS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=041210001",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.35,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "choctaw-bogue-chitto",
+      "name": "CHOCTAW - BOGUE CHITTO",
+      "county": null,
+      "population": 919,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "042800001",
+      "utilityName": "CHOCTAW - BOGUE CHITTO",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=042800001",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H2",
+        "lastSampleDate": "2020-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cherokee-rough-branch",
+      "name": "CHEROKEE - ROUGH BRANCH",
+      "county": null,
+      "population": 233,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "043700056",
+      "utilityName": "CHEROKEE - ROUGH BRANCH WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=043700056",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cherokee-3200-acre-community-ws",
+      "name": "CHEROKEE- 3200 ACRE COMMUNITY WS",
+      "county": null,
+      "population": 164,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "043740040",
+      "utilityName": "CHEROKEE- 3200 ACRE COMMUNITY WS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=043740040",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "cherokee-snowbirdcornsilk-community",
+      "name": "CHEROKEE - SNOWBIRD/CORNSILK COMMUNITY",
+      "county": null,
+      "population": 103,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "043740043",
+      "utilityName": "CHEROKEE - SNOWBIRD/CORNSILK COMMUNITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=043740043",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.2,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2027-H2",
+        "lastSampleDate": "2027-12-31"
+      },
+      "hardness": null
+    }
+  ]
+}

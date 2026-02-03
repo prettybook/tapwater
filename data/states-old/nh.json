@@ -1,0 +1,6680 @@
+{
+  "stateCode": "NH",
+  "stateName": "New Hampshire",
+  "lastUpdated": "2026-01-26",
+  "cities": [
+    {
+      "slug": "manchester",
+      "name": "MANCHESTER",
+      "county": null,
+      "population": 123525,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1471010",
+      "utilityName": "MANCHESTER WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1471010",
+      "allUtilities": [
+        "MANCHESTER WATER WORKS",
+        "ROCKWOOD TERRACE CONDOS"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H1",
+        "lastSampleDate": "2024-06-30"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "nashua",
+      "name": "NASHUA",
+      "county": null,
+      "population": 89148,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1621010",
+      "utilityName": "PENNICHUCK WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1621010",
+      "allUtilities": [
+        "PENNICHUCK WATER WORKS",
+        "FARLEY RD ESTATES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "concord",
+      "name": "CONCORD",
+      "county": null,
+      "population": 44215,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH0501010",
+      "utilityName": "CONCORD WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0501010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "portsmouth",
+      "name": "PORTSMOUTH",
+      "county": null,
+      "population": 42900,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1951010",
+      "utilityName": "PORTSMOUTH WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1951010",
+      "allUtilities": [
+        "PORTSMOUTH WATER WORKS",
+        "PEASE TRADE PORT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "hampton",
+      "name": "HAMPTON",
+      "county": null,
+      "population": 34552,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1051010",
+      "utilityName": "AQUARION WATER/NH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1051010",
+      "allUtilities": [
+        "AQUARION WATER/NH",
+        "SUN VALLEY",
+        "FOUR SEASONS MOBILE HOME PARK",
+        "HEMLOCK HAVEN",
+        "TAYLOR RIVER ESTATES"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "keene",
+      "name": "KEENE",
+      "county": null,
+      "population": 30000,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1241010",
+      "utilityName": "KEENE WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1241010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "dover",
+      "name": "DOVER",
+      "county": null,
+      "population": 29000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0651010",
+      "utilityName": "DOVER WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0651010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "rochester",
+      "name": "ROCHESTER",
+      "county": null,
+      "population": 25671,
+      "waterSystemCount": 9,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2001010",
+      "utilityName": "ROCHESTER WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2001010",
+      "allUtilities": [
+        "ROCHESTER WATER DEPT",
+        "COUNTRY RIDGE MOBILE HOME PARK",
+        "ROCHESTER CONSECUTIVE WTR SYS",
+        "PROFILE APARTMENTS",
+        "MEADOWBROOK VILLAGE",
+        "GRANDVIEW ESTATES",
+        "ACORN TERRACE",
+        "WESTWIND ESTATES II",
+        "INN AT SECRETARIAT ESTATES"
+      ],
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.45,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "merrimack",
+      "name": "MERRIMACK",
+      "county": null,
+      "population": 25500,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1531010",
+      "utilityName": "MERRIMACK VILLAGE DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1531010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H1",
+        "lastSampleDate": "2024-06-30"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "salem",
+      "name": "SALEM",
+      "county": null,
+      "population": 21996,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2051010",
+      "utilityName": "SALEM WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2051010",
+      "allUtilities": [
+        "SALEM WATER DEPT",
+        "MILLVILLE CIRCLE/SOUTH",
+        "LANCASTER FARMS",
+        "MILLVILLE CIRCLE/NORTH",
+        "AUTUMN WOODS",
+        "ACKERMAN RETIREMENT PARK",
+        "SHADOW LAKE MOBILE HOME PARK"
+      ],
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.34,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "laconia",
+      "name": "LACONIA",
+      "county": null,
+      "population": 21480,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1281010",
+      "utilityName": "LACONIA WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1281010",
+      "allUtilities": [
+        "LACONIA WATER WORKS",
+        "MOUNTAIN VIEW APTS",
+        "WENTWORTH COVE ESTATES",
+        "PENDLETON COVE",
+        "WINDEMERE RIDGE"
+      ],
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.67,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "derry",
+      "name": "DERRY",
+      "county": null,
+      "population": 20994,
+      "waterSystemCount": 17,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0611010",
+      "utilityName": "DERRY WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0611010",
+      "allUtilities": [
+        "DERRY WATER DEPT",
+        "OAKWOOD TERRACE",
+        "MAPLE HILL ACRES",
+        "BARKLAND ACRES",
+        "MORNINGSIDE DRIVE",
+        "GLEN RIDGE DEV",
+        "FARMSTEAD ACRES",
+        "HI AND LO ESTATES",
+        "DREW WOODS",
+        "MAPLE HAVEN",
+        "OLD COACH VILLAGE",
+        "AUTUMN WOODS",
+        "RAND SHEPARD HILL",
+        "WILLOW BEND",
+        "ANNIE OAKLEY MHP",
+        "RUNNING BROOK",
+        "CENTENNIAL ESTATES"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.14,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "hudson",
+      "name": "HUDSON",
+      "county": null,
+      "population": 16978,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1201010",
+      "utilityName": "HUDSON WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1201010",
+      "allUtilities": [
+        "HUDSON WATER DEPT",
+        "FRANCOEUR APT/HUDSON MOTOR INN",
+        "HUDSON MOBILE HOME ESTS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "durham",
+      "name": "DURHAM",
+      "county": null,
+      "population": 16455,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0691010",
+      "utilityName": "UNH/DURHAM WATER SYS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0691010",
+      "allUtilities": [
+        "UNH/DURHAM WATER SYS",
+        "JOHNSON CREEK",
+        "STAGECOACH FARMS",
+        "BROOKDALE SPRUCE WOOD"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.69,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "seabrook",
+      "name": "SEABROOK",
+      "county": null,
+      "population": 14000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2111010",
+      "utilityName": "SEABROOK WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2111010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "exeter",
+      "name": "EXETER",
+      "county": null,
+      "population": 13958,
+      "waterSystemCount": 8,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0801010",
+      "utilityName": "EXETER WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0801010",
+      "allUtilities": [
+        "EXETER WATER DEPT",
+        "PICKPOCKET WOODS",
+        "EXETER HIGHLANDS",
+        "LOUISBURG CIRCLE",
+        "FOREST RIDGE",
+        "EXETER RIVER MOBILE HOME PARK",
+        "RIVER RUN",
+        "BEECH TREE COOPERATIVE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.37,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 2.02,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "somersworth",
+      "name": "SOMERSWORTH",
+      "county": null,
+      "population": 12000,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH2151010",
+      "utilityName": "SOMERSWORTH WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2151010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "conway",
+      "name": "CONWAY",
+      "county": null,
+      "population": 11690,
+      "waterSystemCount": 24,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0511030",
+      "utilityName": "NORTH CONWAY WATER PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0511030",
+      "allUtilities": [
+        "CONWAY WATER AND SEWER",
+        "NORTH CONWAY WATER PCT",
+        "BIRCH HILL EAST",
+        "CATHEDRAL LEDGE",
+        "ECHO LAKE WOODS",
+        "FOREST EDGE",
+        "FOREST PARK VILLAGE",
+        "REBECCA LANE WATER SYS",
+        "NORTH PINES",
+        "SACO RIVER FOREST",
+        "WOODLAND GROVE",
+        "SOUTH PINES",
+        "DEERBROOK CONDOS",
+        "OAKWOOD HEIGHTS",
+        "SACO PINES",
+        "BROOK VIEW VILLAGE",
+        "CEDAR CREEK",
+        "NEAR LEDGE",
+        "MELODY PINES CONDOS",
+        "ROCKHOUSE MOUNTAIN",
+        "SACO WOODS CONDOS",
+        "DAVIS HILL",
+        "HALE ESTATES",
+        "MOUNTAIN VALE VILLAGE MHP"
+      ],
+      "violations3yr": {
+        "total": 88,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": 4.223,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "lebanon",
+      "name": "LEBANON",
+      "county": null,
+      "population": 10279,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1321010",
+      "utilityName": "LEBANON WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1321010",
+      "allUtilities": [
+        "LEBANON WATER DEPT",
+        "MASCOMA MEADOWS",
+        "OLYMPIC MOBILE HOME VILL/UPPER",
+        "CURRIERS MHP",
+        "OLYMPIC MOBILE HOME VILL/LOWER"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.06,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "milford",
+      "name": "MILFORD",
+      "county": null,
+      "population": 10122,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1561010",
+      "utilityName": "MILFORD WATER UTILITIES DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1561010",
+      "allUtilities": [
+        "MILFORD WATER UTILITIES DEPT",
+        "ASHLEY COMMONS",
+        "HERITAGE WAY",
+        "BADGER HILL",
+        "FAIRHAVEN MOBILE HOME PARK"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.09,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "berlin",
+      "name": "BERLIN",
+      "county": null,
+      "population": 9575,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH0231010",
+      "utilityName": "BERLIN WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0231010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "londonderry",
+      "name": "LONDONDERRY",
+      "county": null,
+      "population": 9297,
+      "waterSystemCount": 19,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1391010",
+      "utilityName": "LONDONDERRY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1391010",
+      "allUtilities": [
+        "LONDONDERRY",
+        "OAKRIDGE CONDOS",
+        "OLDE COUNTRY VILLAGE",
+        "PINEHAVEN WATER TRUST",
+        "BOUMIL GROVE CONDOS",
+        "BROOK PARK ESTS",
+        "CENTURY VILLAGE CONDOS",
+        "ROLLING MEADOWS CONDOS I",
+        "ROLLING MEADOWS CONDOS III",
+        "ROLLING MEADOWS CONDOS IV",
+        "AVERY ESTATES",
+        "SPRINGWOOD HILLS",
+        "HARVEST VILLAGE",
+        "SOUTHVIEW CONDOS",
+        "MINISTERIAL/PARRISH HILLS",
+        "BITIM APARTMENTS",
+        "HANAFIN FARM",
+        "WAGON WHEEL",
+        "PONDEROSA MHP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.33,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 3.77,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "claremont",
+      "name": "CLAREMONT",
+      "county": null,
+      "population": 9000,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH0461010",
+      "utilityName": "CLAREMONT WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0461010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 24.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sullivan",
+        "sampleCount": 26
+      }
+    },
+    {
+      "slug": "hanover",
+      "name": "HANOVER",
+      "county": null,
+      "population": 8500,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1071010",
+      "utilityName": "HANOVER WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1071010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "hooksett",
+      "name": "HOOKSETT",
+      "county": null,
+      "population": 8015,
+      "waterSystemCount": 4,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1181010",
+      "utilityName": "CENTRAL HOOKSETT WATER PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1181010",
+      "allUtilities": [
+        "CENTRAL HOOKSETT WATER PCT",
+        "HOOKSETT VILLAGE WATER PCT",
+        "SMYTHE WOODS",
+        "WESCO UTILITIES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.15,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "bartlett",
+      "name": "BARTLETT",
+      "county": null,
+      "population": 7618,
+      "waterSystemCount": 24,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0161020",
+      "utilityName": "LOWER BARTLETT WATER PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0161020",
+      "allUtilities": [
+        "BARTLETT VILLAGE PCT",
+        "LOWER BARTLETT WATER PCT",
+        "NORTH LEDGE",
+        "LINDERHOF PROP OWNR ASSN",
+        "RIVERSBEND",
+        "ROLLING RIDGE",
+        "RIVERSIDE COBB FARM",
+        "COW HILL WELLHOUSE",
+        "RIVER RUN CONDOS",
+        "BLUEBERRY VILLAGE CONDOS",
+        "CRAWFORD HILLS",
+        "TOP NOTCH CONDOS",
+        "MOUNTAINSIDE ON ATTITASH ASSOC",
+        "BARTLETT PLACE",
+        "VILLAGGIO BIANCO",
+        "NORDIC VILLAGE",
+        "WHISPERING BROOK",
+        "CRAWFORD POND",
+        "BEAR VILLAGE SOUTH",
+        "GOODRICH PROPERTY",
+        "SUGARWOOD ON THE SACO",
+        "EAGLE RIDGE RESORT",
+        "STILLINGS GRANT",
+        "BEARFOOT CREEK"
+      ],
+      "violations3yr": {
+        "total": 89,
+        "healthBased": 85
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.74,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": 2.454,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "hampstead",
+      "name": "HAMPSTEAD",
+      "county": null,
+      "population": 7263,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1031010",
+      "utilityName": "HAMPSTEAD AREA WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1031010",
+      "allUtilities": [
+        "HAMPSTEAD AREA WATER",
+        "COACH RUN CONDOS",
+        "GLENWOOD NORTH"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "plymouth",
+      "name": "PLYMOUTH",
+      "county": null,
+      "population": 7183,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1941010",
+      "utilityName": "PLYMOUTH VLG WATER AND SEWER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1941010",
+      "allUtilities": [
+        "PLYMOUTH VLG WATER AND SEWER",
+        "TENNEY BROOK II",
+        "TENNEY BROOK CONDOS I",
+        "WHIP O WILL"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.83,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "franklin",
+      "name": "FRANKLIN",
+      "county": null,
+      "population": 7000,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0851010",
+      "utilityName": "FRANKLIN WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0851010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "litchfield",
+      "name": "LITCHFIELD",
+      "county": null,
+      "population": 7000,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1371010",
+      "utilityName": "LITCHFIELD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1371010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "littleton",
+      "name": "LITTLETON",
+      "county": null,
+      "population": 6500,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1381010",
+      "utilityName": "LITTLETON WATER AND LIGHT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1381010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "wolfeboro",
+      "name": "WOLFEBORO",
+      "county": null,
+      "population": 6377,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2561010",
+      "utilityName": "WOLFEBORO WATER AND SEWER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2561010",
+      "allUtilities": [
+        "WOLFEBORO WATER AND SEWER",
+        "WENTWORTH ESTATES",
+        "POINT BREEZE CONDOS",
+        "SHERWOOD FOREST",
+        "BIRCHES OF WOLFEBORO COOP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.73,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "newmarket",
+      "name": "NEWMARKET",
+      "county": null,
+      "population": 5288,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1731010",
+      "utilityName": "NEWMARKET WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1731010",
+      "allUtilities": [
+        "NEWMARKET WATER WORKS",
+        "WADE FARM CONDOS",
+        "GREAT BAY WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H1",
+        "lastSampleDate": "2024-06-30"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "pembroke",
+      "name": "PEMBROKE",
+      "county": null,
+      "population": 5265,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1861010",
+      "utilityName": "PEMBROKE WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1861010",
+      "allUtilities": [
+        "PEMBROKE WATER WORKS",
+        "MEETING HOUSE WATER",
+        "BOROUGH RD APARTMENTS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.19,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "raymond",
+      "name": "RAYMOND",
+      "county": null,
+      "population": 5203,
+      "waterSystemCount": 11,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1971010",
+      "utilityName": "RAYMOND WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1971010",
+      "allUtilities": [
+        "RAYMOND WATER DEPT",
+        "LIBERTY TREE ACRES",
+        "RIVERVIEW MANOR CONDOS",
+        "BRANCH RIVER APARTMENTS",
+        "PAWTUCKAWAY FARMS",
+        "WESTGATE ESTATES",
+        "CLEARWATER ESTATES",
+        "BLACKSTONE RESERVE",
+        "GREEN HILLS ESTS",
+        "HILL TOP",
+        "TRANQUILITY ESTATES"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 17.55,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 5.571,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "bedford",
+      "name": "BEDFORD",
+      "county": null,
+      "population": 5081,
+      "waterSystemCount": 4,
+      "primarySource": "Surface Water",
+      "pwsid": "NH0192080",
+      "utilityName": "LITTLE POND ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0192080",
+      "allUtilities": [
+        "POWDER HILL",
+        "ENGLISH WOODS",
+        "CABOT PRESERVE",
+        "LITTLE POND ESTATES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "newport",
+      "name": "NEWPORT",
+      "county": null,
+      "population": 5043,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1741010",
+      "utilityName": "NEWPORT WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1741010",
+      "allUtilities": [
+        "NEWPORT WATER WORKS",
+        "CARY AND ALLEN ST DEV"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 14.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 24.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sullivan",
+        "sampleCount": 26
+      }
+    },
+    {
+      "slug": "goffstown",
+      "name": "GOFFSTOWN",
+      "county": null,
+      "population": 4798,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0911010",
+      "utilityName": "GOFFSTOWN VILLAGE PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0911010",
+      "allUtilities": [
+        "GOFFSTOWN VILLAGE PCT",
+        "GRASMERE WATER PCT/MAIN",
+        "GRASMERE WP/LANDMARK",
+        "ORCHARD HIGHLANDS",
+        "BRIAR COURT ESTATES",
+        "MT LAUREL ESTATES"
+      ],
+      "violations3yr": {
+        "total": 20,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 83.95,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "meredith",
+      "name": "MEREDITH",
+      "county": null,
+      "population": 4634,
+      "waterSystemCount": 9,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1521010",
+      "utilityName": "MEREDITH WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1521010",
+      "allUtilities": [
+        "MEREDITH WATER DEPT",
+        "PATRICIAN SHORES",
+        "EAST BLUFF HIGHLANDS CONDOS",
+        "EASTBLUFF VILLAGE CONDOS",
+        "SANDS OF BROOKHURST",
+        "PINE HILL COMMUNITY ASSN",
+        "GROUSE POINT CLUB",
+        "BROOK HILL",
+        "FORESTVIEW MANOR"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.82,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "peterborough",
+      "name": "PETERBOROUGH",
+      "county": null,
+      "population": 4500,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1871010",
+      "utilityName": "PETERBOROUGH WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1871010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 9.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "gilford",
+      "name": "GILFORD",
+      "county": null,
+      "population": 4406,
+      "waterSystemCount": 26,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0881020",
+      "utilityName": "GUNSTOCK ACRES VILLAGE DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0881020",
+      "allUtilities": [
+        "ABENAKI WATER/GILFORD VILLAGE",
+        "GUNSTOCK ACRES VILLAGE DIST",
+        "CHALET VILLAGE",
+        "GILFORD FOREST ESTATES",
+        "LIBERTY HIGHLANDS WATER",
+        "BRAKE HILL ACRES",
+        "WINNSTOCK CONDOS",
+        "CHERRY VALLEY CONDOS",
+        "GUNSTOCK GLEN WATER",
+        "BELKNAP HEIGHTS WATER",
+        "BROADVIEW CONDOS",
+        "MARINA BAY CONDOS I AND II",
+        "LAKE SHORE PARK",
+        "SAMOSET AT WINNIPESAUKEE",
+        "COUNTRY VILLAGE WAY",
+        "BROOKSIDE CROSSING",
+        "DOCKHAM SHORES ESTATES",
+        "GILFORD MEADOWS",
+        "BRETON WOODS DEV",
+        "HAMPSHIRE VILLAGE",
+        "STONEWALL VILLAGE",
+        "OLD LAKE SHORE",
+        "MOUNTAIN VIEW HOUSING",
+        "LRMHV",
+        "EDGE OF WOODS",
+        "LILY POND MHP"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 43.93,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "rye",
+      "name": "RYE",
+      "county": null,
+      "population": 4300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2041010",
+      "utilityName": "RYE WATER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2041010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "jaffrey",
+      "name": "JAFFREY",
+      "county": null,
+      "population": 4200,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1221010",
+      "utilityName": "JAFFREY WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1221010",
+      "allUtilities": [
+        "JAFFREY WATER WORKS",
+        "RESIDENTIAL CAMP MONADNOCK"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "haverhill",
+      "name": "HAVERHILL",
+      "county": null,
+      "population": 4179,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1101040",
+      "utilityName": "WOODSVILLE WATER AND LIGHT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1101040",
+      "allUtilities": [
+        "PRECINCT OF HAVERHILL CORNER",
+        "NO HAVERHILL WATER AND LIGHT",
+        "WOODSVILLE WATER AND LIGHT",
+        "MOUNTAIN LAKES WATER DISTRICT",
+        "FRENCH POND ESTATES"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 34.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "belmont",
+      "name": "BELMONT",
+      "county": null,
+      "population": 4058,
+      "waterSystemCount": 15,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0201010",
+      "utilityName": "BELMONT WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0201010",
+      "allUtilities": [
+        "BELMONT WATER DEPT",
+        "BELMONT WATER DEPT/NORTH",
+        "ABENAKI WATER /LAKELAND",
+        "SUNRAY SHORES WATER DIST",
+        "ABENAKI WATER/TIOGA  BELMONT",
+        "WESTVIEW MEADOWS",
+        "SUN LAKE VILLAGE",
+        "CATES MOBILE HOME COLONY",
+        "LADD HILL MHP",
+        "NORTHBROOK MHP",
+        "PINE GARDENS MHP",
+        "SOLAR VILLAGE",
+        "GRANITE STATE CAMPGROUND",
+        "MALLARDS LANDING",
+        "LAKES REGION MHP COOP II"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 58.92,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 1.99,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2019-H1",
+        "lastSampleDate": "2019-06-30"
+      },
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "boscawen",
+      "name": "BOSCAWEN",
+      "county": null,
+      "population": 3800,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0251010",
+      "utilityName": "PENACOOK BOSCAWEN WATER PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0251010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "bristol",
+      "name": "BRISTOL",
+      "county": null,
+      "population": 3575,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0301010",
+      "utilityName": "BRISTOL WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0301010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "grantham",
+      "name": "GRANTHAM",
+      "county": null,
+      "population": 3450,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0951010",
+      "utilityName": "VILLAGE DIST OF EASTMAN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0951010",
+      "allUtilities": [
+        "VILLAGE DIST OF EASTMAN",
+        "GRAY LEDGES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.43,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 24.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sullivan",
+        "sampleCount": 26
+      }
+    },
+    {
+      "slug": "hinsdale",
+      "name": "HINSDALE",
+      "county": null,
+      "population": 3400,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1151010",
+      "utilityName": "NORTH HINSDALE WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1151010",
+      "allUtilities": [
+        "NORTH HINSDALE WATER DEPT",
+        "HINSDALE WATER DEPT/DOWNTOWN"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "hillsborough",
+      "name": "HILLSBOROUGH",
+      "county": null,
+      "population": 3300,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1141010",
+      "utilityName": "HILLSBOROUGH WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1141010",
+      "allUtilities": [
+        "EMERALD LAKE",
+        "HILLSBOROUGH WATER WORKS"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 33.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2010-H2",
+        "lastSampleDate": "2010-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "lincoln",
+      "name": "LINCOLN",
+      "county": null,
+      "population": 3300,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1351010",
+      "utilityName": "LINCOLN WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1351010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "farmington",
+      "name": "FARMINGTON",
+      "county": null,
+      "population": 3250,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0811010",
+      "utilityName": "FARMINGTON WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0811010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 20.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2000-H2",
+        "lastSampleDate": "2000-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "waterville-valley",
+      "name": "WATERVILLE VALLEY",
+      "county": null,
+      "population": 3150,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2441010",
+      "utilityName": "WATERVILLE VALLEY WATER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2441010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 69.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "charlestown",
+      "name": "CHARLESTOWN",
+      "county": null,
+      "population": 3138,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0411010",
+      "utilityName": "CHARLESTOWN WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0411010",
+      "allUtilities": [
+        "CHARLESTOWN WATER WORKS",
+        "MEADOWVIEW APTS",
+        "CONNECTICUT RIVER MHP",
+        "WINDY ACRES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 18.95,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.6,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H1",
+        "lastSampleDate": "2024-06-30"
+      },
+      "hardness": {
+        "value": 24.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sullivan",
+        "sampleCount": 26
+      }
+    },
+    {
+      "slug": "henniker",
+      "name": "HENNIKER",
+      "county": null,
+      "population": 3091,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1121010",
+      "utilityName": "COGSWELL SPRINGS WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1121010",
+      "allUtilities": [
+        "COGSWELL SPRINGS WATER WORKS",
+        "WOOD HILL VILLAGE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 19.12,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "moultonborough",
+      "name": "MOULTONBOROUGH",
+      "county": null,
+      "population": 3087,
+      "waterSystemCount": 12,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1612010",
+      "utilityName": "PARADISE SHORES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1612010",
+      "allUtilities": [
+        "PARADISE SHORES",
+        "FAR ECHO HARBOR",
+        "WEST POINT",
+        "WEST WYNDE VILLAGE",
+        "JONATHANS LANDING CONDOS",
+        "LANDS END",
+        "WINDWARD HARBOR CONDOS",
+        "HARBOURSIDE ON WINNIPESAUKEE",
+        "KILNWOOD ON KANASATKA",
+        "WENTWORTH ACRES",
+        "CROSSWINDS",
+        "STANYAN ROAD"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 8
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 48.92,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 1.536,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "new-london",
+      "name": "NEW LONDON",
+      "county": null,
+      "population": 3083,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1721010",
+      "utilityName": "NEW LONDON SPRINGFIELD WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1721010",
+      "allUtilities": [
+        "NEW LONDON SPRINGFIELD WATER",
+        "SEASONS AT LAKE SUNAPEE",
+        "SLOPE N SHORE CLUB"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 30.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2010-H2",
+        "lastSampleDate": "2010-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "winchester",
+      "name": "WINCHESTER",
+      "county": null,
+      "population": 3067,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2531010",
+      "utilityName": "WINCHESTER WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2531010",
+      "allUtilities": [
+        "WINCHESTER WATER DEPT",
+        "SOUTH PARRISH",
+        "GREEN VALLEY MOBILE HOME PARK"
+      ],
+      "violations3yr": {
+        "total": 84,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "woodstock",
+      "name": "WOODSTOCK",
+      "county": null,
+      "population": 3048,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2571020",
+      "utilityName": "WOODSTOCK WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2571020",
+      "allUtilities": [
+        "WOODSTOCK WATER DEPT",
+        "JACK O LANTERN CONDOS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 30.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1993-H2",
+        "lastSampleDate": "1993-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "swanzey",
+      "name": "SWANZEY",
+      "county": null,
+      "population": 2776,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2301010",
+      "utilityName": "N SWANZEY WATER AND FIRE PRCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2301010",
+      "allUtilities": [
+        "N SWANZEY WATER AND FIRE PRCT",
+        "WEST SWANZEY WATER",
+        "ASHUELOT RIVER APTS",
+        "EASTFIELD CROSSING",
+        "FOREST VIEW ESTATES",
+        "PINE GROVE MOBILE HOME PARK",
+        "VIEW POINT COOP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 34.17,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 3.181,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2007-H2",
+        "lastSampleDate": "2007-12-31"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "northumberland",
+      "name": "NORTHUMBERLAND",
+      "county": null,
+      "population": 2715,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1781010",
+      "utilityName": "GROVETON WATER SYS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1781010",
+      "allUtilities": [
+        "GROVETON WATER SYS",
+        "LOST NATION WATER"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 33.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2004-H2",
+        "lastSampleDate": "2004-12-31"
+      },
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "northfield",
+      "name": "NORTHFIELD",
+      "county": null,
+      "population": 2699,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2351010",
+      "utilityName": "TILTON NORTHFIELD WATER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2351010",
+      "allUtilities": [
+        "HIGHLANDS VILLAGE DISTRICT",
+        "SODA BROOK",
+        "CANTERBURY CROSSINGS",
+        "TILTON NORTHFIELD WATER DIST"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 36.57,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H2",
+        "lastSampleDate": "2015-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "gorham",
+      "name": "GORHAM",
+      "county": null,
+      "population": 2685,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0921010",
+      "utilityName": "GORHAM WATER AND SEWER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0921010",
+      "allUtilities": [
+        "GORHAM WATER AND SEWER DEPT",
+        "GORHAM HILL SPRING"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 30.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 4.07,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1994-H1",
+        "lastSampleDate": "1994-06-30"
+      },
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "windham",
+      "name": "WINDHAM",
+      "county": null,
+      "population": 2682,
+      "waterSystemCount": 16,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2542030",
+      "utilityName": "W AND E",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2542030",
+      "allUtilities": [
+        "WHISPERING WINDS",
+        "GOLDEN BROOK",
+        "W AND E",
+        "HARDWOOD HTS BIRCH HILL",
+        "VILLAGES OF WINDHAM",
+        "WYNRIDGE CONDOS",
+        "MCAULEY COMMONS",
+        "CASTLE REACH",
+        "FLETCHER CORNER ESTATES",
+        "HADLEIGH WOODS",
+        "LAMPLIGHTER VILLAGE",
+        "SPRUCE POND ESTS",
+        "CAMELOT III",
+        "WOOD MEADOW ESTATES",
+        "WARDE REHABILITATION/NURSING",
+        "WINDHAM TERRACE"
+      ],
+      "violations3yr": {
+        "total": 17,
+        "healthBased": 17
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 43.69,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H2",
+        "lastSampleDate": "2020-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "campton",
+      "name": "CAMPTON",
+      "county": null,
+      "population": 2557,
+      "waterSystemCount": 11,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0341030",
+      "utilityName": "WATERVILLE ESTATE VLG DIST/W",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0341030",
+      "allUtilities": [
+        "CAMPTON VILLAGE PCT",
+        "WATERVILLE ESTATE VLG DIST/W",
+        "BEEBE RIVER",
+        "TRIPPLEWOOD RESORT CONDOS",
+        "DEER RUN",
+        "MT PROSPECT ACADEMY/CAMPTON",
+        "VALLEY VIEW CONDOS",
+        "RED SLEIGH CONDOS",
+        "COACHMAN CONDOS",
+        "CHESLEYS MHP",
+        "TWO RIVERS MHCC"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 33.39,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 5.58,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "lancaster",
+      "name": "LANCASTER",
+      "county": null,
+      "population": 2450,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1291010",
+      "utilityName": "LANCASTER WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1291010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "alton",
+      "name": "ALTON",
+      "county": null,
+      "population": 2288,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0061010",
+      "utilityName": "ALTON WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0061010",
+      "allUtilities": [
+        "ALTON WATER WORKS",
+        "EAGLES REST MHP",
+        "LAKESIDE AT WINNIPESAUKEE",
+        "MERRYMEETING MHP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 185.87,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.619,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "barnstead",
+      "name": "BARNSTEAD",
+      "county": null,
+      "population": 2280,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH0142010",
+      "utilityName": "LOCKE LAKE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0142010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "hopkinton",
+      "name": "HOPKINTON",
+      "county": null,
+      "population": 2255,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1191010",
+      "utilityName": "CONTOOCOOK VILLAGE PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1191010",
+      "allUtilities": [
+        "CONTOOCOOK VILLAGE PCT",
+        "HOPKINTON VILLAGE PCT",
+        "THE MEADOWS ",
+        "ELM BROOK VILLAGE",
+        "DEER MEADOWS"
+      ],
+      "violations3yr": {
+        "total": 43,
+        "healthBased": 34
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 65.79,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 3.9,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "sunapee",
+      "name": "SUNAPEE",
+      "county": null,
+      "population": 2236,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2271010",
+      "utilityName": "SUNAPEE WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2271010",
+      "allUtilities": [
+        "SUNAPEE WATER WORKS",
+        "GEORGES MILLS WATER WORKS",
+        "MEADOW BROOK AT SUNAPEE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 17.83,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2011-H2",
+        "lastSampleDate": "2011-12-31"
+      },
+      "hardness": {
+        "value": 24.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sullivan",
+        "sampleCount": 26
+      }
+    },
+    {
+      "slug": "ossipee",
+      "name": "OSSIPEE",
+      "county": null,
+      "population": 2229,
+      "waterSystemCount": 9,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1841010",
+      "utilityName": "OSSIPEE WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1841010",
+      "allUtilities": [
+        "OSSIPEE WATER DEPT",
+        "BLUFFS AT OSSIPEE LAKE",
+        "INDIAN MOUND GOLF CLUB",
+        "POLAND BROOK WOODS",
+        "DEER COVE WATER",
+        "THE PLACE IN OSSIPEE",
+        "OSSIPEE MOUNTAINS ESTATES",
+        "SANDY RIDGE ESTATES",
+        "CARROLL COUNTY COMPLEX"
+      ],
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 9
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 22.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 3.613,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "epping",
+      "name": "EPPING",
+      "county": null,
+      "population": 2216,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0761010",
+      "utilityName": "EPPING WATER AND SEWER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0761010",
+      "allUtilities": [
+        "EPPING WATER AND SEWER DEPT",
+        "MELLING GLEN",
+        "GOVERNORS GREEN",
+        "PLUMER COURT",
+        "VILLAGES ON THE LAMPREY",
+        "WOODLANDS",
+        "EVANS TRAILER PARK"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "plaistow",
+      "name": "PLAISTOW",
+      "county": null,
+      "population": 2137,
+      "waterSystemCount": 20,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1931010",
+      "utilityName": "PLAISTOW WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1931010",
+      "allUtilities": [
+        "PLAISTOW WATER DEPT",
+        "GOLDEN HILL",
+        "FOREST GLEN CONDOS",
+        "TWIN RIDGE CONDOS",
+        "MOONGATE FARM",
+        "VALLEY FIELD APTS NORTHLAND",
+        "STONEBRIDGE VILLAGE",
+        "GREENFIELD HILL ESTATES",
+        "STRAWBERRY HILL",
+        "BRYANT BROOK",
+        "CROSS RIDGE ESTATES",
+        "RUTLEDGE PLACE",
+        "BLUEBERRY KNOLL ESTATES",
+        "RAINBOW RIDGE",
+        "TUXBURY MEADOWS",
+        "SWEET HILL ESTATES",
+        "WEST PINE CONDOS",
+        "SHADY LANE APARTMENTS",
+        "LITTLE RIVER VILLAGE",
+        "THE RESERVE AT SNOWS BROOK"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 28.46,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H2",
+        "lastSampleDate": "2017-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "enfield",
+      "name": "ENFIELD",
+      "county": null,
+      "population": 2130,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0751010",
+      "utilityName": "ENFIELD WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0751010",
+      "allUtilities": [
+        "ENFIELD WATER DEPT",
+        "LAKEVIEW CONDOS",
+        "WILSONS MHP",
+        "LAKESIDE COOPERATIVE",
+        "LOWER SHAKER VILLAGE"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 3
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 40.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H1",
+        "lastSampleDate": "2007-06-30"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "ashland",
+      "name": "ASHLAND",
+      "county": null,
+      "population": 2073,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0101010",
+      "utilityName": "ASHLAND WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0101010",
+      "allUtilities": [
+        "ASHLAND WATER DEPT",
+        "ROPEWALK SERVICES",
+        "VILLAGE AT RIVERBEND"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 29.84,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2012-H2",
+        "lastSampleDate": "2012-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "stratham",
+      "name": "STRATHAM",
+      "county": null,
+      "population": 2043,
+      "waterSystemCount": 18,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2232070",
+      "utilityName": "MONTROSE CONDOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2232070",
+      "allUtilities": [
+        "GLENGARRY CONDOS",
+        "THORNHILL CONDOS",
+        "SALT RIVER CONDOS",
+        "PENINSULA AT WINDING BROOK",
+        "STRATHAM GREEN CONDOS",
+        "BALMORAL CONDOS",
+        "MONTROSE CONDOS",
+        "PHEASANT RUN CONDOS",
+        "STRATHAM WOODS",
+        "TURNBERRY",
+        "MUIRFIELD CLUSTER",
+        "JEWETT HILL",
+        "ABERDEEN/WEST",
+        "BURNHAVEN",
+        "LAMINGTON HILL",
+        "VINEYARDS",
+        "CHISHOLM FARM",
+        "STONEARCH CONDO ASSN/KIRKWALL"
+      ],
+      "violations3yr": {
+        "total": 56,
+        "healthBased": 44
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 18.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "carroll",
+      "name": "CARROLL",
+      "county": null,
+      "population": 1925,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0382010",
+      "utilityName": "ROSEBROOK WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0382010",
+      "allUtilities": [
+        "CARROLL WATER WORKS",
+        "ROSEBROOK WATER"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 39.36,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.827,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2004-H1",
+        "lastSampleDate": "2004-06-30"
+      },
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "pelham",
+      "name": "PELHAM",
+      "county": null,
+      "population": 1907,
+      "waterSystemCount": 13,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1851010",
+      "utilityName": "WILLIAMSBURG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1851010",
+      "allUtilities": [
+        "WILLIAMSBURG",
+        "GAGE HILL",
+        "REVEL PELHAM",
+        "HIGHLAND ESTATES APARTMENTS",
+        "OLD LAWRENCE ROAD",
+        "SIMPSON MILL ROAD",
+        "BOULDER HILLS",
+        "PARADISE ESTATES CONDOMINIUM",
+        "SKY VIEW ESTATES",
+        "GARLAND WOODS",
+        "LONG POND WOODS",
+        "LANDMARK ESTATES CONDOS",
+        "STONEGATE ESTATES"
+      ],
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 16
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 17.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "walpole",
+      "name": "WALPOLE",
+      "county": null,
+      "population": 1807,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2401010",
+      "utilityName": "WALPOLE WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2401010",
+      "allUtilities": [
+        "WALPOLE WATER DEPT",
+        "N WALPOLE VILLAGE DISTRICT/LOW",
+        "N WALPOLE VILLAGE DIST/HIGH"
+      ],
+      "violations3yr": {
+        "total": 32,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "wilton",
+      "name": "WILTON",
+      "county": null,
+      "population": 1790,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2521010",
+      "utilityName": "WILTON WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2521010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 63.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.75,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1993-H2",
+        "lastSampleDate": "1993-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "bethlehem",
+      "name": "BETHLEHEM",
+      "county": null,
+      "population": 1750,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH0241010",
+      "utilityName": "BETHLEHEM VILLAGE DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0241010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 16
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 21.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1999-H2",
+        "lastSampleDate": "1999-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "epsom",
+      "name": "EPSOM",
+      "county": null,
+      "population": 1729,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0771010",
+      "utilityName": "EPSOM VILLAGE WATER DISTICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0771010",
+      "allUtilities": [
+        "EPSOM VILLAGE WATER DISTICT",
+        "KINGS GRANT",
+        "KINGS TOWNE MHP",
+        "COLBY BROOK ESTATES",
+        "SHELTERING PINES MHP",
+        "EPSOM HEALTHCARE CTR",
+        "MEADOW BROOK"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 8
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 23.99,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.134,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "pittsfield",
+      "name": "PITTSFIELD",
+      "county": null,
+      "population": 1703,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1911010",
+      "utilityName": "PITTSFIELD AQUEDUCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1911010",
+      "allUtilities": [
+        "PITTSFIELD AQUEDUCT",
+        "GRIGGS MOBILE HOMES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 70.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 1.75,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1993-H2",
+        "lastSampleDate": "1993-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "wakefield",
+      "name": "WAKEFIELD",
+      "county": null,
+      "population": 1695,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2391010",
+      "utilityName": "SANBORNVILLE WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2391010",
+      "allUtilities": [
+        "SANBORNVILLE WATER DEPT",
+        "BEVERLY HILLS WATER",
+        "WAKEFIELD ACRES",
+        "MICHAWANIC VILLAGE CONDOS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 29.68,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "rollinsford",
+      "name": "ROLLINSFORD",
+      "county": null,
+      "population": 1688,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2011010",
+      "utilityName": "ROLLINSFORD WATER SEWER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2011010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 43.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H2",
+        "lastSampleDate": "2017-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "greenville",
+      "name": "GREENVILLE",
+      "county": null,
+      "population": 1645,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0991010",
+      "utilityName": "GREENVILLE WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0991010",
+      "allUtilities": [
+        "GREENVILLE WATER DEPT",
+        "GREENVILLE EST VILLAGE DIST",
+        "FROST TRAILER PARK"
+      ],
+      "violations3yr": {
+        "total": 17,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 82.38,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "whitefield",
+      "name": "WHITEFIELD",
+      "county": null,
+      "population": 1640,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2501010",
+      "utilityName": "WHITEFIELD WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2501010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "barrington",
+      "name": "BARRINGTON",
+      "county": null,
+      "population": 1506,
+      "waterSystemCount": 14,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0153060",
+      "utilityName": "EMERALD ACRES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0153060",
+      "allUtilities": [
+        "SWAINS LAKE VILLAGE WATER",
+        "ELLISON FARM APTS",
+        "OLD STAGECOACH ARMS",
+        "BARRINGTON HILLS APTS/LOWER",
+        "BARRINGTON HILLS APTS/UPPER",
+        "OYSTER RIVER APTS EAST/WEST",
+        "PEPPERIDGE WOODS",
+        "DREW POND",
+        "GREEN HILLS MHP",
+        "HALCYON HILL",
+        "BARRINGTON OAKS",
+        "LEE OAK COOPERATIVE",
+        "BARRINGTON MOBILE HOME ESTATES",
+        "EMERALD ACRES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 89.93,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.06,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2010-H1",
+        "lastSampleDate": "2010-06-30"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "brentwood",
+      "name": "BRENTWOOD",
+      "county": null,
+      "population": 1459,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0284010",
+      "utilityName": "ROCKINGHAM COUNTY COMPLEX",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0284010",
+      "allUtilities": [
+        "MILL POND CROSSING",
+        "ROCKINGHAM COUNTY COMPLEX"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 22.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1997-H2",
+        "lastSampleDate": "1997-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "allenstown",
+      "name": "ALLENSTOWN",
+      "county": null,
+      "population": 1426,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0043050",
+      "utilityName": "BEAR VIEW CROSSING",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0043050",
+      "allUtilities": [
+        "OLDE TOWNE",
+        "CATAMOUNT HILL",
+        "BEAR VIEW CROSSING"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 60.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2012-H2",
+        "lastSampleDate": "2012-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "colebrook",
+      "name": "COLEBROOK",
+      "county": null,
+      "population": 1300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0481010",
+      "utilityName": "COLEBROOK WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0481010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 31.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "danville",
+      "name": "DANVILLE",
+      "county": null,
+      "population": 1291,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0582010",
+      "utilityName": "COLBY POND",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0582010",
+      "allUtilities": [
+        "COLBY POND",
+        "SPRUCE VALLEY MHP",
+        "IRON WHEEL MHP",
+        "COTTON FARMS MHP",
+        "ROCK RIMMON COOPERATIVE"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 44.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2015-H1",
+        "lastSampleDate": "2015-06-30"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "madison",
+      "name": "MADISON",
+      "county": null,
+      "population": 1275,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1461010",
+      "utilityName": "VILLAGE DISTRICT OF EIDELWEISS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1461010",
+      "allUtilities": [
+        "VILLAGE DISTRICT OF EIDELWEISS",
+        "SILVER LAKE LANDING SR HOUSING",
+        "BROOKWOOD PARK"
+      ],
+      "violations3yr": {
+        "total": 19,
+        "healthBased": 19
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 25.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "sandown",
+      "name": "SANDOWN",
+      "county": null,
+      "population": 1266,
+      "waterSystemCount": 13,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2082060",
+      "utilityName": "CORNERSTONE ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2082060",
+      "allUtilities": [
+        "BEAVER HOLLOW",
+        "FAIRFIELD",
+        "REEDS CROSSING",
+        "PINE ACRES CONDOS",
+        "STONEFORD",
+        "CORNERSTONE ESTATES",
+        "MILL PINE VILLAGE",
+        "LITTLE MILL WOODS",
+        "WATERFORD VILLAGE ESTATES",
+        "TOWNHOUSES AT WELLS VILLAGE",
+        "FOX DEN RETIREMENT COMM",
+        "WIGHT ISLE ESTATES",
+        "THE DOX CONDOS"
+      ],
+      "violations3yr": {
+        "total": 32,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "milton",
+      "name": "MILTON",
+      "county": null,
+      "population": 1225,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1581010",
+      "utilityName": "MILTON WATER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1581010",
+      "allUtilities": [
+        "MILTON WATER DIST",
+        "PINELAND PARK"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "troy",
+      "name": "TROY",
+      "county": null,
+      "population": 1200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2361010",
+      "utilityName": "TROY WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2361010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 37.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2008-H2",
+        "lastSampleDate": "2008-12-31"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "thornton",
+      "name": "THORNTON",
+      "county": null,
+      "population": 1179,
+      "waterSystemCount": 10,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2348110",
+      "utilityName": "OWLS NEST GOLF CLUB AND CONDOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2348110",
+      "allUtilities": [
+        "175 ESTATES",
+        "NORTHPOINTE WATER",
+        "MOUNTAIN RIVER CONDOS",
+        "MOUNTAIN RIVER CONDOS EAST",
+        "WHITE MOUNTAIN RESORT/GATEWAY",
+        "WATERVILLE ACRES CONDOS",
+        "STAR RIDGE",
+        "BIRCH BEND",
+        "MILL BROOK VILLAGE",
+        "OWLS NEST GOLF CLUB AND CONDOS"
+      ],
+      "violations3yr": {
+        "total": 20,
+        "healthBased": 20
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 397.99,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "canaan",
+      "name": "CANAAN",
+      "county": null,
+      "population": 1123,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0351010",
+      "utilityName": "CANAAN WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0351010",
+      "allUtilities": [
+        "CANAAN WATER DEPT",
+        "COUNTRY VILLAGE MHP",
+        "MASCOMA VALLEY COOP",
+        "CARDIGAN MOUNTAIN SCH"
+      ],
+      "violations3yr": {
+        "total": 24,
+        "healthBased": 8
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 17.13,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "tilton",
+      "name": "TILTON",
+      "county": null,
+      "population": 1090,
+      "waterSystemCount": 8,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2351020",
+      "utilityName": "LOCHMERE VILLAGE DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2351020",
+      "allUtilities": [
+        "LOCHMERE VILLAGE DIST",
+        "WINNISQUAM RESORT CONDOS",
+        "NORTHERN SHORES",
+        "WINNISQUAM VILLAGE CONDOS",
+        "RODGERS DEV",
+        "WINDY HILL/NORTH",
+        "COUNTRY MEADOWS",
+        "WINDY HILL/SOUTH"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "bennington",
+      "name": "BENNINGTON",
+      "county": null,
+      "population": 1067,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0211010",
+      "utilityName": "BENNINGTON WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0211010",
+      "allUtilities": [
+        "BENNINGTON WATER DEPT",
+        "SOUTH FACE CONDOS",
+        "MOUNTAINSIDE AT CROTCHED MTN",
+        "BIRCHES OF BENNINGTON"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "plainfield",
+      "name": "PLAINFIELD",
+      "county": null,
+      "population": 1034,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1921020",
+      "utilityName": "MERIDEN VILLAGE WATER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1921020",
+      "allUtilities": [
+        "PLAINFIELD WATER DEPT",
+        "MERIDEN VILLAGE WATER DIST"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 28.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.62,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1993-H2",
+        "lastSampleDate": "1993-12-31"
+      },
+      "hardness": {
+        "value": 24.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sullivan",
+        "sampleCount": 26
+      }
+    },
+    {
+      "slug": "franconia",
+      "name": "FRANCONIA",
+      "county": null,
+      "population": 1010,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0841010",
+      "utilityName": "FRANCONIA VILLAGE WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0841010",
+      "allUtilities": [
+        "FRANCONIA VILLAGE WATER",
+        "MITTERSILL WATER DEPT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 18.47,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "lisbon",
+      "name": "LISBON",
+      "county": null,
+      "population": 1010,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1361010",
+      "utilityName": "LISBON WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1361010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 21.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.28,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2002-H1",
+        "lastSampleDate": "2002-06-30"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "northwood",
+      "name": "NORTHWOOD",
+      "county": null,
+      "population": 996,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1792030",
+      "utilityName": "VLG OF NORTHWOOD RDG WTR DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1792030",
+      "allUtilities": [
+        "VLG OF NORTHWOOD RDG WTR DIST",
+        "THE MEADOW AT NORTHWOOD",
+        "TOWER VIEW",
+        "LOON ESTATES",
+        "NORTHWOOD MOUNTAIN VIEW MHP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 34.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H2",
+        "lastSampleDate": "2017-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "freedom",
+      "name": "FREEDOM",
+      "county": null,
+      "population": 975,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0862010",
+      "utilityName": "LOV WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0862010",
+      "allUtilities": [
+        "FREEDOM VILLAGE WATER PRECINCT",
+        "LOV WATER",
+        "PINE LANDING CONDOS",
+        "FREEDOM VILLAGE CONDOS"
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 67.46,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "tamworth",
+      "name": "TAMWORTH",
+      "county": null,
+      "population": 966,
+      "waterSystemCount": 10,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2311010",
+      "utilityName": "TAMWORTH WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2311010",
+      "allUtilities": [
+        "TAMWORTH WATER WORKS",
+        "MOUNTAIN VIEW ESTATES",
+        "WHITE LAKE ESTATES",
+        "REMICK ACRES",
+        "CHOCORUA WOODS",
+        "CHOCORUA MEADOWS",
+        "HIGHLAND PLACE",
+        "TAMWORTH MOBILE HOME PARK",
+        "TAMWORTH PINES",
+        "NORTHWAY APTS/DAYS INN"
+      ],
+      "violations3yr": {
+        "total": 27,
+        "healthBased": 27
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 20.19,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 7.525,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "loudon",
+      "name": "LOUDON",
+      "county": null,
+      "population": 948,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1403030",
+      "utilityName": "FREEDOM HILL/PINE RIDGE EST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1403030",
+      "allUtilities": [
+        "FLINTLOCK APTS",
+        "VILLAGES AT LOUDON",
+        "VOA/NNE SENIOR HOUSING",
+        "KOS MANUFACTURED HOUSING CMNTY",
+        "PRESIDENTIAL PINES/UPPER",
+        "FREEDOM HILL/PINE RIDGE EST",
+        "PRESIDENTIAL PINES/LOWER"
+      ],
+      "violations3yr": {
+        "total": 27,
+        "healthBased": 19
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 31.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "antrim",
+      "name": "ANTRIM",
+      "county": null,
+      "population": 920,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0091010",
+      "utilityName": "ANTRIM SEWER AND WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0091010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "new-castle",
+      "name": "NEW CASTLE",
+      "county": null,
+      "population": 910,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1661010",
+      "utilityName": "NEW CASTLE WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1661010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 17.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H2",
+        "lastSampleDate": "2007-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "warner",
+      "name": "WARNER",
+      "county": null,
+      "population": 878,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2411010",
+      "utilityName": "WARNER VILLAGE WATER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2411010",
+      "allUtilities": [
+        "WARNER VILLAGE WATER DIST",
+        "PLEASANT LAKE MHP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 16.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 1.9,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "marlborough",
+      "name": "MARLBOROUGH",
+      "county": null,
+      "population": 850,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1481010",
+      "utilityName": "MARLBOROUGH WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1481010",
+      "allUtilities": [
+        "MARLBOROUGH WATER WORKS",
+        "MARLBOROUGH ESTATES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "bow",
+      "name": "BOW",
+      "county": null,
+      "population": 808,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0262020",
+      "utilityName": "ABENAKI WATER/WHITE ROCK WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0262020",
+      "allUtilities": [
+        "BOW MUNICIPAL WATER SYSTEM",
+        "EVERGREEN DRIVE WATER",
+        "ABENAKI WATER/WHITE ROCK WATER",
+        "BELA BROOK WATER",
+        "COTTAGES AT WINDCHIMES",
+        "WHITE ROCK SENIOR LIVING",
+        "STONE SLED FARM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 121.29,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2013-H2",
+        "lastSampleDate": "2013-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "jackson",
+      "name": "JACKSON",
+      "county": null,
+      "population": 755,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1211010",
+      "utilityName": "JACKSON WATER PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1211010",
+      "allUtilities": [
+        "JACKSON WATER PCT",
+        "WILDCAT TOWNHOUSE RESORT",
+        "MT JEFFERSON/WASHINGTON CONDOS",
+        "BLACK MOUNTAIN MEADOW CONDOS",
+        "HIGH PASTURES AT BLACK MTN",
+        "EAGLE BROOK",
+        "DANA PLACE "
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 33.35,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "new-hampton",
+      "name": "NEW HAMPTON",
+      "county": null,
+      "population": 666,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1691010",
+      "utilityName": "NEW HAMPTON VILLAGE PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1691010",
+      "allUtilities": [
+        "NEW HAMPTON VILLAGE PCT",
+        "MANSFIELD WOODS"
+      ],
+      "violations3yr": {
+        "total": 69,
+        "healthBased": 69
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 23.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2020-H2",
+        "lastSampleDate": "2020-12-31"
+      },
+      "hardness": {
+        "value": 36.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Belknap",
+        "sampleCount": 17
+      }
+    },
+    {
+      "slug": "andover",
+      "name": "ANDOVER",
+      "county": null,
+      "population": 650,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH0081010",
+      "utilityName": "ANDOVER VILLAGE DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0081010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 17,
+        "healthBased": 17
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 56.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "1993-H2",
+        "lastSampleDate": "1993-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "lee",
+      "name": "LEE",
+      "county": null,
+      "population": 641,
+      "waterSystemCount": 10,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1333020",
+      "utilityName": "PINE KNOLL VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1333020",
+      "allUtilities": [
+        "OYSTER RIVER CONDOS",
+        "DARBY FIELD COMMONS",
+        "GREYSTONE COMMONS",
+        "CEDAR WOOD ESTATES",
+        "THURSTON WOODS",
+        "HILLS ACRES TRAILER PARK",
+        "PINE KNOLL VILLAGE",
+        "EVERGREEN TERRACE",
+        "PACKERS FALLS VILLAGE",
+        "HAVEN AT LEE"
+      ],
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 16
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 42.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "kingston",
+      "name": "KINGSTON",
+      "county": null,
+      "population": 627,
+      "waterSystemCount": 9,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1272030",
+      "utilityName": "LAMPLIGHTER ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1272030",
+      "allUtilities": [
+        "KINGSTON PINES ELDERLY HOUSING",
+        "ANNS LANDING",
+        "LAMPLIGHTER ESTATES",
+        "ROWELL ESTATES",
+        "COOPERS GROVE",
+        "VILLAGE AT GRANITE FIELDS",
+        "KINGS LANDING",
+        "ALL AMERICAN ASSISTED LIVING",
+        "PINE VALLEY ESTATES"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 26.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "unity",
+      "name": "UNITY",
+      "county": null,
+      "population": 625,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2384010",
+      "utilityName": "SULLIVAN COUNTY COMPLEX",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2384010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 24.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sullivan",
+        "sampleCount": 26
+      }
+    },
+    {
+      "slug": "weare",
+      "name": "WEARE",
+      "county": null,
+      "population": 599,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2452030",
+      "utilityName": "SOUTH WEARE WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2452030",
+      "allUtilities": [
+        "DANIELS LAKE",
+        "SOUTH WEARE WATER",
+        "COLLINS LANDING",
+        "SUGAR HILL MANOR MHP",
+        "KUNCANOWET HILLS MOBILE HOME"
+      ],
+      "violations3yr": {
+        "total": 20,
+        "healthBased": 20
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 22.66,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 4.4,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2012-H2",
+        "lastSampleDate": "2012-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "chester",
+      "name": "CHESTER",
+      "county": null,
+      "population": 578,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0432010",
+      "utilityName": "VILLAGES AT CHESTER CONDOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0432010",
+      "allUtilities": [
+        "VILLAGES AT CHESTER CONDOS",
+        "OAK HILL",
+        "CHESTER BROOK",
+        "SHAKER HEIGHTS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "newfields",
+      "name": "NEWFIELDS",
+      "county": null,
+      "population": 550,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1681010",
+      "utilityName": "NEWFIELDS VLG WATER AND SEWER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1681010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 31.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "newton",
+      "name": "NEWTON",
+      "county": null,
+      "population": 533,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1752070",
+      "utilityName": "SARGENT WOODS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1752070",
+      "allUtilities": [
+        "MEADOWVIEW APARTMENTS",
+        "PACKER MEADOWS",
+        "SARGENT WOODS",
+        "WILLOW GROVE TRAILER PARK"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "amherst",
+      "name": "AMHERST",
+      "county": null,
+      "population": 512,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0072070",
+      "utilityName": "SOUHEGAN WOODS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0072070",
+      "allUtilities": [
+        "SOUHEGAN WOODS",
+        "GOWING WOODS",
+        "CONNOR COURT",
+        "RIDGEWOOD ESTATES"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "atkinson",
+      "name": "ATKINSON",
+      "county": null,
+      "population": 507,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0112030",
+      "utilityName": "WRIGHT FARM CONDOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0112030",
+      "allUtilities": [
+        "WRIGHT FARM CONDOS",
+        "COMMONS OF ATKINSON",
+        "WATER WHEEL ESTATES",
+        "DEARBORN RIDGE",
+        "ATKINSON WOODS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 16.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 1.355,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2014-H2",
+        "lastSampleDate": "2014-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "tuftonboro",
+      "name": "TUFTONBORO",
+      "county": null,
+      "population": 486,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2372020",
+      "utilityName": "HIDDEN VALLEY/MASON",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2372020",
+      "allUtilities": [
+        "HIDDEN VALLEY/MASON",
+        "WINMIIR CONDOS",
+        "NORTH COUNTRY VILLAGE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 37.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "stewartstown",
+      "name": "STEWARTSTOWN",
+      "county": null,
+      "population": 478,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2191020",
+      "utilityName": "W STEWARTSTOWN WATER PCT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2191020",
+      "allUtilities": [
+        "W STEWARTSTOWN WATER PCT",
+        "NORTHERN VIEW APARTMENTS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 28.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2004-H1",
+        "lastSampleDate": "2004-06-30"
+      },
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "hancock",
+      "name": "HANCOCK",
+      "county": null,
+      "population": 450,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH1061010",
+      "utilityName": "HANCOCK WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1061010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "east-kingston",
+      "name": "EAST KINGSTON",
+      "county": null,
+      "population": 435,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0702030",
+      "utilityName": "MAPLEVALE AND CRICKET HILL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0702030",
+      "allUtilities": [
+        "BARTON MHP",
+        "BRANDYWINE",
+        "MAPLEVALE AND CRICKET HILL",
+        "COUNTRY HILLS OF EAST KINGSTON"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "hollis",
+      "name": "HOLLIS",
+      "county": null,
+      "population": 430,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1173020",
+      "utilityName": "HOLLIS PINES COOP MHP WEST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1173020",
+      "allUtilities": [
+        "RUNNELLS LANDING",
+        "SILVER LAKE ESTATES",
+        "HOLLIS PINES COOP MHP WEST",
+        "HOLLIS VILLAGE MARKETPLACE"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "stratford",
+      "name": "STRATFORD",
+      "county": null,
+      "population": 415,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2221010",
+      "utilityName": "NORTH STRATFORD WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2221010",
+      "allUtilities": [
+        "NORTH STRATFORD WATER DEPT",
+        "PLEASANT VALLEY PARK ESTATES",
+        "NORTH STRATFORD MHP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 64.56,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.28,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1993-H2",
+        "lastSampleDate": "1993-12-31"
+      },
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "fremont",
+      "name": "FREMONT",
+      "county": null,
+      "population": 411,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0872020",
+      "utilityName": "BLACKROCKS VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0872020",
+      "allUtilities": [
+        "GOVERNORS FOREST",
+        "BLACKROCKS VILLAGE",
+        "COLONIAL POPLIN NURSING HOME"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 33.32,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2009-H2",
+        "lastSampleDate": "2009-12-31"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "rindge",
+      "name": "RINDGE",
+      "county": null,
+      "population": 407,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1993010",
+      "utilityName": "MONADNOCK TENANTS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1993010",
+      "allUtilities": [
+        "DUNBAR PROPERTIES",
+        "HAMPSHIRE COURT WATER",
+        "CARRIAGE APTS",
+        "PAYSON VILLAGE",
+        "MONADNOCK TENANTS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 104.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "hales-location",
+      "name": "HALES LOCATION",
+      "county": null,
+      "population": 385,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1021010",
+      "utilityName": "HALES LOCATION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1021010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 4
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 16.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.66,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "westmoreland",
+      "name": "WESTMORELAND",
+      "county": null,
+      "population": 380,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "NH2494010",
+      "utilityName": "CHESHIRE COUNTY COMPLEX",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2494010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 32.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H1",
+        "lastSampleDate": "2017-06-30"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "hill",
+      "name": "HILL",
+      "county": null,
+      "population": 350,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1131010",
+      "utilityName": "HILL WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1131010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 19.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2013-H2",
+        "lastSampleDate": "2013-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "greenfield",
+      "name": "GREENFIELD",
+      "county": null,
+      "population": 348,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0972010",
+      "utilityName": "CROTCHED MOUNTAIN SCHOOL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0972010",
+      "allUtilities": [
+        "CROTCHED MOUNTAIN SCHOOL",
+        "GREENFIELD COMMONS"
+      ],
+      "violations3yr": {
+        "total": 28,
+        "healthBased": 20
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 66.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H1",
+        "lastSampleDate": "2017-06-30"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "alexandria",
+      "name": "ALEXANDRIA",
+      "county": null,
+      "population": 307,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0032010",
+      "utilityName": "LEDGES AT NEWFOUND LAKE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0032010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 16.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H1",
+        "lastSampleDate": "2007-06-30"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "lyme",
+      "name": "LYME",
+      "county": null,
+      "population": 306,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1431010",
+      "utilityName": "LYME WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1431010",
+      "allUtilities": [
+        "LYME WATER",
+        "POND VIEW APARTMENTS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 36.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "monroe",
+      "name": "MONROE",
+      "county": null,
+      "population": 300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1591010",
+      "utilityName": "MONROE WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1591010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 32.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "deering",
+      "name": "DEERING",
+      "county": null,
+      "population": 290,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0603010",
+      "utilityName": "CONTOOCOOK RIVER COOPERATIVE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0603010",
+      "allUtilities": [
+        "CONTOOCOOK RIVER COOPERATIVE",
+        "HEDGEHOG COMMUNITY COOP"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "holderness",
+      "name": "HOLDERNESS",
+      "county": null,
+      "population": 281,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1163010",
+      "utilityName": "TOWN LINE VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1163010",
+      "allUtilities": [
+        "HIGHLAND COLONY",
+        "TOWN LINE VILLAGE"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 21.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "windsor",
+      "name": "WINDSOR",
+      "county": null,
+      "population": 280,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2552010",
+      "utilityName": "WEDIKO SCHOOL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2552010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 46.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "effingham",
+      "name": "EFFINGHAM",
+      "county": null,
+      "population": 266,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0732030",
+      "utilityName": "LOST VALLEY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0732030",
+      "allUtilities": [
+        "LOST VALLEY",
+        "18 HUGHES LN/EFFINGHAM"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "newbury",
+      "name": "NEWBURY",
+      "county": null,
+      "population": 259,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1652020",
+      "utilityName": "CHALK POND WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1652020",
+      "allUtilities": [
+        "CHALK POND WATER",
+        "NEWBURY ELDERLY HOUSING"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 22.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H2",
+        "lastSampleDate": "2017-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "albany",
+      "name": "ALBANY",
+      "county": null,
+      "population": 248,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0023010",
+      "utilityName": "PIPER MEADOWS PRIVATE COMMUNTY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0023010",
+      "allUtilities": [
+        "WILDWOOD DEV",
+        "PIPER MEADOWS PRIVATE COMMUNTY"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 59.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": {
+        "value": 5.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Carroll",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "francestown",
+      "name": "FRANCESTOWN",
+      "county": null,
+      "population": 245,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0831010",
+      "utilityName": "FRANCESTOWN VILLAGE WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0831010",
+      "allUtilities": [
+        "FRANCESTOWN VILLAGE WATER",
+        "CROTCHED MOUNTAIN MNTNC"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "pittsburg",
+      "name": "PITTSBURG",
+      "county": null,
+      "population": 233,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1901010",
+      "utilityName": "PITTSBURG WATER DEPT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1901010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "benton",
+      "name": "BENTON",
+      "county": null,
+      "population": 230,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0224010",
+      "utilityName": "GLENCLIFF HOME FOR THE ELDERLY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0224010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 24.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H2",
+        "lastSampleDate": "2017-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "candia",
+      "name": "CANDIA",
+      "county": null,
+      "population": 230,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0363010",
+      "utilityName": "COUNTRY LANE MANOR",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0363010",
+      "allUtilities": [
+        "HILLCREST MANOR APTS",
+        "CANDIA CROSSING",
+        "COUNTRY LANE MANOR"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 20.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2007-H1",
+        "lastSampleDate": "2007-06-30"
+      },
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "warren",
+      "name": "WARREN",
+      "county": null,
+      "population": 230,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2422010",
+      "utilityName": "SOUTH MAIN STREET WATER DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2422010",
+      "allUtilities": [
+        "GLENCLIFF IMPROVEMENT",
+        "SOUTH MAIN STREET WATER DIST"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 22.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 4.08,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2001-H1",
+        "lastSampleDate": "2001-06-30"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "middleton",
+      "name": "MIDDLETON",
+      "county": null,
+      "population": 225,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1542030",
+      "utilityName": "SUNRISE ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1542030",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "new-ipswich",
+      "name": "NEW IPSWICH",
+      "county": null,
+      "population": 206,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1713010",
+      "utilityName": "FREEDOM POND",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1713010",
+      "allUtilities": [
+        "APPLETON GARDENS",
+        "WILDER VILLAGE CLUSTER",
+        "FREEDOM POND"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "bridgewater",
+      "name": "BRIDGEWATER",
+      "county": null,
+      "population": 201,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0292010",
+      "utilityName": "WHITTEMORE SHORES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0292010",
+      "allUtilities": [
+        "WHITTEMORE SHORES",
+        "NEWFOUND ACRES MHP",
+        "WHIP O WILL CONDOS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 23.49,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2012-H2",
+        "lastSampleDate": "2012-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "fitzwilliam",
+      "name": "FITZWILLIAM",
+      "county": null,
+      "population": 193,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0821020",
+      "utilityName": "FITZWILLIAM VILLAGE/LAUGHNER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0821020",
+      "allUtilities": [
+        "FITZWILLIAM VILLAGE/LAUGHNER",
+        "FITZWILLIAM VILLAGE/PRIGGE",
+        "FITZWILLIAM VILLAGE/MASSIN",
+        "20 JAFFREY RD"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 43.76,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "errol",
+      "name": "ERROL",
+      "county": null,
+      "population": 183,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0781010",
+      "utilityName": "ERROL WATER WORKS/WEST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0781010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "webster",
+      "name": "WEBSTER",
+      "county": null,
+      "population": 165,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2462050",
+      "utilityName": "PILLSBURY LAKE/PENINSULA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2462050",
+      "allUtilities": [
+        "PILLSBURY LAKE/FRANKLIN PIERCE",
+        "PILLSBURY LAKE/PENINSULA"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "hebron",
+      "name": "HEBRON",
+      "county": null,
+      "population": 128,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1113010",
+      "utilityName": "HILLSIDE INN CONDOS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1113010",
+      "allUtilities": [
+        "STONE GATE ACRES",
+        "HILLSIDE INN CONDOS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 78.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.48,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2009-H1",
+        "lastSampleDate": "2009-06-30"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "orford",
+      "name": "ORFORD",
+      "county": null,
+      "population": 128,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1831010",
+      "utilityName": "ORFORD VILLAGE DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1831010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 383.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 2.315,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2003-H1",
+        "lastSampleDate": "2003-06-30"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "new-durham",
+      "name": "NEW DURHAM",
+      "county": null,
+      "population": 111,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1672020",
+      "utilityName": "COPPLE CROWN VILLAGE DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1672020",
+      "allUtilities": [
+        "MANITOOS SHORES",
+        "COPPLE CROWN VILLAGE DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "deerfield",
+      "name": "DEERFIELD",
+      "county": null,
+      "population": 107,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0594020",
+      "utilityName": "INN AT DEERFIELD",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0594020",
+      "allUtilities": [
+        "CORNERSTONE PLACE",
+        "INN AT DEERFIELD",
+        "SHERBURN WOODS"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "strafford",
+      "name": "STRAFFORD",
+      "county": null,
+      "population": 105,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2212010",
+      "utilityName": "BOW LAKE ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2212010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "bath",
+      "name": "BATH",
+      "county": null,
+      "population": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0171010",
+      "utilityName": "BATH VILLAGE WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0171010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 16.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 5.47,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "1998-H2",
+        "lastSampleDate": "1998-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "hampton-falls",
+      "name": "HAMPTON FALLS",
+      "county": null,
+      "population": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1042010",
+      "utilityName": "MEADOWS AT GRAPEVINE RUN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1042010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "mont-vernon",
+      "name": "MONT VERNON",
+      "county": null,
+      "population": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1603010",
+      "utilityName": "ROLLING ACRES MHP",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1603010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 40.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H2",
+        "lastSampleDate": "2018-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "columbia",
+      "name": "COLUMBIA",
+      "county": null,
+      "population": 95,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0493020",
+      "utilityName": "MOUNTAIN VIEW PARK ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0493020",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "alstead",
+      "name": "ALSTEAD",
+      "county": null,
+      "population": 84,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0053010",
+      "utilityName": "WELL HILL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0053010",
+      "allUtilities": [
+        "PAPERMILL VILLAGE",
+        "WELL HILL"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 33.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2006-H2",
+        "lastSampleDate": "2006-12-31"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "milan",
+      "name": "MILAN",
+      "county": null,
+      "population": 60,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1553010",
+      "utilityName": "DEER ESTATES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1553010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 18.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Coos",
+        "sampleCount": 39
+      }
+    },
+    {
+      "slug": "rumney",
+      "name": "RUMNEY",
+      "county": null,
+      "population": 55,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2032010",
+      "utilityName": "HAWTHORNE VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2032010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 21.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 23.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Grafton",
+        "sampleCount": 88
+      }
+    },
+    {
+      "slug": "wilmot",
+      "name": "WILMOT",
+      "county": null,
+      "population": 53,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2512010",
+      "utilityName": "POUND ROAD WATER WORKS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2512010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "surry",
+      "name": "SURRY",
+      "county": null,
+      "population": 50,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH2281010",
+      "utilityName": "SURRY VILLAGE WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH2281010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 17.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 6.68,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2009-H1",
+        "lastSampleDate": "2009-06-30"
+      },
+      "hardness": {
+        "value": 12.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Cheshire",
+        "sampleCount": 55
+      }
+    },
+    {
+      "slug": "nottingham",
+      "name": "NOTTINGHAM",
+      "county": null,
+      "population": 45,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1802020",
+      "utilityName": "CAMELOT COURT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1802020",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "bradford",
+      "name": "BRADFORD",
+      "county": null,
+      "population": 40,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0272010",
+      "utilityName": "FISHERFIELD TOWNHOUSES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0272010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 381.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    },
+    {
+      "slug": "madbury",
+      "name": "MADBURY",
+      "county": null,
+      "population": 30,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH1456020",
+      "utilityName": "MADBURY WOODS APARTMENTS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH1456020",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 28.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2017-H2",
+        "lastSampleDate": "2017-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Strafford",
+        "sampleCount": 50
+      }
+    },
+    {
+      "slug": "chichester",
+      "name": "CHICHESTER",
+      "county": null,
+      "population": 28,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0453020",
+      "utilityName": "ROBINSONS MHP/UPPER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0453020",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 16.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": {
+        "value": 20.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Hillsborough",
+        "sampleCount": 53
+      }
+    },
+    {
+      "slug": "auburn",
+      "name": "AUBURN",
+      "county": null,
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0132010",
+      "utilityName": "THE CLIFFS AT EVERGREEN",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0132010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 36.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Rockingham",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "canterbury",
+      "name": "CANTERBURY",
+      "county": null,
+      "population": 25,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "NH0374010",
+      "utilityName": "CANTERBURY SPRUCES HOUSING",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=NH0374010",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": null,
+      "hardness": {
+        "value": 11.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Merrimack",
+        "sampleCount": 65
+      }
+    }
+  ]
+}
