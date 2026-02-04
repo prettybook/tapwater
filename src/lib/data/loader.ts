@@ -431,19 +431,24 @@ export async function generateStateParams(): Promise<Array<{ state: string }>> {
 /**
  * Generate static params for all city pages
  * Filters by MIN_POPULATION_THRESHOLD for staged rollout
+ * Also includes cities from municipal data even if not in WQP data
  */
 export async function generateCityParams(): Promise<
   Array<{ state: string; city: string }>
 > {
   const metadata = await getStatesMetadata();
   const params: Array<{ state: string; city: string }> = [];
+  const cityKeys = new Set<string>();
 
+  // Add cities from WQP data
   for (const state of metadata.states) {
     const stateData = await getStateData(state.slug);
     if (stateData) {
       for (const city of stateData.cities) {
         // Filter by population threshold for staged rollout
         if (city.population >= MIN_POPULATION_THRESHOLD) {
+          const key = `${state.slug}:${city.slug}`;
+          cityKeys.add(key);
           params.push({
             state: state.slug,
             city: city.slug,
@@ -451,6 +456,30 @@ export async function generateCityParams(): Promise<
         }
       }
     }
+  }
+
+  // Add cities from municipal data (even if not in WQP)
+  try {
+    // Dynamic import to avoid circular dependency
+    const { getMunicipalCities } = await import('./municipal-loader');
+    const municipalCities = getMunicipalCities();
+
+    for (const municipalCity of municipalCities) {
+      const stateSlug = stateCodeToSlug(municipalCity.state);
+      const citySlug = municipalCity.slug || municipalCity.city.toLowerCase().replace(/\s+/g, '-');
+      const key = `${stateSlug}:${citySlug}`;
+
+      // Only add if not already in params
+      if (!cityKeys.has(key)) {
+        cityKeys.add(key);
+        params.push({
+          state: stateSlug,
+          city: citySlug,
+        });
+      }
+    }
+  } catch (error) {
+    console.error('Error loading municipal cities for static params:', error);
   }
 
   return params;

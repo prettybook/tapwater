@@ -5,27 +5,23 @@ interface ContaminantsTableProps {
 }
 
 export function ContaminantsTable({ contaminants }: ContaminantsTableProps) {
-  if (!contaminants || contaminants.length === 0) {
-    return (
-      <div className="bg-gray-50 border border-gray-200 rounded-lg p-6">
-        <p className="text-gray-600">
-          No contaminant data available for this location.
-        </p>
-        <p className="text-sm text-gray-500 mt-2">
-          Only available for cities with official tap water data.
-        </p>
-      </div>
-    );
+  // Filter out Lead and Copper since they have their own section
+  const filteredContaminants = contaminants?.filter(
+    (c) => !['Lead', 'Copper'].includes(c.name)
+  ) || [];
+
+  if (filteredContaminants.length === 0) {
+    return null;
   }
 
   return (
     <div className="bg-white border border-gray-200 rounded-lg overflow-hidden">
       <div className="px-6 py-4 border-b border-gray-200">
         <h2 className="text-lg font-semibold text-gray-900">
-          Detected Contaminants
+          Other Detected Contaminants
         </h2>
         <p className="text-sm text-gray-600 mt-1">
-          {contaminants.length} contaminant{contaminants.length !== 1 ? 's' : ''}{' '}
+          {filteredContaminants.length} contaminant{filteredContaminants.length !== 1 ? 's' : ''}{' '}
           detected
         </p>
       </div>
@@ -49,7 +45,7 @@ export function ContaminantsTable({ contaminants }: ContaminantsTableProps) {
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-200">
-            {contaminants.map((contaminant, index) => {
+            {filteredContaminants.map((contaminant, index) => {
               const limit =
                 contaminant.mcl ||
                 contaminant.actionLevel ||

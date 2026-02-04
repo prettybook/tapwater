@@ -120,7 +120,41 @@ export default async function CityPage({ params }: CityPageProps) {
 
   // Try to get municipal data first, fallback to WQP data
   const waterQualityData = await getWaterQuality(state, citySlug);
-  const city = await getCityData(state, citySlug);
+  let city = await getCityData(state, citySlug);
+
+  // If no WQP data but we have municipal data, create a minimal city object
+  if (!city && waterQualityData) {
+    // Convert EnhancedHardness to HardnessData format
+    const hardnessData = waterQualityData.hardness ? {
+      value: waterQualityData.hardness.value,
+      unit: waterQualityData.hardness.unit,
+      classification: waterQualityData.hardness.classification as 'Soft' | 'Moderately Hard' | 'Hard' | 'Very Hard' | null,
+      county: null,
+      sampleCount: waterQualityData.hardness.sampleCount || null,
+      isNeighborEstimate: waterQualityData.hardness.isNeighborEstimate || false,
+    } : null;
+
+    city = {
+      name: waterQualityData.city,
+      slug: citySlug,
+      state: waterQualityData.state,
+      stateCode: waterQualityData.state, // State abbreviation (e.g., "CA")
+      stateSlug: state,
+      population: waterQualityData.populationServed || 0,
+      hardness: hardnessData,
+      utilityName: waterQualityData.utilityName || 'Unknown',
+      pwsid: waterQualityData.pwsid || '',
+      // Defaults for fields not in municipal data
+      county: null,
+      waterSystemCount: 1,
+      primarySource: null,
+      epaUrl: waterQualityData.pwsid ? `https://sdwis.epa.gov/ords/sfdw_pub/r/sfdw/public_water_system_detail/${waterQualityData.pwsid}` : null,
+      allUtilities: null,
+      violations3yr: { total: 0, healthBased: 0 },
+      hasActiveViolations: false,
+      leadAndCopper: null,
+    };
+  }
 
   if (!city) {
     notFound();
@@ -359,17 +393,6 @@ export default async function CityPage({ params }: CityPageProps) {
       </section>
 
       {/* ========================================
-          CONTAMINANTS TABLE (Municipal Data Only)
-          ======================================== */}
-      {hasMunicipalData && waterQualityData && (
-        <section className="bg-white border-b border-gray-200">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            <ContaminantsTable contaminants={waterQualityData.contaminants} />
-          </div>
-        </section>
-      )}
-
-      {/* ========================================
           MAIN CONTENT WITH SIDEBAR
           ======================================== */}
       <div className="bg-white">
@@ -600,6 +623,13 @@ export default async function CityPage({ params }: CityPageProps) {
                     <LeadInfo />
                   </div>
                 </div>
+
+                {/* Detected Contaminants (Municipal Data Only) */}
+                {hasMunicipalData && waterQualityData && waterQualityData.contaminants.length > 0 && (
+                  <div className="mt-12 pt-8 border-t border-gray-200">
+                    <ContaminantsTable contaminants={waterQualityData.contaminants} />
+                  </div>
+                )}
 
                 {/* Violations Section */}
                 <div className="mt-12 pt-8 border-t border-gray-200">
