@@ -210,17 +210,6 @@ export default async function CityPage({ params }: CityPageProps) {
       </section>
 
       {/* ========================================
-          DATA SOURCE BADGE
-          ======================================== */}
-      {waterQualityData && (
-        <section className="bg-white border-b border-gray-200">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-            <DataSourceBadge source={waterQualityData.source} />
-          </div>
-        </section>
-      )}
-
-      {/* ========================================
           FACT CARDS ROW
           ======================================== */}
       <section className="bg-gray-50 border-b border-gray-200">
@@ -731,7 +720,7 @@ export default async function CityPage({ params }: CityPageProps) {
               {/* ========================================
                   DISCLAIMER
                   ======================================== */}
-              <section className="pt-8 mt-8 border-t border-gray-200">
+              <section className="pt-8 mt-8 border-t border-gray-200 space-y-2">
                 <p className="text-sm text-brand-900/50 leading-relaxed">
                   This data is for informational purposes only. Water quality can vary by
                   neighborhood and building. For official reports, contact your local water
@@ -743,6 +732,9 @@ export default async function CityPage({ params }: CityPageProps) {
                     Learn about our methodology
                   </Link>
                 </p>
+                {waterQualityData && (
+                  <DataSourceBadge source={waterQualityData.source} />
+                )}
               </section>
             </main>
           </div>

@@ -7,7 +7,7 @@ import type {
   WaterQualitySource,
   EnhancedHardness,
 } from './municipal-types';
-import { getCityData } from './loader';
+import { getCityData, slugToStateCode } from './loader';
 import type { CityData } from './types';
 
 const MUNICIPAL_DATA_PATH = path.join(
@@ -53,7 +53,8 @@ function findMunicipalCity(
     return null;
   }
 
-  const stateAbbr = state.toUpperCase();
+  // Convert state slug (e.g., "nevada") to state code (e.g., "NV")
+  const stateAbbr = slugToStateCode(state);
   const municipal = municipalData.cities.find(
     (c) =>
       c.state === stateAbbr &&
