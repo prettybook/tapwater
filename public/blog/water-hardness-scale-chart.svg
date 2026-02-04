@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="15%" stop-color="#7DD3FC"/>
+      <stop offset="30%" stop-color="#38BDF8"/>
+      <stop offset="45%" stop-color="#38BDF8"/>
+      <stop offset="55%" stop-color="#FB923C"/>
+      <stop offset="75%" stop-color="#EA580C"/>
+      <stop offset="100%" stop-color="#C2410C"/>
+    </linearGradient>
+    <filter id="shadow" x="-2%" y="-2%" width="104%" height="108%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="520" fill="#F8FAFC" rx="12"/>
+
+  <!-- Title -->
+  <text x="600" y="52" text-anchor="middle" font-size="28" font-weight="700" fill="#0F172A" letter-spacing="-0.5">WATER HARDNESS SCALE</text>
+  <text x="600" y="78" text-anchor="middle" font-size="14" fill="#64748B">Based on U.S. Geological Survey (USGS) classification</text>
+
+  <!-- Main gradient bar -->
+  <rect x="80" y="160" width="1040" height="72" rx="8" fill="url(#barGrad)" filter="url(#shadow)"/>
+
+  <!-- Section dividers (subtle white lines) -->
+  <line x1="236" y1="160" x2="236" y2="232" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  <line x1="392" y1="160" x2="392" y2="232" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  <line x1="600" y1="160" x2="600" y2="232" stroke="white" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Section labels on bar -->
+  <!-- Soft: 80 to 236 = center 158 -->
+  <text x="158" y="190" text-anchor="middle" font-size="16" font-weight="700" fill="white">SOFT</text>
+  <text x="158" y="210" text-anchor="middle" font-size="12" fill="white" opacity="0.9">0 – 60 PPM</text>
+  <text x="158" y="226" text-anchor="middle" font-size="11" fill="white" opacity="0.75">0 – 3.5 GPG</text>
+
+  <!-- Moderately Hard: 236 to 392 = center 314 -->
+  <text x="314" y="183" text-anchor="middle" font-size="11" font-weight="600" fill="white" letter-spacing="0.5">MODERATELY</text>
+  <text x="314" y="200" text-anchor="middle" font-size="16" font-weight="700" fill="white">HARD</text>
+  <text x="314" y="218" text-anchor="middle" font-size="12" fill="white" opacity="0.9">61 – 120 PPM</text>
+  <text x="314" y="232" text-anchor="middle" font-size="11" fill="white" opacity="0.75">3.6 – 7.0 GPG</text>
+
+  <!-- Hard: 392 to 600 = center 496 -->
+  <text x="496" y="190" text-anchor="middle" font-size="16" font-weight="700" fill="white">HARD</text>
+  <text x="496" y="210" text-anchor="middle" font-size="12" fill="white" opacity="0.9">121 – 180 PPM</text>
+  <text x="496" y="226" text-anchor="middle" font-size="11" fill="white" opacity="0.75">7.1 – 10.5 GPG</text>
+
+  <!-- Very Hard: 600 to 1120 = center 860 -->
+  <text x="860" y="190" text-anchor="middle" font-size="16" font-weight="700" fill="white">VERY HARD</text>
+  <text x="860" y="210" text-anchor="middle" font-size="12" fill="white" opacity="0.9">180+ PPM</text>
+  <text x="860" y="226" text-anchor="middle" font-size="11" fill="white" opacity="0.75">10.5+ GPG</text>
+
+  <!-- PPM Scale below bar -->
+  <!-- Scale: 0 to 400 PPM, bar starts at x=80, ends at x=1120 -->
+  <!-- 1 PPM = (1120-80)/400 = 2.6px -->
+
+  <!-- Tick marks and labels -->
+  <g fill="#475569" font-size="13" text-anchor="middle">
+    <!-- 0 -->
+    <line x1="80" y1="244" x2="80" y2="258" stroke="#94A3B8" stroke-width="1.5"/>
+    <text x="80" y="274">0</text>
+
+    <!-- 50 -->
+    <line x1="210" y1="248" x2="210" y2="258" stroke="#CBD5E1" stroke-width="1"/>
+    <text x="210" y="274">50</text>
+
+    <!-- 100 -->
+    <line x1="340" y1="244" x2="340" y2="258" stroke="#94A3B8" stroke-width="1.5"/>
+    <text x="340" y="274">100</text>
+
+    <!-- 150 -->
+    <line x1="470" y1="248" x2="470" y2="258" stroke="#CBD5E1" stroke-width="1"/>
+    <text x="470" y="274">150</text>
+
+    <!-- 200 -->
+    <line x1="600" y1="244" x2="600" y2="258" stroke="#94A3B8" stroke-width="1.5"/>
+    <text x="600" y="274">200</text>
+
+    <!-- 250 -->
+    <line x1="730" y1="248" x2="730" y2="258" stroke="#CBD5E1" stroke-width="1"/>
+    <text x="730" y="274">250</text>
+
+    <!-- 300 -->
+    <line x1="860" y1="244" x2="860" y2="258" stroke="#94A3B8" stroke-width="1.5"/>
+    <text x="860" y="274">300</text>
+
+    <!-- 350 -->
+    <line x1="990" y1="248" x2="990" y2="258" stroke="#CBD5E1" stroke-width="1"/>
+    <text x="990" y="274">350</text>
+
+    <!-- 400 -->
+    <line x1="1120" y1="244" x2="1120" y2="258" stroke="#94A3B8" stroke-width="1.5"/>
+    <text x="1120" y="274">400</text>
+  </g>
+
+  <text x="600" y="296" text-anchor="middle" font-size="12" fill="#94A3B8" font-weight="600" letter-spacing="1.5">PPM (mg/L as CaCO₃)</text>
+
+  <!-- City examples below -->
+  <text x="600" y="340" text-anchor="middle" font-size="14" font-weight="600" fill="#334155">How US Cities Compare</text>
+
+  <!-- City markers with dots and labels -->
+  <!-- Seattle: 22 PPM → x = 80 + (22/400)*1040 = 137 -->
+  <g>
+    <line x1="137" y1="232" x2="137" y2="360" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="137" cy="370" r="4" fill="#0EA5E9"/>
+    <text x="137" y="390" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Seattle</text>
+    <text x="137" y="404" text-anchor="middle" font-size="10" fill="#64748B">22 PPM</text>
+  </g>
+
+  <!-- NYC: 35 PPM → x = 80 + (35/400)*1040 = 171 -->
+  <g>
+    <line x1="171" y1="232" x2="171" y2="360" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="171" cy="370" r="4" fill="#0EA5E9"/>
+    <text x="171" y="390" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">NYC</text>
+    <text x="171" y="404" text-anchor="middle" font-size="10" fill="#64748B">35 PPM</text>
+  </g>
+
+  <!-- Denver: 90 PPM → x = 80 + (90/400)*1040 = 314 -->
+  <g>
+    <line x1="314" y1="232" x2="314" y2="420" stroke="#38BDF8" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="314" cy="430" r="4" fill="#38BDF8"/>
+    <text x="314" y="450" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Denver</text>
+    <text x="314" y="464" text-anchor="middle" font-size="10" fill="#64748B">90 PPM</text>
+  </g>
+
+  <!-- Miami: 98 PPM → x = 80 + (98/400)*1040 = 335 -->
+  <g>
+    <line x1="335" y1="232" x2="335" y2="360" stroke="#38BDF8" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="335" cy="370" r="4" fill="#38BDF8"/>
+    <text x="335" y="390" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Miami</text>
+    <text x="335" y="404" text-anchor="middle" font-size="10" fill="#64748B">98 PPM</text>
+  </g>
+
+  <!-- Chicago: 130 PPM → x = 80 + (130/400)*1040 = 418 -->
+  <g>
+    <line x1="418" y1="232" x2="418" y2="420" stroke="#F59E0B" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="418" cy="430" r="4" fill="#F59E0B"/>
+    <text x="418" y="450" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Chicago</text>
+    <text x="418" y="464" text-anchor="middle" font-size="10" fill="#64748B">130 PPM</text>
+  </g>
+
+  <!-- Houston: 155 PPM → x = 80 + (155/400)*1040 = 483 -->
+  <g>
+    <line x1="483" y1="232" x2="483" y2="360" stroke="#F59E0B" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="483" cy="370" r="4" fill="#F59E0B"/>
+    <text x="483" y="390" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Houston</text>
+    <text x="483" y="404" text-anchor="middle" font-size="10" fill="#64748B">155 PPM</text>
+  </g>
+
+  <!-- Phoenix: 285 PPM → x = 80 + (285/400)*1040 = 821 -->
+  <g>
+    <line x1="821" y1="232" x2="821" y2="360" stroke="#EA580C" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="821" cy="370" r="4" fill="#EA580C"/>
+    <text x="821" y="390" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Phoenix</text>
+    <text x="821" y="404" text-anchor="middle" font-size="10" fill="#64748B">285 PPM</text>
+  </g>
+
+  <!-- Las Vegas: 280 PPM → x = 80 + (280/400)*1040 = 808 -->
+  <!-- Too close to Phoenix, shift to staggered row -->
+  <g>
+    <line x1="808" y1="232" x2="808" y2="420" stroke="#EA580C" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="808" cy="430" r="4" fill="#EA580C"/>
+    <text x="808" y="450" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Las Vegas</text>
+    <text x="808" y="464" text-anchor="middle" font-size="10" fill="#64748B">280 PPM</text>
+  </g>
+
+  <!-- San Antonio: 357 PPM → x = 80 + (357/400)*1040 = 1006 -->
+  <g>
+    <line x1="1006" y1="232" x2="1006" y2="360" stroke="#C2410C" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="1006" cy="370" r="4" fill="#C2410C"/>
+    <text x="1006" y="390" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">San Antonio</text>
+    <text x="1006" y="404" text-anchor="middle" font-size="10" fill="#64748B">357 PPM</text>
+  </g>
+
+  <!-- Indianapolis: 382 PPM → x = 80 + (382/400)*1040 = 1073 -->
+  <g>
+    <line x1="1073" y1="232" x2="1073" y2="420" stroke="#C2410C" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+    <circle cx="1073" cy="430" r="4" fill="#C2410C"/>
+    <text x="1060" y="450" text-anchor="middle" font-size="11" font-weight="600" fill="#0F172A">Indianapolis</text>
+    <text x="1060" y="464" text-anchor="middle" font-size="10" fill="#64748B">382 PPM</text>
+  </g>
+
+  <!-- Source / Branding -->
+  <text x="80" y="508" font-size="11" fill="#94A3B8">Source: USGS, EPA, Municipal Water Quality Reports</text>
+  <text x="1120" y="508" text-anchor="end" font-size="12" font-weight="600" fill="#0EA5E9">tapwater.org</text>
+
+  <!-- Subtle top/bottom border lines -->
+  <line x1="80" y1="100" x2="1120" y2="100" stroke="#E2E8F0" stroke-width="1"/>
+  <line x1="80" y1="490" x2="1120" y2="490" stroke="#E2E8F0" stroke-width="1"/>
+
+  <!-- Conversion note -->
+  <text x="600" y="124" text-anchor="middle" font-size="12" fill="#64748B">1 GPG = 17.1 PPM  ·  PPM = mg/L  ·  Divide PPM by 17.1 to get Grains per Gallon</text>
+
+</svg>
