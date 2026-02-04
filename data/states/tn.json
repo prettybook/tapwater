@@ -120,7 +120,8 @@
         "county": "Knox",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -383,7 +384,8 @@
         "county": "Sullivan",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -424,7 +426,8 @@
         "county": "Sullivan",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -455,7 +458,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 13.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 9,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jackson",
@@ -524,7 +536,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Wilson",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mt-juliet",
@@ -554,7 +575,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Wilson",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "columbia",
@@ -591,7 +621,8 @@
         "county": "Maury",
         "sampleCount": 17,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -661,7 +692,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Wilson",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "franklin",
@@ -698,7 +738,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -736,7 +777,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -876,7 +918,8 @@
         "county": "Maury",
         "sampleCount": 17,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -953,7 +996,8 @@
         "county": "Bedford",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1030,7 +1074,8 @@
         "county": "Cumberland",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1100,7 +1145,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Warren",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cookeville",
@@ -1178,7 +1232,8 @@
         "county": "Carter",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1219,7 +1274,8 @@
         "county": "Sullivan",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1327,7 +1383,8 @@
         "county": "Roane",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1407,7 +1464,8 @@
         "county": "Sevier",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1445,7 +1503,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1555,7 +1614,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1704,7 +1764,8 @@
         "county": "Loudon",
         "sampleCount": 72,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1735,7 +1796,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 13.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 9,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "nolensville",
@@ -1772,7 +1842,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1813,7 +1884,8 @@
         "county": "Greene",
         "sampleCount": 6,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1962,7 +2034,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2000,7 +2073,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2034,7 +2108,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 58.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Campbell",
+        "sampleCount": 35,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lafollette",
@@ -2067,7 +2150,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 58.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Campbell",
+        "sampleCount": 35,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "atoka",
@@ -2107,7 +2199,8 @@
         "county": "Tipton",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2145,7 +2238,8 @@
         "county": "Knox",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2226,7 +2320,8 @@
         "county": "Dyer",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2267,7 +2362,8 @@
         "county": "Roane",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2305,7 +2401,8 @@
         "county": "Henderson",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2523,7 +2620,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 103.9,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Marshall",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "maury-co",
@@ -2560,7 +2666,8 @@
         "county": "Maury",
         "sampleCount": 17,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2631,7 +2738,8 @@
         "county": "Tipton",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2662,7 +2770,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Wilson",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rogersville",
@@ -2878,7 +2995,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "McNairy",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "church-hill",
@@ -2951,7 +3077,8 @@
         "county": "Hamblen",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2992,7 +3119,8 @@
         "county": "Hardin",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3030,7 +3158,8 @@
         "county": "Hamblen",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3061,7 +3190,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Warren",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pleasant-view",
@@ -3241,7 +3379,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 130.2,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Claiborne",
+        "sampleCount": 178,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "glen-hills",
@@ -3278,7 +3425,8 @@
         "county": "Greene",
         "sampleCount": 6,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3319,7 +3467,8 @@
         "county": "Lauderdale",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3468,7 +3617,8 @@
         "county": "Loudon",
         "sampleCount": 72,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3499,7 +3649,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 101.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Overton",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "blountville",
@@ -3536,7 +3695,8 @@
         "county": "Sullivan",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3606,7 +3766,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Wilson",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "trenton",
@@ -3799,7 +3968,8 @@
         "county": "Sevier",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3909,7 +4079,8 @@
         "county": "Greene",
         "sampleCount": 6,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3977,7 +4148,8 @@
         "county": "Loudon",
         "sampleCount": 72,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4077,7 +4249,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 103.9,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Marshall",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "paris",
@@ -4190,7 +4371,8 @@
         "county": "Hickman",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4221,7 +4403,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 58.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Scott",
+        "sampleCount": 35,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jacksboro",
@@ -4255,7 +4446,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 58.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Campbell",
+        "sampleCount": 35,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hohenwald",
@@ -4285,7 +4485,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 167.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lewis",
+        "sampleCount": 7,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alamo",
@@ -4392,7 +4601,8 @@
         "county": "Cumberland",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -4430,7 +4640,8 @@
         "county": "Morgan",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4500,7 +4711,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Humphreys",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harrogate",
@@ -4533,7 +4753,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 130.2,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Claiborne",
+        "sampleCount": 178,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "woodbury",
@@ -4570,7 +4799,8 @@
         "county": "Cannon",
         "sampleCount": 46,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4758,7 +4988,8 @@
         "county": "Hickman",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4838,7 +5069,8 @@
         "county": "Roane",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4869,7 +5101,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 58.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Scott",
+        "sampleCount": 35,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "martin",
@@ -5002,7 +5243,8 @@
         "county": "Grainger",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5040,7 +5282,8 @@
         "county": "Tipton",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5082,7 +5325,8 @@
         "county": "Sevier",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5192,7 +5436,8 @@
         "county": "Benton",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5233,7 +5478,8 @@
         "county": "Johnson",
         "sampleCount": 121,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5264,7 +5510,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "McNairy",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dandridge",
@@ -5438,7 +5693,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Perry",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newbern",
@@ -5475,7 +5739,8 @@
         "county": "Dyer",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5615,7 +5880,8 @@
         "county": "Grundy",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5653,7 +5919,8 @@
         "county": "Carter",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5756,7 +6023,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Humphreys",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "henderson",
@@ -5822,7 +6098,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 101.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Overton",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mount-pleasant",
@@ -5859,7 +6144,8 @@
         "county": "Maury",
         "sampleCount": 17,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5890,7 +6176,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 191.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sequatchie",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cross-anchor",
@@ -5927,7 +6222,8 @@
         "county": "Greene",
         "sampleCount": 6,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5995,7 +6291,8 @@
         "county": "Greene",
         "sampleCount": 6,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6026,7 +6323,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Houston",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dewhite",
@@ -6128,7 +6434,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 103.9,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Moore",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "parsons",
@@ -6161,7 +6476,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Decatur",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bangham",
@@ -6378,7 +6702,8 @@
         "county": "Sullivan",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6416,7 +6741,8 @@
         "county": "Hardin",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6735,7 +7061,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 37.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Meigs",
+        "sampleCount": 67,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bolivar",
@@ -6952,7 +7287,8 @@
         "county": "Carter",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7049,7 +7385,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 191.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Van Buren",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "adams",
@@ -7215,7 +7560,8 @@
         "county": "Hamblen",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7289,7 +7635,8 @@
         "county": "Cumberland",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7327,7 +7674,8 @@
         "county": "Clay",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7437,7 +7785,8 @@
         "county": "Bledsoe",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7475,7 +7824,8 @@
         "county": "Wayne",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7549,7 +7899,8 @@
         "county": "Bledsoe",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7587,7 +7938,8 @@
         "county": "Grundy",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7625,7 +7977,8 @@
         "county": "Roane",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7663,7 +8016,8 @@
         "county": "Lauderdale",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7701,7 +8055,8 @@
         "county": "Roane",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7807,7 +8162,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 58.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Campbell",
+        "sampleCount": 35,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "somerville",
@@ -7844,7 +8208,8 @@
         "county": "Tipton",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7878,7 +8243,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Obion",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "decherd",
@@ -7980,7 +8354,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Perry",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "scotts-hill",
@@ -8017,7 +8400,8 @@
         "county": "Henderson",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8091,7 +8475,8 @@
         "county": "Clay",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8168,7 +8553,8 @@
         "county": "Lauderdale",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8199,7 +8585,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 101.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Overton",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "white-pine",
@@ -8265,7 +8660,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Houston",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clifton",
@@ -8302,7 +8706,8 @@
         "county": "Wayne",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8333,7 +8738,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 131.3,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Fentress",
+        "sampleCount": 9,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "monteagle",
@@ -8370,7 +8784,8 @@
         "county": "Grundy",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8408,7 +8823,8 @@
         "county": "Bedford",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8446,7 +8862,8 @@
         "county": "Bedford",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8513,7 +8930,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Obion",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "watts-bar-east-ud",
@@ -8550,7 +8976,8 @@
         "county": "Roane",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8732,7 +9159,8 @@
         "county": "Tipton",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8770,7 +9198,8 @@
         "county": "Tipton",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8873,7 +9302,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Humphreys",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "northeast-lawrence-ud",
@@ -8982,7 +9420,8 @@
         "county": "Carter",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9013,7 +9452,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 103.9,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Marshall",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cagle-fredonia-ud",
@@ -9043,7 +9491,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 191.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sequatchie",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-fork-ud",
@@ -9073,7 +9530,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 101.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Overton",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dresden",
@@ -9169,7 +9635,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Decatur",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jamestown",
@@ -9199,7 +9674,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 131.3,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Fentress",
+        "sampleCount": 9,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "collinwood",
@@ -9236,7 +9720,8 @@
         "county": "Wayne",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9375,7 +9860,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "McNairy",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dyer",
@@ -9448,7 +9942,8 @@
         "county": "Sullivan",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9522,7 +10017,8 @@
         "county": "Bedford",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -9553,7 +10049,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lake",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alexandria",
@@ -9692,7 +10197,8 @@
         "county": "Hancock",
         "sampleCount": 86,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9795,7 +10301,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Decatur",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lincoln-co-bpu-2",
@@ -9868,7 +10383,8 @@
         "county": "Hardin",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10001,7 +10517,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "McNairy",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "norris",
@@ -10110,7 +10635,8 @@
         "county": "Grainger",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10141,7 +10667,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Obion",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "spring-creek",
@@ -10214,7 +10749,8 @@
         "county": "Greene",
         "sampleCount": 6,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10245,7 +10781,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lake",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "big-sandy",
@@ -10285,7 +10830,8 @@
         "county": "Benton",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10316,7 +10862,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Wilson",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "venue-109",
@@ -10346,7 +10901,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 72.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Wilson",
+        "sampleCount": 46,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "graysville",
@@ -10455,7 +11019,8 @@
         "county": "Sullivan",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10636,7 +11201,8 @@
         "county": "Carter",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10706,7 +11272,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Obion",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bruceton",
@@ -10779,7 +11354,8 @@
         "county": "Hickman",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10853,7 +11429,8 @@
         "county": "Sevier",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11169,7 +11746,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Obion",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rutherford",
@@ -11346,7 +11932,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 130.2,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Claiborne",
+        "sampleCount": 178,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rossville",
@@ -11521,7 +12116,8 @@
         "county": "Carter",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11595,7 +12191,8 @@
         "county": "Hardin",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11633,7 +12230,8 @@
         "county": "Henderson",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11671,7 +12269,8 @@
         "county": "Johnson",
         "sampleCount": 121,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -11817,7 +12416,8 @@
         "county": "Williamson",
         "sampleCount": 35,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12002,7 +12602,8 @@
         "county": "Dyer",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12069,7 +12670,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "McNairy",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hollow-rock",
@@ -12250,7 +12860,8 @@
         "county": "Dyer",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12348,7 +12959,8 @@
         "county": "Lauderdale",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12379,7 +12991,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Obion",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "iron",
@@ -12589,7 +13210,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Obion",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sugar-tree",
@@ -12619,7 +13249,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Decatur",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stanton",
@@ -12686,7 +13325,8 @@
         "county": "Bedford",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12717,7 +13357,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 191.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sequatchie",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "new-canton",
@@ -12934,7 +13583,8 @@
         "county": "Carter",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12965,7 +13615,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 130.2,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Claiborne",
+        "sampleCount": 178,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "venture-out-at-gatlinburg",
@@ -13002,7 +13661,8 @@
         "county": "Sevier",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13033,7 +13693,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 103.9,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Moore",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lagrange",
@@ -13322,7 +13991,8 @@
         "county": "Wayne",
         "sampleCount": 118,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13399,7 +14069,8 @@
         "county": "Bradley",
         "sampleCount": 67,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     }
   ]

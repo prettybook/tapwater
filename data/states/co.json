@@ -447,7 +447,8 @@
         "county": "Broomfield",
         "sampleCount": 151,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5186,7 +5187,8 @@
         "county": "Lincoln",
         "sampleCount": 160,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7315,7 +7317,8 @@
         "county": "Phillips",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9370,7 +9373,8 @@
         "county": "Broomfield",
         "sampleCount": 151,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10504,7 +10508,8 @@
         "county": "Lincoln",
         "sampleCount": 160,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11463,7 +11468,8 @@
         "county": "Broomfield",
         "sampleCount": 151,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11922,7 +11928,8 @@
         "county": "Phillips",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12632,7 +12639,8 @@
         "county": "Lincoln",
         "sampleCount": 160,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13141,7 +13149,8 @@
         "county": "Cheyenne",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -19676,7 +19685,8 @@
         "county": "Cheyenne",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24206,7 +24216,8 @@
         "county": "Lincoln",
         "sampleCount": 160,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27404,7 +27415,8 @@
         "county": "Lincoln",
         "sampleCount": 160,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30448,7 +30460,8 @@
         "county": "Lincoln",
         "sampleCount": 160,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31095,7 +31108,8 @@
         "county": "Cheyenne",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -37019,7 +37033,8 @@
         "county": "Phillips",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

@@ -249,7 +249,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -296,7 +297,8 @@
         "county": "Eau Claire",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -370,7 +372,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 271.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Winnebago",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "janesville",
@@ -411,7 +422,8 @@
         "county": "Rock",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -482,7 +494,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 271.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Winnebago",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "la-crosse",
@@ -531,7 +552,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -801,7 +823,8 @@
         "county": "Rock",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1235,7 +1258,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1382,7 +1406,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1542,7 +1567,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1655,7 +1681,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1855,7 +1882,8 @@
         "county": "Dunn",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1898,7 +1926,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1953,7 +1982,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "river-falls",
@@ -2110,7 +2148,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -2228,7 +2267,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2419,7 +2459,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2532,7 +2573,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "baraboo",
@@ -2572,7 +2622,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -2651,7 +2702,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2686,7 +2738,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "platteville",
@@ -2727,7 +2788,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2880,7 +2942,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2922,7 +2985,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -2953,7 +3017,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "greenville",
@@ -2993,7 +3066,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3075,7 +3149,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3158,7 +3233,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3393,7 +3469,8 @@
         "county": "Eau Claire",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3473,7 +3550,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3581,7 +3659,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3623,7 +3702,8 @@
         "county": "Lincoln",
         "sampleCount": 4,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3974,7 +4054,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4081,7 +4162,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4302,7 +4384,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4492,7 +4575,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "edgerton",
@@ -4575,7 +4667,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4616,7 +4709,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4696,7 +4790,8 @@
         "county": "Rock",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4779,7 +4874,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4853,7 +4949,8 @@
         "county": "Rock",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4931,7 +5028,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5005,7 +5103,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -5083,7 +5182,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5203,7 +5303,8 @@
         "county": "Juneau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5404,7 +5505,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -5445,7 +5547,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5734,7 +5837,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chilton",
@@ -5774,7 +5886,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5923,7 +6036,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5961,7 +6075,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6075,7 +6190,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -6116,7 +6232,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6183,7 +6300,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 271.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Winnebago",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "combined-locks",
@@ -6220,7 +6346,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6294,7 +6421,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -6332,7 +6460,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6376,7 +6505,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -6414,7 +6544,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6455,7 +6586,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -6568,7 +6700,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6609,7 +6742,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6797,7 +6931,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6871,7 +7006,8 @@
         "county": "Lincoln",
         "sampleCount": 4,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6909,7 +7045,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -6950,7 +7087,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7014,7 +7152,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kewaunee",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hortonville",
@@ -7051,7 +7198,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7093,7 +7241,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7131,7 +7280,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7162,7 +7312,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 116.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Iron",
+        "sampleCount": 24,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-delton",
@@ -7202,7 +7361,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7387,7 +7547,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kewaunee",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "osceola",
@@ -7504,7 +7673,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7617,7 +7787,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7655,7 +7826,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7777,7 +7949,8 @@
         "county": "Sawyer",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7854,7 +8027,8 @@
         "county": "Juneau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7892,7 +8066,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7930,7 +8105,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7997,7 +8173,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 271.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Winnebago",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "neillsville",
@@ -8038,7 +8223,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8069,7 +8255,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mineral-point",
@@ -8106,7 +8301,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8150,7 +8346,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8350,7 +8547,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8388,7 +8586,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8491,7 +8690,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kohler",
@@ -8561,7 +8769,8 @@
         "county": "Rock",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8599,7 +8808,8 @@
         "county": "Lafayette",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8703,7 +8913,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -8741,7 +8952,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8782,7 +8994,8 @@
         "county": "Trempealeau",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8823,7 +9036,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9239,7 +9453,8 @@
         "county": "Trempealeau",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9432,7 +9647,8 @@
         "county": "Wood",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9578,7 +9794,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9655,7 +9872,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9693,7 +9911,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -9731,7 +9950,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -9769,7 +9989,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9810,7 +10031,8 @@
         "county": "Price",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9848,7 +10070,8 @@
         "county": "Eau Claire",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9926,7 +10149,8 @@
         "county": "Trempealeau",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10000,7 +10224,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10145,7 +10370,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grantsburg",
@@ -10257,7 +10491,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -10403,7 +10638,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10434,7 +10670,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 116.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Iron",
+        "sampleCount": 24,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "independence",
@@ -10471,7 +10716,8 @@
         "county": "Trempealeau",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10617,7 +10863,8 @@
         "county": "Rock",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10655,7 +10902,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10693,7 +10941,8 @@
         "county": "Eau Claire",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10734,7 +10983,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10808,7 +11058,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10850,7 +11101,8 @@
         "county": "Eau Claire",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10963,7 +11215,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11076,7 +11329,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -11114,7 +11368,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11152,7 +11407,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11190,7 +11446,8 @@
         "county": "Juneau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11232,7 +11489,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11270,7 +11528,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11373,7 +11632,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "florence",
@@ -11485,7 +11753,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -11523,7 +11792,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11709,7 +11979,8 @@
         "county": "Lafayette",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11747,7 +12018,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11860,7 +12132,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11942,7 +12215,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12162,7 +12436,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12236,7 +12511,8 @@
         "county": "Trempealeau",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12310,7 +12586,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -12348,7 +12625,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12422,7 +12700,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12460,7 +12739,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12573,7 +12853,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12621,7 +12902,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 254.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Ozaukee",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "boyceville",
@@ -12658,7 +12948,8 @@
         "county": "Dunn",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12837,7 +13128,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12868,7 +13160,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Door",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "belmont",
@@ -12905,7 +13206,8 @@
         "county": "Lafayette",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12983,7 +13285,8 @@
         "county": "Lafayette",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13168,7 +13471,8 @@
         "county": "Price",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13242,7 +13546,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -13283,7 +13588,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13572,7 +13878,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 116.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Iron",
+        "sampleCount": 24,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "brandon",
@@ -13681,7 +13996,8 @@
         "county": "Juneau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13719,7 +14035,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13757,7 +14074,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13831,7 +14149,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13869,7 +14188,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -13910,7 +14230,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13948,7 +14269,8 @@
         "county": "Rock",
         "sampleCount": 26,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13986,7 +14308,8 @@
         "county": "Pepin",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14100,7 +14423,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14138,7 +14462,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14212,7 +14537,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14250,7 +14576,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14324,7 +14651,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -14362,7 +14690,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -14436,7 +14765,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14467,7 +14797,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 116.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Iron",
+        "sampleCount": 24,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wonewoc",
@@ -14504,7 +14843,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14794,7 +15134,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14832,7 +15173,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14893,7 +15235,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 229.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crawford",
+        "sampleCount": 31,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "almena",
@@ -15002,7 +15353,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15040,7 +15392,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15108,7 +15461,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15146,7 +15500,8 @@
         "county": "Price",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15325,7 +15680,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -15363,7 +15719,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15401,7 +15758,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15475,7 +15833,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -15592,7 +15951,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15734,7 +16094,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 229.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crawford",
+        "sampleCount": 31,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "merrillan",
@@ -15774,7 +16143,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15812,7 +16182,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15889,7 +16260,8 @@
         "county": "Lafayette",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15959,7 +16331,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 12.4,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Taylor",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "minong",
@@ -16032,7 +16413,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16289,7 +16671,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16331,7 +16714,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16369,7 +16753,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16400,7 +16785,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ettrick",
@@ -16430,7 +16824,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gresham",
@@ -16542,7 +16945,8 @@
         "county": "Jefferson",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16573,7 +16977,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "adell",
@@ -16640,7 +17053,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16701,7 +17115,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "town-of-holland",
@@ -16806,7 +17229,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "vesper",
@@ -16843,7 +17275,8 @@
         "county": "Wood",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16874,7 +17307,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 229.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crawford",
+        "sampleCount": 31,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wilton",
@@ -16934,7 +17376,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "forest-junction",
@@ -16971,7 +17422,8 @@
         "county": "Calumet",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -17045,7 +17497,8 @@
         "county": "Juneau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17158,7 +17611,8 @@
         "county": "Dunn",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17196,7 +17650,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17339,7 +17794,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17589,7 +18045,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 324.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Jackson",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "blue-river",
@@ -17626,7 +18091,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17664,7 +18130,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -17738,7 +18205,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17812,7 +18280,8 @@
         "county": "Trempealeau",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17843,7 +18312,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 229.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crawford",
+        "sampleCount": 31,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "eden",
@@ -18175,7 +18653,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18357,7 +18836,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18537,7 +19017,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18647,7 +19128,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18685,7 +19167,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -18723,7 +19206,8 @@
         "county": "Sawyer",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18761,7 +19245,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -18799,7 +19284,8 @@
         "county": "Dodge",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -18867,7 +19353,8 @@
         "county": "Dunn",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18905,7 +19392,8 @@
         "county": "Lincoln",
         "sampleCount": 4,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19055,7 +19543,8 @@
         "county": "Price",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19093,7 +19582,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19167,7 +19657,8 @@
         "county": "Sauk",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19205,7 +19696,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19351,7 +19843,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19425,7 +19918,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19463,7 +19957,8 @@
         "county": "Outagamie",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19501,7 +19996,8 @@
         "county": "Chippewa",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19539,7 +20035,8 @@
         "county": "Green",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19577,7 +20074,8 @@
         "county": "Dunn",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19644,7 +20142,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 229.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crawford",
+        "sampleCount": 31,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "radisson",
@@ -19681,7 +20188,8 @@
         "county": "Sawyer",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19796,7 +20304,8 @@
         "county": "Juneau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19834,7 +20343,8 @@
         "county": "Lafayette",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19908,7 +20418,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19939,7 +20450,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 116.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Iron",
+        "sampleCount": 24,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mount-sterling",
@@ -19969,7 +20489,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 229.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crawford",
+        "sampleCount": 31,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hull",
@@ -20078,7 +20607,8 @@
         "county": "Sawyer",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20109,7 +20639,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 116.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Iron",
+        "sampleCount": 24,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mount-hope",
@@ -20146,7 +20685,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20184,7 +20724,8 @@
         "county": "Sawyer",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20294,7 +20835,8 @@
         "county": "Juneau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20440,7 +20982,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20478,7 +21021,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20509,7 +21053,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 12.4,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Taylor",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "baileys-harbor",
@@ -20539,7 +21092,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Door",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-tomahawk",
@@ -20605,7 +21167,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Door",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "maplewood",
@@ -20635,7 +21206,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Door",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dodge",
@@ -20672,7 +21252,8 @@
         "county": "Trempealeau",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20782,7 +21363,8 @@
         "county": "Iowa",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21107,7 +21689,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 271.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Winnebago",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "auburndale",
@@ -21248,7 +21839,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 271.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Winnebago",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "okauchee",
@@ -21416,7 +22016,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-09-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Door",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "marengo",
@@ -21489,7 +22098,8 @@
         "county": "Columbia",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -21563,7 +22173,8 @@
         "county": "La Crosse",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21673,7 +22284,8 @@
         "county": "Grant",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21711,7 +22323,8 @@
         "county": "Clark",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

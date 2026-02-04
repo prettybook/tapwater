@@ -269,7 +269,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "andrew",
@@ -299,7 +308,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "elwood-ks",
@@ -329,7 +347,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "st-joseph",
@@ -359,7 +386,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wathena-ks",
@@ -389,7 +425,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "joplin",
@@ -622,7 +667,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1416,7 +1462,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1957,7 +2004,8 @@
         "county": "Audrain",
         "sampleCount": 417,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -2182,7 +2230,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2335,7 +2384,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 65.6,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Ray",
+        "sampleCount": 33,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "carthage",
@@ -2575,7 +2633,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2809,7 +2868,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2926,7 +2986,8 @@
         "county": "Clinton",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2968,7 +3029,8 @@
         "county": "Caldwell",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3162,7 +3224,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ste-genevieve",
@@ -3623,7 +3694,8 @@
         "county": "Pemiscot",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3701,7 +3773,8 @@
         "county": "Clinton",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4026,7 +4099,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 426.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 417,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clarksdale",
@@ -4213,7 +4295,8 @@
         "county": "Ralls",
         "sampleCount": 74,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4401,7 +4484,8 @@
         "county": "Carroll",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4514,7 +4598,8 @@
         "county": "Pemiscot",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4672,7 +4757,8 @@
         "county": "Mississippi",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4860,7 +4946,8 @@
         "county": "Pemiscot",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4970,7 +5057,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 261.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Scotland",
+        "sampleCount": 53,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "licking",
@@ -5042,7 +5138,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 65.6,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Ray",
+        "sampleCount": 33,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "desloge-pws",
@@ -5564,7 +5669,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5831,7 +5937,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6170,7 +6277,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6384,7 +6492,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wright-city",
@@ -6528,7 +6645,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 206.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Schuyler",
+        "sampleCount": 99,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "albany",
@@ -6964,7 +7090,8 @@
         "county": "Audrain",
         "sampleCount": 417,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -7265,7 +7392,8 @@
         "county": "Mississippi",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7861,7 +7989,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7902,7 +8031,8 @@
         "county": "Daviess",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7940,7 +8070,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8118,7 +8249,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 426.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 417,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "oronogo",
@@ -8230,7 +8370,8 @@
         "county": "Daviess",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8347,7 +8488,8 @@
         "county": "Clinton",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9298,7 +9440,8 @@
         "county": "Pemiscot",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9679,7 +9822,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9789,7 +9933,8 @@
         "county": "Daviess",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9902,7 +10047,8 @@
         "county": "Caldwell",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10459,7 +10605,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10497,7 +10644,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10751,7 +10899,8 @@
         "county": "Maries",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10864,7 +11013,8 @@
         "county": "Clinton",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11114,7 +11264,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Atchison",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "winfield",
@@ -11439,7 +11598,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11545,7 +11705,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "osage-beach",
@@ -11809,7 +11978,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Atchison",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "winona",
@@ -12065,7 +12243,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12139,7 +12318,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12180,7 +12360,8 @@
         "county": "Wright",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12365,7 +12546,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12619,7 +12801,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12861,7 +13044,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13010,7 +13194,8 @@
         "county": "Clinton",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13241,7 +13426,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13423,7 +13609,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13537,7 +13724,8 @@
         "county": "Ralls",
         "sampleCount": 74,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13793,7 +13981,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 206.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Schuyler",
+        "sampleCount": 99,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "miner-pws",
@@ -13830,7 +14027,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13976,7 +14174,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14086,7 +14285,8 @@
         "county": "Caldwell",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15197,7 +15397,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 65.6,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Ray",
+        "sampleCount": 33,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rocky-ridge",
@@ -15329,7 +15538,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 65.6,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Ray",
+        "sampleCount": 33,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pilot-knob",
@@ -15438,7 +15656,8 @@
         "county": "Mississippi",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15469,7 +15688,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 206.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Schuyler",
+        "sampleCount": 99,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "the-knolls",
@@ -15679,7 +15907,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Atchison",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "miller",
@@ -15788,7 +16025,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16006,7 +16244,8 @@
         "county": "Wright",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16152,7 +16391,8 @@
         "county": "Wright",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16327,7 +16567,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Atchison",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "holcomb",
@@ -16538,7 +16787,8 @@
         "county": "Carroll",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -16720,7 +16970,8 @@
         "county": "Maries",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16758,7 +17009,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16825,7 +17077,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 65.6,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Ray",
+        "sampleCount": 33,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jamesport",
@@ -16862,7 +17123,8 @@
         "county": "Daviess",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16900,7 +17162,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17046,7 +17309,8 @@
         "county": "Audrain",
         "sampleCount": 417,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -17113,7 +17377,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 426.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 417,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "deerfield",
@@ -17576,7 +17849,8 @@
         "county": "Pemiscot",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17650,7 +17924,8 @@
         "county": "Audrain",
         "sampleCount": 417,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -18300,7 +18575,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18338,7 +18614,8 @@
         "county": "Carroll",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -18628,7 +18905,8 @@
         "county": "Audrain",
         "sampleCount": 417,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -18702,7 +18980,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19028,7 +19307,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19210,7 +19490,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19566,7 +19847,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19850,7 +20132,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20025,7 +20308,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 65.6,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Ray",
+        "sampleCount": 33,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chamois",
@@ -20062,7 +20354,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20742,7 +21035,8 @@
         "county": "Maries",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21464,7 +21758,8 @@
         "county": "Caldwell",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21495,7 +21790,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 206.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Schuyler",
+        "sampleCount": 99,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "breckenridge",
@@ -21532,7 +21836,8 @@
         "county": "Caldwell",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21786,7 +22091,8 @@
         "county": "Mississippi",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21932,7 +22238,8 @@
         "county": "Pemiscot",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22042,7 +22349,8 @@
         "county": "Carroll",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -22332,7 +22640,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22442,7 +22751,8 @@
         "county": "Caldwell",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23527,7 +23837,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24267,7 +24578,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "arrow-rock",
@@ -24586,7 +24906,8 @@
         "county": "Pemiscot",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24624,7 +24945,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24662,7 +24984,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24910,7 +25233,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25020,7 +25344,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25340,7 +25665,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25450,7 +25776,8 @@
         "county": "Daviess",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25524,7 +25851,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25706,7 +26034,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25816,7 +26145,8 @@
         "county": "Carroll",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -26699,7 +27029,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "anniston",
@@ -26736,7 +27075,8 @@
         "county": "Mississippi",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27170,7 +27510,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27238,7 +27579,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27306,7 +27648,8 @@
         "county": "Scott",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27380,7 +27723,8 @@
         "county": "Daviess",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27526,7 +27870,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28529,7 +28874,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 209.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Andrew",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "arrow-ridge-shores",
@@ -28782,7 +29136,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28964,7 +29319,8 @@
         "county": "Osage",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29038,7 +29394,8 @@
         "county": "Carroll",
         "sampleCount": 76,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -29112,7 +29469,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29150,7 +29508,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30081,7 +30440,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Atchison",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "branson-view-estates",
@@ -30514,7 +30882,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31056,7 +31425,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31598,7 +31968,8 @@
         "county": "Stoddard",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31672,7 +32043,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33402,7 +33774,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33800,7 +34173,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34414,7 +34788,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34740,7 +35115,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35210,7 +35586,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35248,7 +35625,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35358,7 +35736,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35828,7 +36207,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36190,7 +36570,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36228,7 +36609,8 @@
         "county": "Morgan",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36626,7 +37008,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37420,7 +37803,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37638,7 +38022,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37784,7 +38169,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38290,7 +38676,8 @@
         "county": "Pettis",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38652,7 +39039,8 @@
         "county": "Cape Girardeau",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38780,7 +39168,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 426.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 417,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "eagles-landing-subdivision-association",
@@ -38986,7 +39383,8 @@
         "county": "Maries",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

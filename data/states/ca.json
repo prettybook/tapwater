@@ -2304,11 +2304,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -2412,11 +2412,11 @@
         "lastSampleDate": "2023-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -3160,11 +3160,11 @@
         "lastSampleDate": "2023-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -4725,11 +4725,11 @@
         "lastSampleDate": "2026-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -8946,11 +8946,11 @@
         "lastSampleDate": "2023-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -9090,11 +9090,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -12998,7 +12998,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "palomar-christian-conference-center",
@@ -13317,11 +13326,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -14138,7 +14147,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "casitas",
@@ -14451,11 +14469,11 @@
         "lastSampleDate": "2022-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -16050,7 +16068,8 @@
         "county": "Alpine",
         "sampleCount": 307,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -16268,7 +16287,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -17787,7 +17807,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -18640,7 +18661,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "santo-domingo-pueblo",
@@ -18989,11 +19019,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -19466,7 +19496,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -19891,7 +19922,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -20319,7 +20351,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -20537,7 +20570,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21315,7 +21349,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jackson-valley-irrigation-district",
@@ -21549,7 +21592,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "box-springs-mutual-wc",
@@ -21831,7 +21883,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jemez-pueblo",
@@ -22709,7 +22770,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -22743,7 +22805,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sutter-community-sd",
@@ -24471,7 +24542,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "acoma-main",
@@ -24646,7 +24726,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25073,7 +25154,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "london-community-serv-dist",
@@ -25146,7 +25236,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -26245,7 +26336,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "majestic-pines-community-sd",
@@ -26311,7 +26411,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ventura-cwwd-no-38-lake-sherwood",
@@ -27309,7 +27418,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28205,11 +28315,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -28276,7 +28386,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "willow-creek-csd",
@@ -29266,7 +29385,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "olympic-valley-psd",
@@ -29551,7 +29679,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "big-basin",
@@ -30373,7 +30510,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "indian-creek-csd",
@@ -30800,7 +30946,8 @@
         "county": "Sierra",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32439,7 +32586,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "adventist-health-st-helena-hospital",
@@ -33043,7 +33199,8 @@
         "county": "Sierra",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33921,7 +34078,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33959,7 +34117,8 @@
         "county": "Sierra",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34465,7 +34624,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -34719,7 +34879,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35645,7 +35806,8 @@
         "county": "Alpine",
         "sampleCount": 307,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -36956,7 +37118,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -37132,11 +37295,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -37639,11 +37802,11 @@
         "lastSampleDate": "2026-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -39444,7 +39607,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "glenwood-mobile-estates",
@@ -40351,7 +40523,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fcsa-49-five-points",
@@ -41173,7 +41354,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "post-ranch-inn-ws",
@@ -41773,7 +41963,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sunset-vista-estates-mhp",
@@ -42662,7 +42861,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -42981,7 +43181,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hitchcock-rd-ws-01",
@@ -44085,7 +44294,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ponderosa-csd",
@@ -44302,7 +44520,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -44616,7 +44835,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -45014,7 +45234,8 @@
         "county": "Sierra",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -45513,7 +45734,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mill-creek-msc",
@@ -46270,7 +46500,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -47550,11 +47781,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -47862,7 +48093,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sunol-sfpuc",
@@ -48036,7 +48276,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "woodside-rv-park",
@@ -48181,7 +48430,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -48788,7 +49038,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rough-ready-village",
@@ -49437,7 +49696,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -49691,7 +49951,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -50449,7 +50710,8 @@
         "county": "Sierra",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -51653,7 +51915,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "casmalia-community-services-district",
@@ -51870,7 +52141,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -52153,7 +52425,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "anza-mutual",
@@ -52298,7 +52579,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -52581,7 +52863,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lawndale-mutual",
@@ -53187,7 +53478,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rancho-carrillo-mwc",
@@ -53793,7 +54093,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "san-juan-vista",
@@ -54622,7 +54931,8 @@
         "county": "Sierra",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -54876,7 +55186,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -55231,7 +55542,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tid-la-grange",
@@ -56378,7 +56698,8 @@
         "county": "Sierra",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -57064,7 +57385,8 @@
         "county": "Alpine",
         "sampleCount": 307,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -58811,7 +59133,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "olive-lane-mobilehome-park",
@@ -58884,7 +59215,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -58922,7 +59254,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -59349,7 +59682,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "calico-lake-homeowners",
@@ -59458,7 +59800,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -62719,11 +63062,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -62941,7 +63284,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -63195,7 +63539,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -63478,7 +63823,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "valley-creek-mhp-ws",
@@ -64193,11 +64547,11 @@
         "lastSampleDate": "2023-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -65652,7 +66006,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -67111,7 +67466,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "morada-acres",
@@ -67508,7 +67872,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -67936,7 +68301,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -68118,7 +68484,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -69344,7 +69711,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -69699,7 +70067,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "valley-view-estates-mutual",
@@ -70377,7 +70754,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "vista-del-toro-ws",
@@ -70558,7 +70944,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -71411,7 +71798,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "del-oro-river-island-serv-terr-2",
@@ -71514,11 +71910,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -72377,7 +72773,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chamisal-mwc",
@@ -72738,7 +73143,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -73346,11 +73752,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -74101,7 +74507,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shorelands-road",
@@ -75830,7 +76245,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -76339,7 +76755,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -77061,7 +77478,8 @@
         "county": "Alpine",
         "sampleCount": 307,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -77668,7 +78086,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "la-tierra-heights-mutual",
@@ -78533,7 +78960,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -78817,11 +79245,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -79681,11 +80109,11 @@
         "lastSampleDate": "2026-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -79860,7 +80288,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "washington-ridge-cc",
@@ -80528,7 +80965,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -81305,11 +81743,11 @@
         "lastSampleDate": "2023-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -81383,7 +81821,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -82177,7 +82616,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -82353,11 +82793,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -83889,7 +84329,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "trails-end-mutual",
@@ -83991,7 +84440,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "agape-mutual",
@@ -84917,7 +85375,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -84991,7 +85450,8 @@
         "county": "Alpine",
         "sampleCount": 307,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -87009,7 +87469,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -87335,7 +87796,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -88683,7 +89145,8 @@
         "county": "Trinity",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -91177,7 +91640,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -92879,7 +93343,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -93274,11 +93739,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {
@@ -94082,7 +94547,8 @@
         "county": "Lake",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -94354,7 +94820,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 80.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tuolumne",
+        "sampleCount": 307,
+        "isNeighborEstimate": true,
+        "neighborCount": 5,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mark-west-meadows-mutual",
@@ -94529,11 +95004,11 @@
         "lastSampleDate": "2005-12-31"
       },
       "hardness": {
-        "value": 264.0,
+        "value": 183.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Solano",
-        "sampleCount": 4
+        "sampleCount": 3
       }
     },
     {

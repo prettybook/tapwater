@@ -54,7 +54,8 @@
         "county": "Laramie",
         "sampleCount": 997,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -447,7 +448,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 269.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Uinta",
+        "sampleCount": 22,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "green-river",
@@ -1094,7 +1104,8 @@
         "county": "Hot Springs",
         "sampleCount": 49,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1135,7 +1146,8 @@
         "county": "Platte",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1169,7 +1181,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 269.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Uinta",
+        "sampleCount": 22,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "greybull",
@@ -1210,7 +1231,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -1373,7 +1395,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -1486,7 +1509,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -1848,7 +1872,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 269.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Uinta",
+        "sampleCount": 22,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pine-bluffs",
@@ -1885,7 +1918,8 @@
         "county": "Laramie",
         "sampleCount": 997,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1923,7 +1957,8 @@
         "county": "Platte",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2036,7 +2071,8 @@
         "county": "Laramie",
         "sampleCount": 997,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2293,7 +2329,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -2367,7 +2404,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3230,7 +3268,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3448,7 +3487,8 @@
         "county": "Platte",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3624,7 +3664,8 @@
         "county": "Platte",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3770,7 +3811,8 @@
         "county": "Laramie",
         "sampleCount": 997,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3808,7 +3850,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3846,7 +3889,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4166,7 +4210,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4240,7 +4285,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4278,7 +4324,8 @@
         "county": "Hot Springs",
         "sampleCount": 49,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4382,7 +4429,8 @@
         "county": "Laramie",
         "sampleCount": 997,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4528,7 +4576,8 @@
         "county": "Big Horn",
         "sampleCount": 194,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4602,7 +4651,8 @@
         "county": "Platte",
         "sampleCount": 3,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4814,7 +4864,8 @@
         "county": "Hot Springs",
         "sampleCount": 49,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     }
   ]

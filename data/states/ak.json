@@ -85,7 +85,8 @@
         "county": "Anchorage Municipality",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -204,7 +205,8 @@
         "county": "Anchorage Municipality",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -324,7 +326,8 @@
         "county": "Anchorage Municipality",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -655,7 +658,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kenai",
@@ -690,7 +702,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "valdez",
@@ -836,7 +857,16 @@
         "samplePeriod": "2027-H2",
         "lastSampleDate": "2027-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cattaraugus-cws",
@@ -909,7 +939,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1012,7 +1043,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kotzebue",
@@ -1114,7 +1154,8 @@
         "county": "Anchorage Municipality",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1150,7 +1191,16 @@
         "samplePeriod": "2027-H2",
         "lastSampleDate": "2027-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Dillingham Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cordova",
@@ -1401,7 +1451,8 @@
         "county": "Anchorage Municipality",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1547,7 +1598,8 @@
         "county": "Anchorage Municipality",
         "sampleCount": 32,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1578,7 +1630,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hoonah",
@@ -1704,7 +1765,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Dillingham Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "klawock",
@@ -1965,7 +2035,16 @@
         "samplePeriod": "2027-H2",
         "lastSampleDate": "2027-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kwethluk",
@@ -2002,7 +2081,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2130,7 +2210,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2191,7 +2272,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "toksook-bay",
@@ -2228,7 +2318,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2345,7 +2436,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2419,7 +2511,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2453,7 +2546,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kotlik",
@@ -2717,7 +2819,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Dillingham Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "saint-marys",
@@ -2790,7 +2901,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2831,7 +2943,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2869,7 +2982,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2903,7 +3017,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Dillingham Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "salcha",
@@ -3006,7 +3129,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3067,7 +3191,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "egegik",
@@ -3157,7 +3290,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "thorne-bay",
@@ -3449,7 +3591,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hydaburg",
@@ -3546,7 +3697,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3644,7 +3796,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3712,7 +3865,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3743,7 +3897,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "anaktuvuk-pass",
@@ -3816,7 +3979,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3854,7 +4018,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3885,7 +4050,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "russian-mission",
@@ -3958,7 +4132,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3989,7 +4164,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "elim",
@@ -4056,7 +4240,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4130,7 +4315,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4161,7 +4347,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shungnak",
@@ -4383,7 +4578,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "eek",
@@ -4420,7 +4624,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4541,7 +4746,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shaktoolik",
@@ -4638,7 +4852,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4706,7 +4921,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4833,7 +5049,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ruby",
@@ -4863,7 +5088,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kaltag",
@@ -4893,7 +5127,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "nunam-iqua",
@@ -4930,7 +5173,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4991,7 +5235,16 @@
         "samplePeriod": "2018-H2",
         "lastSampleDate": "2018-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "minto",
@@ -5021,7 +5274,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "nondalton",
@@ -5118,7 +5380,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5216,7 +5479,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5247,7 +5511,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "eagle",
@@ -5337,7 +5610,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "venetie",
@@ -5367,7 +5649,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "port-graham",
@@ -5397,7 +5688,16 @@
         "samplePeriod": "2021-H2",
         "lastSampleDate": "2021-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "arctic-village",
@@ -5427,7 +5727,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "port-lions",
@@ -5517,7 +5826,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Dillingham Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newtok",
@@ -5554,7 +5872,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5712,7 +6031,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5773,7 +6093,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clarks-point",
@@ -5803,7 +6132,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Dillingham Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chuathbaluk",
@@ -5840,7 +6178,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5871,7 +6210,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pitkas-point",
@@ -5967,7 +6315,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "igiugig",
@@ -6027,7 +6384,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "manley-hot-springs",
@@ -6057,7 +6423,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "port-alexander",
@@ -6315,7 +6690,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "twin-hills",
@@ -6345,7 +6729,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Dillingham Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "koyukuk",
@@ -6375,7 +6768,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "little-diomede",
@@ -6442,7 +6844,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6473,7 +6876,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newhalen",
@@ -6533,7 +6945,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "takotna",
@@ -6563,7 +6984,16 @@
         "samplePeriod": "2021-H2",
         "lastSampleDate": "2021-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "south-naknek",
@@ -6773,7 +7203,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "platinum",
@@ -6810,7 +7249,8 @@
         "county": "Bethel Census Area",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6956,7 +7396,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 59.9,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kenai Peninsula Borough",
+        "sampleCount": 32,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stevens-village",
@@ -6986,7 +7435,16 @@
         "samplePeriod": "2024-H1",
         "lastSampleDate": "2024-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 138.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Yukon-Koyukuk Census Area",
+        "sampleCount": 27,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     }
   ]
 }

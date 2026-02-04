@@ -2576,7 +2576,8 @@
         "county": "Greensville",
         "sampleCount": 63,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -2818,7 +2819,8 @@
         "county": "Nottoway",
         "sampleCount": 68,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5317,7 +5319,8 @@
         "county": "Nottoway",
         "sampleCount": 68,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5463,7 +5466,8 @@
         "county": "York",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6545,7 +6549,8 @@
         "county": "York",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7879,7 +7884,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8349,7 +8355,8 @@
         "county": "York",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9287,7 +9294,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10610,7 +10618,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10864,7 +10873,8 @@
         "county": "York",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11046,7 +11056,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11264,7 +11275,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11374,7 +11386,8 @@
         "county": "York",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11844,7 +11857,8 @@
         "county": "York",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12494,7 +12508,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12568,7 +12583,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12786,7 +12802,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13112,7 +13129,8 @@
         "county": "Nottoway",
         "sampleCount": 68,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13258,7 +13276,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13656,7 +13675,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14247,7 +14267,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15318,7 +15339,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15464,7 +15486,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15995,7 +16018,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16501,7 +16525,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17710,7 +17735,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18252,7 +18278,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18614,7 +18641,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18904,7 +18932,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19825,7 +19854,8 @@
         "county": "York",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20037,7 +20067,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21235,7 +21266,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21636,7 +21668,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22028,7 +22061,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22426,7 +22460,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22602,7 +22637,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22814,7 +22850,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23680,7 +23717,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24200,7 +24238,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24382,7 +24421,8 @@
         "county": "Mathews",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24708,7 +24748,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25106,7 +25147,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25252,7 +25294,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26222,7 +26265,8 @@
         "county": "Mathews",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26393,7 +26437,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26461,7 +26506,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26571,7 +26617,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26897,7 +26944,8 @@
         "county": "Mathews",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27469,7 +27517,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27507,7 +27556,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27822,7 +27872,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27890,7 +27941,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28000,7 +28052,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28110,7 +28163,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28358,7 +28412,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28756,7 +28811,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28794,7 +28850,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28940,7 +28997,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28978,7 +29036,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29412,7 +29471,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30386,7 +30446,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30604,7 +30665,8 @@
         "county": "Mathews",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30883,7 +30945,8 @@
         "county": "Mathews",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30993,7 +31056,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31247,7 +31311,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31321,7 +31386,8 @@
         "county": "Mathews",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31359,7 +31425,8 @@
         "county": "Nottoway",
         "sampleCount": 68,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31699,7 +31766,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32188,7 +32256,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32298,7 +32367,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32336,7 +32406,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32543,7 +32614,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33248,7 +33320,8 @@
         "county": "Greensville",
         "sampleCount": 63,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -33552,7 +33625,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34016,7 +34090,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34439,7 +34514,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34513,7 +34589,8 @@
         "county": "Lancaster",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34623,7 +34700,8 @@
         "county": "Northumberland",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

@@ -2217,7 +2217,8 @@
         "county": "Camden",
         "sampleCount": 128,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -2339,7 +2340,8 @@
         "county": "Davie",
         "sampleCount": 87,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2414,7 +2416,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 239.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Dare",
+        "sampleCount": 39,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "burgaw",
@@ -2494,7 +2505,8 @@
         "county": "Halifax",
         "sampleCount": 57,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3078,7 +3090,8 @@
         "county": "Currituck",
         "sampleCount": 39,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3859,7 +3872,8 @@
         "county": "Polk",
         "sampleCount": 286,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -4755,7 +4769,8 @@
         "county": "Perquimans",
         "sampleCount": 43,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5723,7 +5738,8 @@
         "county": "Currituck",
         "sampleCount": 39,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6130,7 +6146,8 @@
         "county": "Camden",
         "sampleCount": 128,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -7752,7 +7769,8 @@
         "county": "Polk",
         "sampleCount": 286,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7899,7 +7917,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 239.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Dare",
+        "sampleCount": 39,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "troy",
@@ -8051,7 +8078,8 @@
         "county": "Hyde",
         "sampleCount": 69,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8913,7 +8941,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 45.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Yadkin",
+        "sampleCount": 87,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-lure",
@@ -10118,7 +10155,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 239.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Dare",
+        "sampleCount": 39,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "warsaw",
@@ -10614,7 +10660,8 @@
         "county": "Halifax",
         "sampleCount": 57,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10727,7 +10774,8 @@
         "county": "Polk",
         "sampleCount": 286,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -10911,7 +10959,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 239.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Dare",
+        "sampleCount": 39,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "delco",
@@ -10987,7 +11044,8 @@
         "county": "Polk",
         "sampleCount": 286,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -11067,7 +11125,8 @@
         "county": "Clay",
         "sampleCount": 205,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11749,7 +11808,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 45.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Yadkin",
+        "sampleCount": 87,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "linden",
@@ -11857,7 +11925,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 239.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Dare",
+        "sampleCount": 39,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rutherford-coll",
@@ -12451,7 +12528,8 @@
         "county": "Halifax",
         "sampleCount": 57,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13677,7 +13755,8 @@
         "county": "Halifax",
         "sampleCount": 57,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15163,7 +15242,8 @@
         "county": "Hyde",
         "sampleCount": 69,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15914,7 +15994,8 @@
         "county": "Polk",
         "sampleCount": 286,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -16392,7 +16473,8 @@
         "county": "Halifax",
         "sampleCount": 57,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16875,7 +16957,8 @@
         "county": "Currituck",
         "sampleCount": 39,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17771,7 +17854,8 @@
         "county": "Camden",
         "sampleCount": 128,
         "isNeighborEstimate": true,
-        "neighborCount": 5
+        "neighborCount": 5,
+        "neighborDegree": 1
       }
     },
     {
@@ -18962,7 +19046,8 @@
         "county": "Currituck",
         "sampleCount": 39,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19216,7 +19301,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 239.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Dare",
+        "sampleCount": 39,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pleasant-garden",
@@ -20146,7 +20240,8 @@
         "county": "Halifax",
         "sampleCount": 57,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

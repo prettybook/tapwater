@@ -1,0 +1,1520 @@
+{
+  "stateCode": "RI",
+  "stateName": "Rhode Island",
+  "lastUpdated": "2026-02-03",
+  "cities": [
+    {
+      "slug": "cranston",
+      "name": "CRANSTON",
+      "county": null,
+      "populationServed": 421921,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592024",
+      "utilityName": "PROVIDENCE-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592024",
+      "allUtilities": [
+        "KENT COUNTY WATER AUTHORITY",
+        "PROVIDENCE-CITY OF"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.56,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 26.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kent",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "johnston",
+      "name": "JOHNSTON",
+      "county": null,
+      "populationServed": 333142,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592024",
+      "utilityName": "PROVIDENCE-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592024",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "north-providence",
+      "name": "NORTH PROVIDENCE",
+      "county": null,
+      "populationServed": 333142,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592024",
+      "utilityName": "PROVIDENCE-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592024",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "providence",
+      "name": "PROVIDENCE",
+      "county": null,
+      "populationServed": 333142,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592024",
+      "utilityName": "PROVIDENCE-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592024",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "warwick",
+      "name": "WARWICK",
+      "county": null,
+      "populationServed": 164231,
+      "waterSystemCount": 3,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1559511",
+      "utilityName": "KENT COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559511",
+      "allUtilities": [
+        "KENT COUNTY WATER AUTHORITY",
+        "WARWICK-CITY OF",
+        "WARWICK-POTOWOMUT"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.8,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 26.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kent",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "cumberland",
+      "name": "CUMBERLAND",
+      "county": null,
+      "populationServed": 119365,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592021",
+      "utilityName": "PAWTUCKET WATER SUPPLY BOARD VEOLIA-NA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592021",
+      "allUtilities": [
+        "PAWTUCKET WATER SUPPLY BOARD VEOLIA-NA",
+        "CUMBERLAND, TOWN OF"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.08,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "north-kingstown",
+      "name": "NORTH KINGSTOWN",
+      "county": null,
+      "populationServed": 116511,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1559511",
+      "utilityName": "KENT COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559511",
+      "allUtilities": [
+        "KENT COUNTY WATER AUTHORITY",
+        "NORTH KINGSTOWN TOWN OF"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.38,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 26.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kent",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "coventry",
+      "name": "COVENTRY",
+      "county": null,
+      "populationServed": 99395,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1559511",
+      "utilityName": "KENT COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559511",
+      "allUtilities": [
+        "KENT COUNTY WATER AUTHORITY",
+        "PAIGE ASSOCIATES",
+        "PINE ACRES ALR",
+        "ALPINE NURSING HOME",
+        "CNE - HOPKINS HILL ROAD ENTRY POINT",
+        "CNE - NEW LONDON TURNPIKE ENTRY POINT"
+      ],
+      "violations3yr": {
+        "total": 32,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.26,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 26.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kent",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "central-falls",
+      "name": "CENTRAL FALLS",
+      "county": null,
+      "populationServed": 98130,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592021",
+      "utilityName": "PAWTUCKET WATER SUPPLY BOARD VEOLIA-NA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592021",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "pawtucket",
+      "name": "PAWTUCKET",
+      "county": null,
+      "populationServed": 98130,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592021",
+      "utilityName": "PAWTUCKET WATER SUPPLY BOARD VEOLIA-NA",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592021",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "scituate",
+      "name": "SCITUATE",
+      "county": null,
+      "populationServed": 88833,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1559511",
+      "utilityName": "KENT COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559511",
+      "allUtilities": [
+        "ROCKLAND OAKS",
+        "KENT COUNTY WATER AUTHORITY",
+        "JEMP 1 LLC"
+      ],
+      "violations3yr": {
+        "total": 135,
+        "healthBased": 114
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.41,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "west-greenwich",
+      "name": "WEST GREENWICH",
+      "county": null,
+      "populationServed": 88823,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1559511",
+      "utilityName": "KENT COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559511",
+      "allUtilities": [
+        "KENT COUNTY WATER AUTHORITY",
+        "BLUEBERRY HEIGHTS HOUSING COOPERATIVE CO"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 26.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kent",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "east-greenwich",
+      "name": "EAST GREENWICH",
+      "county": null,
+      "populationServed": 88779,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1559511",
+      "utilityName": "KENT COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559511",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 26.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kent",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "west-warwick",
+      "name": "WEST WARWICK",
+      "county": null,
+      "populationServed": 88779,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1559511",
+      "utilityName": "KENT COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559511",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 26.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Kent",
+        "sampleCount": 30,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "portsmouth",
+      "name": "PORTSMOUTH",
+      "county": null,
+      "populationServed": 60745,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1592010",
+      "utilityName": "NEWPORT-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592010",
+      "allUtilities": [
+        "NEWPORT-CITY OF",
+        "PORTSMOUTH WATER & FIRE DISTRICT",
+        "PRUDENCE ISLAND WATER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 272,
+        "healthBased": 10
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.43,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2027-H2",
+        "lastSampleDate": "2027-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newport",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "south-kingstown",
+      "name": "SOUTH KINGSTOWN",
+      "county": null,
+      "populationServed": 52935,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1615624",
+      "utilityName": "VEOLIA WATER WAKEFIELD RHODE ISLAND INC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1615624",
+      "allUtilities": [
+        "SOUTH KINGSTOWN-MIDDLEBRIDGE",
+        "SOUTH KINGSTOWN-SOUTH SHORE",
+        "VEOLIA WATER WAKEFIELD RHODE ISLAND INC",
+        "KINGSTON WATER DISTRICT",
+        "UNIVERSITY OF RHODE ISLAND",
+        "SOUTH KINGSTOWN NURSING AND REHAB",
+        "HILLSDALE HOUSING COOPERATIVE, INC."
+      ],
+      "violations3yr": {
+        "total": 361,
+        "healthBased": 20
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.38,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "newport",
+      "name": "NEWPORT",
+      "county": null,
+      "populationServed": 50345,
+      "waterSystemCount": 3,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1592010",
+      "utilityName": "NEWPORT-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592010",
+      "allUtilities": [
+        "NAVAL STATION, NEWPORT",
+        "NEWPORT-CITY OF",
+        "UNITED STATES NAVY -FORT ADAMS"
+      ],
+      "violations3yr": {
+        "total": 17,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.31,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2027-H2",
+        "lastSampleDate": "2027-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newport",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "warren",
+      "name": "WARREN",
+      "county": null,
+      "populationServed": 49225,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1647515",
+      "utilityName": "BRISTOL COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1647515",
+      "allUtilities": [
+        "TOUISSET POINT WATER TRUST",
+        "BRISTOL COUNTY WATER AUTHORITY"
+      ],
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Bristol",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "bristol",
+      "name": "BRISTOL",
+      "county": null,
+      "populationServed": 49220,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1647515",
+      "utilityName": "BRISTOL COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1647515",
+      "allUtilities": [
+        "BRISTOL COUNTY WATER AUTHORITY",
+        "DAWN HILL HOME REHAB AND HEALTHCARE, THE"
+      ],
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.89,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Bristol",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "barrington",
+      "name": "BARRINGTON",
+      "county": null,
+      "populationServed": 49000,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1647515",
+      "utilityName": "BRISTOL COUNTY WATER AUTHORITY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1647515",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Bristol",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "east-providence",
+      "name": "EAST PROVIDENCE",
+      "county": null,
+      "populationServed": 47618,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1615610",
+      "utilityName": "EAST PROVIDENCE-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1615610",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "woonsocket",
+      "name": "WOONSOCKET",
+      "county": null,
+      "populationServed": 45869,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1559518",
+      "utilityName": "WOONSOCKET WATER DIVISION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559518",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "middletown",
+      "name": "MIDDLETOWN",
+      "county": null,
+      "populationServed": 42338,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1592010",
+      "utilityName": "NEWPORT-CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592010",
+      "allUtilities": [
+        "NEWPORT-CITY OF",
+        "MEADOWLARK, INC."
+      ],
+      "violations3yr": {
+        "total": 11,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.38,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2027-H2",
+        "lastSampleDate": "2027-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newport",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "westerly",
+      "name": "WESTERLY",
+      "county": null,
+      "populationServed": 35298,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1559512",
+      "utilityName": "WESTERLY WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1559512",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 84,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "lincoln",
+      "name": "LINCOLN",
+      "county": null,
+      "populationServed": 21664,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1858423",
+      "utilityName": "LINCOLN WATER COMMISSION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1858423",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "smithfield",
+      "name": "SMITHFIELD",
+      "county": null,
+      "populationServed": 19699,
+      "waterSystemCount": 4,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1858410",
+      "utilityName": "GREENVILLE WATER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1858410",
+      "allUtilities": [
+        "SMITHFIELD WATER SUPPLY BOARD",
+        "GREENVILLE WATER DISTRICT",
+        "LAKE FOREST HEALTH AND REHABILITATION",
+        "PROVIDENCE-CITY OF - WHIPPLE"
+      ],
+      "violations3yr": {
+        "total": 10,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.14,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "tiverton",
+      "name": "TIVERTON",
+      "county": null,
+      "populationServed": 15111,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1592018",
+      "utilityName": "NORTH TIVERTON FIRE DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1592018",
+      "allUtilities": [
+        "NORTH TIVERTON FIRE DISTRICT",
+        "STONE BRIDGE FIRE DISTRICT",
+        "TIVERTON WATER AUTHORITY, TOWN HALL",
+        "HERITAGE PARK HOME CO-OPERATIVE",
+        "FOUR SEASONS MHP CO-OP ASSN.",
+        "LAWRENCE SUNSET COVE ASSOCIATION"
+      ],
+      "violations3yr": {
+        "total": 73,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.18,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newport",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "narragansett",
+      "name": "NARRAGANSETT",
+      "county": null,
+      "populationServed": 12642,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1858428",
+      "utilityName": "NARRAGANSETT WATER SYSTEM-POINT JUDITH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1858428",
+      "allUtilities": [
+        "NARRAGANSETT WATER SYSTEM-POINT JUDITH",
+        "NARRAGANSETT WATER DEPT-NORTH END"
+      ],
+      "violations3yr": {
+        "total": 18,
+        "healthBased": 18
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.08,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "new-shoreham",
+      "name": "NEW SHOREHAM",
+      "county": null,
+      "populationServed": 9999,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1858430",
+      "utilityName": "BLOCK ISLAND WATER COMPANY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1858430",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 60,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "burrillville",
+      "name": "BURRILLVILLE",
+      "county": null,
+      "populationServed": 7515,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1858411",
+      "utilityName": "CLEAR RIVER ELECTRIC AND WATER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1858411",
+      "allUtilities": [
+        "GLENDALE WATER ASSN",
+        "ELEANOR SLATER HOSPITAL ZAMBARANO UNIT",
+        "CLEAR RIVER ELECTRIC AND WATER DISTRICT",
+        "NASONVILLE WATER DISTRICT",
+        "MAPLEHILL MOBILE HOME PARK"
+      ],
+      "violations3yr": {
+        "total": 150,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.86,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "north-smithfield",
+      "name": "NORTH SMITHFIELD",
+      "county": null,
+      "populationServed": 6123,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1615614",
+      "utilityName": "SLATERSVILLE PUBLIC SUPPLY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1615614",
+      "allUtilities": [
+        "SLATERSVILLE PUBLIC SUPPLY",
+        "DOWLING VILLAGE"
+      ],
+      "violations3yr": {
+        "total": 24,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.39,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "jamestown",
+      "name": "JAMESTOWN",
+      "county": null,
+      "populationServed": 3348,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "RI1858419",
+      "utilityName": "JAMESTOWN WATER DEPARTMENT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1858419",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 19,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 28.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newport",
+        "sampleCount": 68,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "richmond",
+      "name": "RICHMOND",
+      "county": null,
+      "populationServed": 2946,
+      "waterSystemCount": 4,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1000040",
+      "utilityName": "RICHMOND, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1000040",
+      "allUtilities": [
+        "RICHMOND, TOWN OF",
+        "SHANNOCK WATER DISTRICT",
+        "ROCKVILLE MILL HOPKINTON, LLC",
+        "RICHMOND RIDGE DEVELOPMENT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.45,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "charlestown",
+      "name": "CHARLESTOWN",
+      "county": null,
+      "populationServed": 1794,
+      "waterSystemCount": 8,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1647512",
+      "utilityName": "CENTRAL BEACH FIRE DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1647512",
+      "allUtilities": [
+        "CASTLE ROCK CONDOMINIUMS",
+        "SHADY HARBOR FIRE DISTRICT",
+        "QUONOCHONTAUG EAST BEACH WATER ASSOCIATI",
+        "CENTRAL BEACH FIRE DISTRICT",
+        "BORDER HILL MOBILE HOME PARK",
+        "CHARLESTOWN CEDARS LLC",
+        "NINIGRET REALTY",
+        "CHURCH WOODS"
+      ],
+      "violations3yr": {
+        "total": 164,
+        "healthBased": 5
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.63,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 3.163,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "exeter",
+      "name": "EXETER",
+      "county": null,
+      "populationServed": 1297,
+      "waterSystemCount": 8,
+      "primarySource": "Groundwater",
+      "pwsid": "RI2980426",
+      "utilityName": "SHADOW WOODS AT DEER BROOK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI2980426",
+      "allUtilities": [
+        "LADD CENTER WATER SYSTEM",
+        "KINGSTON CENTER AN0",
+        "SPLIT ROCK CORPORATION",
+        "MOBILE VILLAGE, INC.",
+        "SHADOW WOODS AT DEER BROOK",
+        "EXETER JOB CORPS CENTER",
+        "LIBERTY HILL",
+        "SOUTH TRAIL COMMERCE"
+      ],
+      "violations3yr": {
+        "total": 189,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 17.69,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": 3.04,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "glocester",
+      "name": "GLOCESTER",
+      "county": null,
+      "populationServed": 815,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "RI2943224",
+      "utilityName": "VILLAGE ON CHOPMIST HILL, THE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI2943224",
+      "allUtilities": [
+        "SUNSET COVE PROPERTIES LLC",
+        "HARMONY HILL SCHOOL, INC.",
+        "CHIMERA INC",
+        "VILLAGE ON CHOPMIST HILL, THE",
+        "LAUREL CREST GLOCESTER HOUSING AUTHORITY",
+        "ECHO LAKE WATER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 84,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.63,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    },
+    {
+      "slug": "hopkinton",
+      "name": "HOPKINTON",
+      "county": null,
+      "populationServed": 769,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1000098",
+      "utilityName": "LINDHBROOK WATER COMPANY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1000098",
+      "allUtilities": [
+        "BETHEL VILLAGE WATER ASSN",
+        "LINDHBROOK WATER COMPANY",
+        "CANONCHET CLIFFS WATER ASSOCIATION INC.",
+        "SAUGATUCKET SPRINGS",
+        "HOPKINTON, TOWN OF"
+      ],
+      "violations3yr": {
+        "total": 477,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.84,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 4.36,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 16.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Washington",
+        "sampleCount": 46
+      }
+    },
+    {
+      "slug": "foster",
+      "name": "FOSTER",
+      "county": null,
+      "populationServed": 76,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "RI1000009",
+      "utilityName": "ABBEY LANE COMMUNITY ASSN., INC.",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=RI1000009",
+      "allUtilities": [
+        "ABBEY LANE COMMUNITY ASSN., INC.",
+        "FOSTER SENIOR HOUSING INC."
+      ],
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.88,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 19.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Providence",
+        "sampleCount": 368
+      }
+    }
+  ]
+}

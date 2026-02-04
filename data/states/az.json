@@ -4144,7 +4144,8 @@
         "county": "Greenlee",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -4902,7 +4903,8 @@
         "county": "Greenlee",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8373,7 +8375,8 @@
         "county": "Greenlee",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -11563,7 +11566,8 @@
         "county": "Greenlee",
         "sampleCount": 7,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {

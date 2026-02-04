@@ -1,0 +1,4821 @@
+{
+  "stateCode": "WY",
+  "stateName": "Wyoming",
+  "lastUpdated": "2026-02-03",
+  "cities": [
+    {
+      "slug": "cheyenne",
+      "name": "CHEYENNE",
+      "county": null,
+      "populationServed": 83188,
+      "waterSystemCount": 15,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600011",
+      "utilityName": "CHEYENNE BOARD OF PUBLIC UTILITIES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600011",
+      "allUtilities": [
+        "CHEYENNE BOARD OF PUBLIC UTILITIES",
+        "ORCHARD VALLEY WATER COMPANY",
+        "EVERGREEN MOBILE HOME PARK",
+        "MILLER LOWER MOBILE HOME PARK",
+        "SOUTH CHEYENNE WATER & SEWER DISTRICT",
+        "HIGHLAND RANCH ESTATES",
+        "HIDE-A-WAY MOBILE VILLAGE",
+        "WINCHESTER HILLS",
+        "MOUNTAIN VIEW ESTATES (KNECHT INVTS)",
+        "BIG COUNTRY ESTATES",
+        "RESTWAY TRAVEL PARK",
+        "ENGLEWOOD VILLAGE MHP",
+        "CIMMARON VILLAGE",
+        "WEST WINDS",
+        "USAF  F.E. WARREN AFB"
+      ],
+      "violations3yr": {
+        "total": 21,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.71,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Laramie",
+        "sampleCount": 997,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "casper",
+      "name": "CASPER",
+      "county": null,
+      "populationServed": 62755,
+      "waterSystemCount": 11,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5601415",
+      "utilityName": "CASPER, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601415",
+      "allUtilities": [
+        "CENTRAL WY REGIONAL WATER SYSTEM JPB",
+        "VISTA WEST WATER COMPANY",
+        "BROKEN WRENCH LLC",
+        "NATRONA COUNTY INT'L AIRPORT",
+        "GREEN VALLEY MHP",
+        "TERRACE I MHC",
+        "HIDDEN HILLS MHP",
+        "CASPER, CITY OF",
+        "SANDY LAKE ESTATES I&S DISTRICT",
+        "TERRACE II MHC",
+        "RIVERSIDE MOBILE HOME COURT"
+      ],
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 174.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Natrona",
+        "sampleCount": 40
+      }
+    },
+    {
+      "slug": "gillette",
+      "name": "GILLETTE",
+      "county": null,
+      "populationServed": 44564,
+      "waterSystemCount": 40,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600019",
+      "utilityName": "GILLETTE, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600019",
+      "allUtilities": [
+        "GILLETTE, CITY OF",
+        "EAGLE RIDGE MHP, LLC",
+        "HIGHVIEW MFG MOBILE HOME COMMUNITY (MHC)",
+        "SOUTHSIDE WELL I&S DISTRICT",
+        "BRADY-HENNING WATER SYSTEM",
+        "HOY MOBILE HOME PARK",
+        "STROUP TRAILER COURT",
+        "FORCE ROAD JOINT POWERS BOARD",
+        "COUNTRYSIDE WATER USERS, INC.",
+        "HERITAGE VILLAGE SUBDIVISION",
+        "ANTELOPE VALLEY I&S DISTRICT (AVISD)",
+        "NICKELSON FARMS WATER COMPANY",
+        "FOX PARK SUBDIVISION",
+        "MEANS IMPROVEMENT & SERVICE DISTRICT",
+        "SLEEPY HOLLOW SUBDIVISION",
+        "CEDAR HILLS WATER ASSOCIATION",
+        "FREEDOM HILLS SUBDIVISION",
+        "EIGHT MILE SUBDIVISION",
+        "SOUTHFORK ESTATES",
+        "CRESTVIEW ESTATES SUBDIVISION",
+        "PEOPLE`S IMPROVEMENT & SERVICE DISTRICT",
+        "AMERICAN ROAD W&S DISTRICT",
+        "FOOTHILLS MOBILE HOME PARK",
+        "GREEN VALLEY ESTATES I&S DISTRICT",
+        "STONE GATE ESTATES",
+        "EASTVIEW MANUFACTURED HOME COMMUNITY",
+        "COOK ROAD WATER DISTRICT",
+        "LAKEVIEW MOBILE HOME PARK",
+        "WRANGLER ESTATES",
+        "PINEVIEW I&S DISTRICT",
+        "MEADOW SPRINGS IMP & SERV",
+        "SECTION 4 WATER SYSTEM INCORPORATED",
+        "OVERBROOK SUBDIVISION",
+        "RAFTER D IMPROVEMENT & SERVICE DISTRICT",
+        "FOX RIDGE WATER SYSTEM",
+        "ROZET RANCHETTES I&S DISTRICT",
+        "RODEO FLATS",
+        "RED HILLS SUBDIVISON",
+        "HAGENS ESTATES",
+        "LEX MOBILE HOME PARK"
+      ],
+      "violations3yr": {
+        "total": 375,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.62,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "laramie",
+      "name": "LARAMIE",
+      "county": null,
+      "populationServed": 34400,
+      "waterSystemCount": 8,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600029",
+      "utilityName": "LARAMIE, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600029",
+      "allUtilities": [
+        "LARAMIE, CITY OF",
+        "CV LARAMIE MHP, LLC",
+        "SEVEN MILE WATER & SEWER DISTRICT",
+        "BREAZEALE'S MOBILE HOME PARK",
+        "SUNNY MEADOWS VILLAGE",
+        "SOUTH LARAMIE W&S DISTRICT",
+        "ANTELOPE RIDGE HOA",
+        "NINE-MILE WATER & SEWER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Albany",
+        "sampleCount": 3
+      }
+    },
+    {
+      "slug": "jackson",
+      "name": "JACKSON",
+      "county": null,
+      "populationServed": 31348,
+      "waterSystemCount": 24,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600213",
+      "utilityName": "TOWN OF JACKSON, WY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600213",
+      "allUtilities": [
+        "GROS VENTRE UTILITY",
+        "TOWN OF JACKSON, WY",
+        "SNAKE RIVER MOBILE HOME PARK",
+        "EVANS MOBILE HOME COURT",
+        "HI-COUNTRY WATER DISTRICT",
+        "SKYLINE RANCH I&S DISTRICT",
+        "ASPENS PINES W&S DISTRICT",
+        "TETON SHADOWS HOA",
+        "SQUAW CREEK WATER DISTRICT",
+        "RIVERMEADOWS WATER DISTRICT",
+        "SPRING CREEK IMPROVEMENT DISTRICT",
+        "RAFTER J SUBDIVISION HOA",
+        "SOUTH PARK VILLAGE SUBDIVISION",
+        "J-W SUBDIVISION ASSOCIATION",
+        "BAR Y ESTATES/GROS VENTRE WEST WTR DISTS",
+        "OLD WEST CABINS",
+        "GROS VENTRE NORTH HOA",
+        "SADDLE BUTTE WATER SYSTEM",
+        "BAR-B-BAR MEADOWS",
+        "MELODY RANCH IMPROVEMENT & SERVICE DIST.",
+        "VALLEY VIEW MUTUAL WATER COMPANY",
+        "TETON SCIENCE SCHOOL-WILSON CAMPUS",
+        "SNAKE RIVER SPORTING CLUB",
+        "LITTLE HORSETHIEF CANYON HOA"
+      ],
+      "violations3yr": {
+        "total": 93,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.21,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": 1.66,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": "concern",
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 126.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Teton",
+        "sampleCount": 104
+      }
+    },
+    {
+      "slug": "rock-springs",
+      "name": "ROCK SPRINGS",
+      "county": null,
+      "populationServed": 30913,
+      "waterSystemCount": 12,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5601182",
+      "utilityName": "ROCK SPRINGS, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601182",
+      "allUtilities": [
+        "HORIZON MHP",
+        "CLEARVIEW I&S DISTRICT",
+        "WESTERN HILLS MHP",
+        "LEWIS MOBILE HOME PARK",
+        "SKYLINE VILLAGE MOBILE HOME PK",
+        "ROCK SPRINGS, CITY OF",
+        "MOBILE CORRALS/STALLS COURT",
+        "WHITE MOUNTAIN MOBILE HOME PARK",
+        "TEN MILE WATER AND SEWER DISTRICT",
+        "WHITE MOUNTAIN W&S DISTRICT",
+        "W BAR K MOBILE HOME PARK",
+        "GARCIA MOBILE HOME PARK"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.34,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "sheridan",
+      "name": "SHERIDAN",
+      "county": null,
+      "populationServed": 23785,
+      "waterSystemCount": 3,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600052",
+      "utilityName": "SHERIDAN, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600052",
+      "allUtilities": [
+        "SHERIDAN, CITY OF",
+        "DOWNER NEIGHBORHOOD I&S DISTRICT",
+        "VETERANS ADMINISTRATION MEDICAL CENTER"
+      ],
+      "violations3yr": {
+        "total": 23,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.29,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 425.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sheridan",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "cody",
+      "name": "CODY",
+      "county": null,
+      "populationServed": 18392,
+      "waterSystemCount": 7,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600207",
+      "utilityName": "CODY, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600207",
+      "allUtilities": [
+        "CODY, CITY OF",
+        "RIVERS BEND TRAILER COURT",
+        "GREEN ACRES MOBILE HOME PARK",
+        "SHOSHONE MUNICIPAL PIPELINE",
+        "NORTHWEST RURAL WATER DISTRICT",
+        "JUBYS MOBILE HOME PARK",
+        "COPPERLEAF WATER SYSTEM"
+      ],
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.63,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 0.3,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Park",
+        "sampleCount": 8
+      }
+    },
+    {
+      "slug": "evanston",
+      "name": "EVANSTON",
+      "county": null,
+      "populationServed": 13562,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600150",
+      "utilityName": "EVANSTON, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600150",
+      "allUtilities": [
+        "EVANSTON, CITY OF",
+        "YELLOW CREEK ESTATES MHP",
+        "BEAR RIVER REGIONAL JOINT POWERS"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 3
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.83,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "green-river",
+      "name": "GREEN RIVER",
+      "county": null,
+      "populationServed": 12321,
+      "waterSystemCount": 6,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5601181",
+      "utilityName": "GREEN RIVER, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601181",
+      "allUtilities": [
+        "ROCK SPRINGS/GREEN RIVER JPB",
+        "JAMESTOWN-RIO VISTA W&S DISTRICT",
+        "PIONEER MOBILE HOME PARK",
+        "GREEN RIVER, CITY OF",
+        "EMERALD RIVER ESTATES",
+        "DESERT TRAILS MHP"
+      ],
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.15,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "riverton",
+      "name": "RIVERTON",
+      "county": null,
+      "populationServed": 11882,
+      "waterSystemCount": 12,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600047",
+      "utilityName": "RIVERTON, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600047",
+      "allUtilities": [
+        "RIVERTON, CITY OF",
+        "JEFFREY CITY WATER & SEWER DISTRICT",
+        "A & J MOBILE HOME PARK",
+        "B&K MOBILE HOME PARK",
+        "JADE MHC",
+        "MOUNTAIN VIEW ACRES",
+        "FIRST FIKE SUBDIVISION",
+        "SECOND FIKE SUBDIVISION",
+        "GARDENS NORTH HOME OWNERS ASSOCIATION",
+        "RAINTREE ESTATES",
+        "SUNRIDGE ESTATES",
+        "FARVIEW WATER AND SEWER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 14,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.78,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Fremont",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "mills",
+      "name": "MILLS",
+      "county": null,
+      "populationServed": 10503,
+      "waterSystemCount": 9,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600036",
+      "utilityName": "MILLS, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600036",
+      "allUtilities": [
+        "MILLS, CITY OF",
+        "BAR NUNN, TOWN OF",
+        "POISON SPIDER I&S DISTRICT",
+        "AIR BASE ACRES I&S DISTRICT",
+        "PLEASANT VIEW WATER COMPANY",
+        "COUNTRYSIDE COURT",
+        "PIONEER WATER & SEWER DISTRICT",
+        "LAKEVIEW I&S DISTRICT",
+        "THIRTY-THREE MILE ROAD I&S DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 7
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 174.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Natrona",
+        "sampleCount": 40
+      }
+    },
+    {
+      "slug": "yellowstone-np",
+      "name": "YELLOWSTONE NP",
+      "county": null,
+      "populationServed": 10275,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5680085",
+      "utilityName": "YNP-OLD FAITHFUL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5680085",
+      "allUtilities": [
+        "YNP-OLD FAITHFUL",
+        "YNP-MAMMOTH HOT SPRINGS"
+      ],
+      "violations3yr": {
+        "total": 10,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 0.3,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Park",
+        "sampleCount": 8
+      }
+    },
+    {
+      "slug": "rawlins",
+      "name": "RAWLINS",
+      "county": null,
+      "populationServed": 9006,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600045",
+      "utilityName": "RAWLINS WATER SUPPLY, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600045",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 34,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "lander",
+      "name": "LANDER",
+      "county": null,
+      "populationServed": 7722,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600176",
+      "utilityName": "LANDER, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600176",
+      "allUtilities": [
+        "LANDER, CITY OF",
+        "REDD FOX PARK HOA",
+        "JUNIPER PARK WATER ASSOCIATION"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.99,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Fremont",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "torrington",
+      "name": "TORRINGTON",
+      "county": null,
+      "populationServed": 7662,
+      "waterSystemCount": 6,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600164",
+      "utilityName": "TORRINGTON MUNICIPAL WATER DEPT, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600164",
+      "allUtilities": [
+        "TORRINGTON MUNICIPAL WATER DEPT, CITY OF",
+        "SOUTH TORRINGTON WATER DISTRICT",
+        "POTLATCH TRAILER COURT",
+        "COTTONWOOD ACRES",
+        "DILLMAN ESTATES",
+        "STONE CREEK HOA"
+      ],
+      "violations3yr": {
+        "total": 43,
+        "healthBased": 14
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 10.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "douglas",
+      "name": "DOUGLAS",
+      "county": null,
+      "populationServed": 7443,
+      "waterSystemCount": 6,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600137",
+      "utilityName": "DOUGLAS, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600137",
+      "allUtilities": [
+        "DOUGLAS, CITY OF",
+        "DOUGLAS KOA CG & PINE MEADOWS MHP",
+        "RIDGEWATER IMPROVEMENT DISTRICT",
+        "FAIRWAY ESTATES",
+        "LONE TREE VILLAGE MHP",
+        "SUNDANCE MEADOWS SPID"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.57,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 1320.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Converse",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "moose",
+      "name": "MOOSE",
+      "county": null,
+      "populationServed": 6565,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5680095",
+      "utilityName": "GTNP-COLTER BAY VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5680095",
+      "allUtilities": [
+        "GTNP--MOOSE/BEAVER CREEK",
+        "GTNP-COLTER BAY VILLAGE",
+        "GTNP-JACKSON LAKE LODGE"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.56,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 126.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Teton",
+        "sampleCount": 104
+      }
+    },
+    {
+      "slug": "powell",
+      "name": "POWELL",
+      "county": null,
+      "populationServed": 6310,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600042",
+      "utilityName": "POWELL, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600042",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 0.3,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Park",
+        "sampleCount": 8
+      }
+    },
+    {
+      "slug": "yellowstone-nt",
+      "name": "YELLOWSTONE NT",
+      "county": null,
+      "populationServed": 5925,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5680079",
+      "utilityName": "YELLOWSTONE NATIONAL PARK - LAKE VILLAGE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5680079",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 31,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 11.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 126.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Teton",
+        "sampleCount": 104
+      }
+    },
+    {
+      "slug": "worland",
+      "name": "WORLAND",
+      "county": null,
+      "populationServed": 5512,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600197",
+      "utilityName": "WORLAND UTILITIES COMMISSION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600197",
+      "allUtilities": [
+        "WORLAND UTILITIES COMMISSION",
+        "BIG HORN REGIONAL JPB"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.99,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 267.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Washakie",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "newcastle",
+      "name": "NEWCASTLE",
+      "county": null,
+      "populationServed": 4787,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600256",
+      "utilityName": "NEWCASTLE, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600256",
+      "allUtilities": [
+        "WATER UNLIMITED, INCORPORATED",
+        "SALT CREEK WATER DISTRICT",
+        "NEWCASTLE, CITY OF",
+        "CAMBRIA I&S DISTRICT",
+        "WEST END WATER DISTRICT",
+        "CANYON IMPROVEMENT & SERVICE DISTRICT",
+        "SUNSET RANCH WATER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "buffalo",
+      "name": "BUFFALO",
+      "county": null,
+      "populationServed": 4598,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600005",
+      "utilityName": "BUFFALO, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600005",
+      "allUtilities": [
+        "BUFFALO, CITY OF",
+        "BIGHORN MOUNTAIN CAMPGROUND",
+        "BALD MOUNTAIN TRAILER COURT"
+      ],
+      "violations3yr": {
+        "total": 12,
+        "healthBased": 12
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.95,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 1090.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Johnson",
+        "sampleCount": 45
+      }
+    },
+    {
+      "slug": "thayne",
+      "name": "THAYNE",
+      "county": null,
+      "populationServed": 4340,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600287",
+      "utilityName": "STAR VALLEY RANCH, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600287",
+      "allUtilities": [
+        "THAYNE, TOWN OF",
+        "STAR VALLEY RANCH, TOWN OF",
+        "LEISURE VALLEY INC/ STAR VALLEY RV PARK",
+        "NORTH FORTY SUBDIVISION",
+        "CEDAR SPRINGS MEADOWS"
+      ],
+      "violations3yr": {
+        "total": 45,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.95,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "thermopolis",
+      "name": "THERMOPOLIS",
+      "county": null,
+      "populationServed": 4173,
+      "waterSystemCount": 5,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600056",
+      "utilityName": "THERMOPOLIS, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600056",
+      "allUtilities": [
+        "THERMOPOLIS, TOWN OF",
+        "EAST THERMOPOLIS, TOWN OF",
+        "RED LANE DOMESTIC WATER, INC.",
+        "LUCERNE WATER AND SEWER DIST.",
+        "SOUTH THERMOPOLIS W&S DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.13,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Hot Springs",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "wheatland",
+      "name": "WHEATLAND",
+      "county": null,
+      "populationServed": 3832,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600187",
+      "utilityName": "WHEATLAND, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600187",
+      "allUtilities": [
+        "WHEATLAND, TOWN OF",
+        "Y-O INVESTMENTS, INC."
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.91,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Platte",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "lyman",
+      "name": "LYMAN",
+      "county": null,
+      "populationServed": 3728,
+      "waterSystemCount": 2,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "WY5600033",
+      "utilityName": "LYMAN, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600033",
+      "allUtilities": [
+        "LYMAN, TOWN OF",
+        "BRIDGER VALLEY JOINT POWERS BOARD"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "greybull",
+      "name": "GREYBULL",
+      "county": null,
+      "populationServed": 3394,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600022",
+      "utilityName": "GREYBULL, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600022",
+      "allUtilities": [
+        "GREYBULL, TOWN OF",
+        "GREYBULL HEIGHTS WATER USERS",
+        "SCHAREN SUBDIVISION"
+      ],
+      "violations3yr": {
+        "total": 11,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.08,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "kemmerer",
+      "name": "KEMMERER",
+      "county": null,
+      "populationServed": 3387,
+      "waterSystemCount": 2,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600028",
+      "utilityName": "KEMMERER-DIAMONDVILLE JPB",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600028",
+      "allUtilities": [
+        "KEMMERER-DIAMONDVILLE JPB",
+        "OAKLEY WATER, LLC"
+      ],
+      "violations3yr": {
+        "total": 71,
+        "healthBased": 19
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "evansville",
+      "name": "EVANSVILLE",
+      "county": null,
+      "populationServed": 2853,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600018",
+      "utilityName": "EVANSVILLE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600018",
+      "allUtilities": [
+        "EVANSVILLE, TOWN OF",
+        "SOUTH RIVERSIDE ACRES WTR IMPR DIST"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 174.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Natrona",
+        "sampleCount": 40
+      }
+    },
+    {
+      "slug": "afton",
+      "name": "AFTON",
+      "county": null,
+      "populationServed": 2750,
+      "waterSystemCount": 7,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600002",
+      "utilityName": "AFTON, BOARD OF PUB UTILITIES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600002",
+      "allUtilities": [
+        "AFTON, BOARD OF PUB UTILITIES",
+        "OSMOND I&S DISTRICT",
+        "OSMOND PIPELINE CO",
+        "FAIRVIEW WATER & SEWER DISTRICT",
+        "WESTVIEW VILLAGE",
+        "STAR VIEW ESTATES",
+        "STAR VALLEY TRAILER COURT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.33,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "lovell",
+      "name": "LOVELL",
+      "county": null,
+      "populationServed": 2510,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600031",
+      "utilityName": "LOVELL, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600031",
+      "allUtilities": [
+        "LOVELL, TOWN OF",
+        "SOUTH END WATER USERS S&I DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.18,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "wright",
+      "name": "WRIGHT",
+      "county": null,
+      "populationServed": 2500,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600136",
+      "utilityName": "WRIGHT WATER & SEWER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600136",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 1105.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Campbell",
+        "sampleCount": 32
+      }
+    },
+    {
+      "slug": "glenrock",
+      "name": "GLENROCK",
+      "county": null,
+      "populationServed": 2466,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600199",
+      "utilityName": "GLENROCK, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600199",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 1320.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Converse",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "basin",
+      "name": "BASIN",
+      "county": null,
+      "populationServed": 2150,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600004",
+      "utilityName": "BASIN, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600004",
+      "allUtilities": [
+        "BASIN, TOWN OF",
+        "SOUTH BIG HORN COUNTY JPB"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.74,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "star-valley-ranch",
+      "name": "STAR VALLEY RANCH",
+      "county": null,
+      "populationServed": 2030,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600287",
+      "utilityName": "STAR VALLEY RANCH, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600287",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "little-america",
+      "name": "LITTLE AMERICA",
+      "county": null,
+      "populationServed": 2004,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600097",
+      "utilityName": "LITTLE AMERICA HOTELS & RESORTS, INC- WY",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600097",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "alpine",
+      "name": "ALPINE",
+      "county": null,
+      "populationServed": 1965,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600156",
+      "utilityName": "ALPINE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600156",
+      "allUtilities": [
+        "ALPINE, TOWN OF",
+        "NORTH ALPINE I&S DISTRICT",
+        "NORDIC RANCHES WATER, LLC."
+      ],
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.64,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "dubois",
+      "name": "DUBOIS",
+      "county": null,
+      "populationServed": 1938,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600177",
+      "utilityName": "DUBOIS, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600177",
+      "allUtilities": [
+        "DUBOIS, TOWN OF",
+        "WARM SPRINGS WATER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Fremont",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "saratoga",
+      "name": "SARATOGA",
+      "county": null,
+      "populationServed": 1920,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600061",
+      "utilityName": "SARATOGA, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600061",
+      "allUtilities": [
+        "SARATOGA, TOWN OF",
+        "MEDICINE WATERS VILLAGE"
+      ],
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.11,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "pinedale",
+      "name": "PINEDALE",
+      "county": null,
+      "populationServed": 1900,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600041",
+      "utilityName": "PINEDALE MUNICIPAL WS",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600041",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 7.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sublette",
+        "sampleCount": 79
+      }
+    },
+    {
+      "slug": "lusk",
+      "name": "LUSK",
+      "county": null,
+      "populationServed": 1576,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600032",
+      "utilityName": "LUSK, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600032",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sundance",
+      "name": "SUNDANCE",
+      "county": null,
+      "populationServed": 1399,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600055",
+      "utilityName": "SUNDANCE, CITY OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600055",
+      "allUtilities": [
+        "SUNDANCE, CITY OF",
+        "VISTA WEST IMPROVEMENT & SERV DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.83,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 850.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crook",
+        "sampleCount": 24
+      }
+    },
+    {
+      "slug": "ranchester",
+      "name": "RANCHESTER",
+      "county": null,
+      "populationServed": 1297,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600044",
+      "utilityName": "RANCHESTER, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600044",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 425.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sheridan",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "mountain-view",
+      "name": "MOUNTAIN VIEW",
+      "county": null,
+      "populationServed": 1250,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600847",
+      "utilityName": "MOUNTAIN VIEW, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600847",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "pine-bluffs",
+      "name": "PINE BLUFFS",
+      "county": null,
+      "populationServed": 1186,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600040",
+      "utilityName": "PINE BLUFFS, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600040",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Laramie",
+        "sampleCount": 997,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "guernsey",
+      "name": "GUERNSEY",
+      "county": null,
+      "populationServed": 1157,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600023",
+      "utilityName": "GUERNSEY, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600023",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Platte",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "upton",
+      "name": "UPTON",
+      "county": null,
+      "populationServed": 1100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600140",
+      "utilityName": "UPTON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600140",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 935.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Weston",
+        "sampleCount": 3
+      }
+    },
+    {
+      "slug": "moorcroft",
+      "name": "MOORCROFT",
+      "county": null,
+      "populationServed": 1042,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600037",
+      "utilityName": "MOORCROFT, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600037",
+      "allUtilities": [
+        "MOORCROFT, TOWN OF",
+        "BUCKMILLER ENTERPRISES, LLC"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.13,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 850.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crook",
+        "sampleCount": 24
+      }
+    },
+    {
+      "slug": "burns",
+      "name": "BURNS",
+      "county": null,
+      "populationServed": 1024,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600188",
+      "utilityName": "BURNS BOARD OF PUBLIC UTILITIES",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600188",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Laramie",
+        "sampleCount": 997,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "washakie-rural",
+      "name": "WASHAKIE RURAL",
+      "county": "Washakie",
+      "populationServed": 990,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601523",
+      "utilityName": "WASHAKIE RURAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601523",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 267.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Washakie",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "teton-village",
+      "name": "TETON VILLAGE",
+      "county": null,
+      "populationServed": 906,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600218",
+      "utilityName": "TETON VILLAGE WATER & SEWER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600218",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 126.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Teton",
+        "sampleCount": 104
+      }
+    },
+    {
+      "slug": "marbleton",
+      "name": "MARBLETON",
+      "county": null,
+      "populationServed": 861,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600223",
+      "utilityName": "MARBLETON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600223",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 7.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sublette",
+        "sampleCount": 79
+      }
+    },
+    {
+      "slug": "hanna",
+      "name": "HANNA",
+      "county": null,
+      "populationServed": 841,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600025",
+      "utilityName": "HANNA, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600025",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "bedford",
+      "name": "BEDFORD",
+      "county": null,
+      "populationServed": 840,
+      "waterSystemCount": 2,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "WY5600006",
+      "utilityName": "BEDFORD WATER & SEWER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600006",
+      "allUtilities": [
+        "BEDFORD WATER & SEWER DISTRICT",
+        "TURNERVILLE WATER AND SEWER DISTRICT"
+      ],
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.36,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "dayton",
+      "name": "DAYTON",
+      "county": null,
+      "populationServed": 824,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600202",
+      "utilityName": "DAYTON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600202",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 425.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sheridan",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "cowley",
+      "name": "COWLEY",
+      "county": null,
+      "populationServed": 800,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600206",
+      "utilityName": "COWLEY, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600206",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "smoot",
+      "name": "SMOOT",
+      "county": null,
+      "populationServed": 720,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601397",
+      "utilityName": "GREATER SMOOT W&S DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601397",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "byron",
+      "name": "BYRON",
+      "county": null,
+      "populationServed": 593,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600008",
+      "utilityName": "BYRON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600008",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "encampment",
+      "name": "ENCAMPMENT",
+      "county": null,
+      "populationServed": 580,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600060",
+      "utilityName": "ENCAMPMENT, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600060",
+      "allUtilities": [
+        "ENCAMPMENT, TOWN OF",
+        "SIERRA MADRE JPB"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.76,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "high-meadow-ranch",
+      "name": "HIGH MEADOW RANCH",
+      "county": "Sublette",
+      "populationServed": 580,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601569",
+      "utilityName": "HIGH MEADOW RANCH",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601569",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 7.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sublette",
+        "sampleCount": 79
+      }
+    },
+    {
+      "slug": "farson",
+      "name": "FARSON",
+      "county": null,
+      "populationServed": 550,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600113",
+      "utilityName": "FARSON EDEN SCHOOL",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600113",
+      "allUtilities": [
+        "FARSON MOBILE HOME COURT",
+        "FARSON EDEN SCHOOL"
+      ],
+      "violations3yr": {
+        "total": 11,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.96,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "wilson",
+      "name": "WILSON",
+      "county": null,
+      "populationServed": 536,
+      "waterSystemCount": 5,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601473",
+      "utilityName": "FISH CREEK IMPROVEMENT AND SERVICE DIST",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601473",
+      "allUtilities": [
+        "INDIAN PAINTBRUSH WATER DISTRICT",
+        "C-V RANCHES (BOCES REG V)",
+        "FISH CREEK IMPROVEMENT AND SERVICE DIST",
+        "WILSON PARK SUBDIVISION",
+        "HWY 390 LLC"
+      ],
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.23,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 126.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Teton",
+        "sampleCount": 104
+      }
+    },
+    {
+      "slug": "cokeville",
+      "name": "COKEVILLE",
+      "county": null,
+      "populationServed": 535,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600015",
+      "utilityName": "COKEVILLE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600015",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "shoshoni",
+      "name": "SHOSHONI",
+      "county": null,
+      "populationServed": 515,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600053",
+      "utilityName": "SHOSHONI, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600053",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Fremont",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "wamsutter",
+      "name": "WAMSUTTER",
+      "county": null,
+      "populationServed": 500,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600105",
+      "utilityName": "WAMSUTTER, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600105",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "big-piney",
+      "name": "BIG PINEY",
+      "county": null,
+      "populationServed": 498,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600007",
+      "utilityName": "BIG PINEY, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600007",
+      "allUtilities": [
+        "BIG PINEY, TOWN OF",
+        "MOUNTAIN VILLAGE PARKS"
+      ],
+      "violations3yr": {
+        "total": 31,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.79,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 7.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Sublette",
+        "sampleCount": 79
+      }
+    },
+    {
+      "slug": "pine-haven",
+      "name": "PINE HAVEN",
+      "county": null,
+      "populationServed": 498,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600191",
+      "utilityName": "PINE HAVEN, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600191",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 850.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crook",
+        "sampleCount": 24
+      }
+    },
+    {
+      "slug": "lingle",
+      "name": "LINGLE",
+      "county": null,
+      "populationServed": 486,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600030",
+      "utilityName": "LINGLE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600030",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "hudson",
+      "name": "HUDSON",
+      "county": null,
+      "populationServed": 460,
+      "waterSystemCount": 1,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "WY5600183",
+      "utilityName": "HUDSON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600183",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Fremont",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "rolling-hills",
+      "name": "ROLLING HILLS",
+      "county": null,
+      "populationServed": 450,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600782",
+      "utilityName": "ROLLING HILLS, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600782",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 1320.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Converse",
+        "sampleCount": 16
+      }
+    },
+    {
+      "slug": "la-grange",
+      "name": "LA GRANGE",
+      "county": null,
+      "populationServed": 448,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600788",
+      "utilityName": "LA GRANGE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600788",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sinclair",
+      "name": "SINCLAIR",
+      "county": null,
+      "populationServed": 433,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600054",
+      "utilityName": "SINCLAIR, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600054",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "hulett",
+      "name": "HULETT",
+      "county": null,
+      "populationServed": 420,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600026",
+      "utilityName": "HULETT, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600026",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 850.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crook",
+        "sampleCount": 24
+      }
+    },
+    {
+      "slug": "westview-mhc",
+      "name": "WESTVIEW MHC",
+      "county": "Campbell",
+      "populationServed": 416,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601593",
+      "utilityName": "WESTVIEW MHC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601593",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 1105.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Campbell",
+        "sampleCount": 32
+      }
+    },
+    {
+      "slug": "midwest",
+      "name": "MIDWEST",
+      "county": null,
+      "populationServed": 410,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600201",
+      "utilityName": "MIDWEST, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600201",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 174.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Natrona",
+        "sampleCount": 40
+      }
+    },
+    {
+      "slug": "aladdin",
+      "name": "ALADDIN",
+      "county": null,
+      "populationServed": 400,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "SD4602220",
+      "utilityName": "RIMROCK WATER COMPANY LLC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=SD4602220",
+      "allUtilities": [
+        "RIMROCK WATER COMPANY LLC",
+        "RED WATER DISTRIBUTION LLC"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "baggs",
+      "name": "BAGGS",
+      "county": null,
+      "populationServed": 400,
+      "waterSystemCount": 1,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "WY5600058",
+      "utilityName": "BAGGS, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600058",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 32,
+        "healthBased": 22
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "fruitdale",
+      "name": "FRUITDALE",
+      "county": null,
+      "populationServed": 400,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "SD4602220",
+      "utilityName": "RIMROCK WATER COMPANY LLC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=SD4602220",
+      "allUtilities": [
+        "RIMROCK WATER COMPANY LLC",
+        "RED WATER DISTRIBUTION LLC"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ten-sleep",
+      "name": "TEN SLEEP",
+      "county": null,
+      "populationServed": 400,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600203",
+      "utilityName": "TEN SLEEP, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600203",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 267.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Washakie",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "whitewood",
+      "name": "WHITEWOOD",
+      "county": null,
+      "populationServed": 400,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "SD4602220",
+      "utilityName": "RIMROCK WATER COMPANY LLC",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=SD4602220",
+      "allUtilities": [
+        "RIMROCK WATER COMPANY LLC",
+        "RED WATER DISTRIBUTION LLC"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "meeteetse",
+      "name": "MEETEETSE",
+      "county": null,
+      "populationServed": 362,
+      "waterSystemCount": 2,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "WY5600035",
+      "utilityName": "MEETEETSE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600035",
+      "allUtilities": [
+        "MEETEETSE, TOWN OF",
+        "BIG VALLEY & CROSSED ARROWS IMP DIST"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 0.3,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Park",
+        "sampleCount": 8
+      }
+    },
+    {
+      "slug": "burlington",
+      "name": "BURLINGTON",
+      "county": null,
+      "populationServed": 348,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601098",
+      "utilityName": "BURLINGTON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601098",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "la-barge",
+      "name": "LA BARGE",
+      "county": null,
+      "populationServed": 347,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600222",
+      "utilityName": "LA BARGE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600222",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "superior",
+      "name": "SUPERIOR",
+      "county": null,
+      "populationServed": 336,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600092",
+      "utilityName": "SUPERIOR, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600092",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "freedom",
+      "name": "FREEDOM",
+      "county": null,
+      "populationServed": 307,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600158",
+      "utilityName": "FREEDOM W&S DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600158",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "kaycee",
+      "name": "KAYCEE",
+      "county": null,
+      "populationServed": 263,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600196",
+      "utilityName": "KAYCEE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600196",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 1090.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Johnson",
+        "sampleCount": 45
+      }
+    },
+    {
+      "slug": "grover",
+      "name": "GROVER",
+      "county": null,
+      "populationServed": 252,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600160",
+      "utilityName": "GROVER WATER & SEWER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600160",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "glendo",
+      "name": "GLENDO",
+      "county": null,
+      "populationServed": 247,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600231",
+      "utilityName": "GLENDO, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600231",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Platte",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "osage",
+      "name": "OSAGE",
+      "county": null,
+      "populationServed": 240,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600038",
+      "utilityName": "OSAGE WATER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600038",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 935.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Weston",
+        "sampleCount": 3
+      }
+    },
+    {
+      "slug": "fort-laramie",
+      "name": "FORT LARAMIE",
+      "county": null,
+      "populationServed": 230,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600185",
+      "utilityName": "FORT LARAMIE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600185",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "pavillion",
+      "name": "PAVILLION",
+      "county": null,
+      "populationServed": 230,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600039",
+      "utilityName": "PAVILLION, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600039",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Fremont",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "rock-river",
+      "name": "ROCK RIVER",
+      "county": null,
+      "populationServed": 211,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600048",
+      "utilityName": "ROCK RIVER, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600048",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.33,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Albany",
+        "sampleCount": 3
+      }
+    },
+    {
+      "slug": "chugwater",
+      "name": "CHUGWATER",
+      "county": null,
+      "populationServed": 200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600200",
+      "utilityName": "CHUGWATER, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600200",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Platte",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "edgerton",
+      "name": "EDGERTON",
+      "county": null,
+      "populationServed": 195,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600017",
+      "utilityName": "EDGERTON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600017",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 174.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Natrona",
+        "sampleCount": 40
+      }
+    },
+    {
+      "slug": "elk-mountain",
+      "name": "ELK MOUNTAIN",
+      "county": null,
+      "populationServed": 191,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600065",
+      "utilityName": "ELK MOUNTAIN, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600065",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "medicine-bow",
+      "name": "MEDICINE BOW",
+      "county": null,
+      "populationServed": 189,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600034",
+      "utilityName": "MEDICINE BOW, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600034",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "albin",
+      "name": "ALBIN",
+      "county": null,
+      "populationServed": 181,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600189",
+      "utilityName": "ALBIN, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600189",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 26,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 7.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2021-H2",
+        "lastSampleDate": "2021-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Laramie",
+        "sampleCount": 997,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "deaver",
+      "name": "DEAVER",
+      "county": null,
+      "populationServed": 176,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600016",
+      "utilityName": "DEAVER MUNICIPAL WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600016",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "frannie",
+      "name": "FRANNIE",
+      "county": null,
+      "populationServed": 160,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600210",
+      "utilityName": "FRANNIE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600210",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "centennial",
+      "name": "CENTENNIAL",
+      "county": null,
+      "populationServed": 150,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601232",
+      "utilityName": "CENTENNIAL WATER AND SEWER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601232",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.58,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Albany",
+        "sampleCount": 3
+      }
+    },
+    {
+      "slug": "bennor-estates-improvement-district",
+      "name": "BENNOR ESTATES & IMPROVEMENT DISTRICT",
+      "county": "Campbell",
+      "populationServed": 144,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601596",
+      "utilityName": "BENNOR ESTATES & IMPROVEMENT DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601596",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 1105.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Campbell",
+        "sampleCount": 32
+      }
+    },
+    {
+      "slug": "clearmont",
+      "name": "CLEARMONT",
+      "county": null,
+      "populationServed": 142,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600013",
+      "utilityName": "CLEARMONT, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600013",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 425.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sheridan",
+        "sampleCount": 49
+      }
+    },
+    {
+      "slug": "granger",
+      "name": "GRANGER",
+      "county": null,
+      "populationServed": 139,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5600020",
+      "utilityName": "GRANGER, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600020",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 4,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "etna",
+      "name": "ETNA",
+      "county": null,
+      "populationServed": 135,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600157",
+      "utilityName": "ETNA WATER & SEWER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600157",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "yoder",
+      "name": "YODER",
+      "county": null,
+      "populationServed": 131,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600169",
+      "utilityName": "YODER, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600169",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "north-gurley-mobile-home-park",
+      "name": "NORTH GURLEY MOBILE HOME PARK",
+      "county": "Campbell",
+      "populationServed": 128,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601721",
+      "utilityName": "NORTH GURLEY MOBILE HOME PARK",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601721",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 1105.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Campbell",
+        "sampleCount": 32
+      }
+    },
+    {
+      "slug": "alta",
+      "name": "ALTA",
+      "county": null,
+      "populationServed": 120,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600787",
+      "utilityName": "TARGHEE TOWNE WATER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600787",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 126.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Teton",
+        "sampleCount": 104
+      }
+    },
+    {
+      "slug": "shell",
+      "name": "SHELL",
+      "county": null,
+      "populationServed": 120,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600205",
+      "utilityName": "SHELL TOWN WATER IMPROVEMENT DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600205",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "dixon",
+      "name": "DIXON",
+      "county": null,
+      "populationServed": 114,
+      "waterSystemCount": 1,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "WY5600059",
+      "utilityName": "DIXON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600059",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 49,
+        "healthBased": 45
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 314.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Carbon",
+        "sampleCount": 128
+      }
+    },
+    {
+      "slug": "manderson",
+      "name": "MANDERSON",
+      "county": null,
+      "populationServed": 110,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600204",
+      "utilityName": "MANDERSON, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600204",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 13.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "owl-creek",
+      "name": "OWL CREEK",
+      "county": "Hot Springs",
+      "populationServed": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5601673",
+      "utilityName": "OWL CREEK WATER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601673",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Hot Springs",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "trail-ridge",
+      "name": "TRAIL RIDGE",
+      "county": "Lincoln",
+      "populationServed": 100,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601576",
+      "utilityName": "TRAIL RIDGE WATER SYSTEM",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601576",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "manville",
+      "name": "MANVILLE",
+      "county": null,
+      "populationServed": 97,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600110",
+      "utilityName": "MANVILLE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600110",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "carpenter",
+      "name": "CARPENTER",
+      "county": null,
+      "populationServed": 94,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601464",
+      "utilityName": "CARPENTER W&S DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601464",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 22.7,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Laramie",
+        "sampleCount": 997,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "point-of-rocks",
+      "name": "POINT OF ROCKS",
+      "county": null,
+      "populationServed": 78,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600093",
+      "utilityName": "POINT OF ROCKS MERCANTILE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600093",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "rozet",
+      "name": "ROZET",
+      "county": null,
+      "populationServed": 77,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600850",
+      "utilityName": "WARD CREEK LANDOWNERS ASSOCIATION",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600850",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 1105.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Campbell",
+        "sampleCount": 32
+      }
+    },
+    {
+      "slug": "bairoil",
+      "name": "BAIROIL",
+      "county": null,
+      "populationServed": 71,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600003",
+      "utilityName": "BAIROIL, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 922.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Sweetwater",
+        "sampleCount": 30
+      }
+    },
+    {
+      "slug": "hyattville",
+      "name": "HYATTVILLE",
+      "county": null,
+      "populationServed": 66,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600209",
+      "utilityName": "HYATTVILLE S&I DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600209",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 528.4,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Big Horn",
+        "sampleCount": 194,
+        "isNeighborEstimate": true,
+        "neighborCount": 3
+      }
+    },
+    {
+      "slug": "opal",
+      "name": "OPAL",
+      "county": null,
+      "populationServed": 65,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600835",
+      "utilityName": "OPAL, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600835",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "hartville",
+      "name": "HARTVILLE",
+      "county": null,
+      "populationServed": 64,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600186",
+      "utilityName": "HARTVILLE, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600186",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 8.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2027-H2",
+        "lastSampleDate": "2027-12-31"
+      },
+      "hardness": {
+        "value": 0.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Platte",
+        "sampleCount": 3,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    },
+    {
+      "slug": "beulah",
+      "name": "BEULAH",
+      "county": null,
+      "populationServed": 50,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601692",
+      "utilityName": "BEULAH LAND WATER",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601692",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 850.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Crook",
+        "sampleCount": 24
+      }
+    },
+    {
+      "slug": "moran-jct",
+      "name": "MORAN JCT",
+      "county": null,
+      "populationServed": 50,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600435",
+      "utilityName": "BUFFALO VALLEY WATER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600435",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 5.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 126.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Teton",
+        "sampleCount": 104
+      }
+    },
+    {
+      "slug": "mile-hi-is-district",
+      "name": "MILE-HI I&S DISTRICT",
+      "county": "Natrona",
+      "populationServed": 48,
+      "waterSystemCount": 1,
+      "primarySource": "Surface Water",
+      "pwsid": "WY5601645",
+      "utilityName": "MILE-HI I&S DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601645",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": {
+        "value": 174.5,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Natrona",
+        "sampleCount": 40
+      }
+    },
+    {
+      "slug": "fairview",
+      "name": "FAIRVIEW",
+      "county": null,
+      "populationServed": 45,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5601199",
+      "utilityName": "KENNINGTON SPRINGS PIPELINE",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5601199",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2023-H2",
+        "lastSampleDate": "2023-12-31"
+      },
+      "hardness": {
+        "value": 179.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Lincoln",
+        "sampleCount": 21
+      }
+    },
+    {
+      "slug": "lance-creek",
+      "name": "LANCE CREEK",
+      "county": null,
+      "populationServed": 45,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600109",
+      "utilityName": "LANCE CREEK WATER DISTRICT",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600109",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 16,
+        "healthBased": 6
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 11.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2026-H2",
+        "lastSampleDate": "2026-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "kirby",
+      "name": "KIRBY",
+      "county": null,
+      "populationServed": 40,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "WY5600236",
+      "utilityName": "KIRBY, TOWN OF",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=WY5600236",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": {
+        "value": 196.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Hot Springs",
+        "sampleCount": 49,
+        "isNeighborEstimate": true,
+        "neighborCount": 1
+      }
+    }
+  ]
+}

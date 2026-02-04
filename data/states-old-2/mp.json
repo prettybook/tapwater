@@ -1,0 +1,784 @@
+{
+  "stateCode": "MP",
+  "stateName": "Northern Mariana Islands",
+  "lastUpdated": "2026-02-03",
+  "cities": [
+    {
+      "slug": "saipan",
+      "name": "Saipan",
+      "county": null,
+      "populationServed": 48654,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000001",
+      "utilityName": "Commonwealth Utilities Corp (Saipan)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000001",
+      "allUtilities": [
+        "Commonwealth Utilities Corp (Saipan)",
+        "Popz Purified Drinking Water",
+        "Crystal Ice And Water"
+      ],
+      "violations3yr": {
+        "total": 55,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.49,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "lower-base",
+      "name": "LOWER BASE",
+      "county": null,
+      "populationServed": 3411,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000004",
+      "utilityName": "Saipan Ice And Water",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000004",
+      "allUtilities": [
+        "Saipan Ice And Water",
+        "The Water Company"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.65,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-jose",
+      "name": "SAN JOSE",
+      "county": null,
+      "populationServed": 3195,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000002",
+      "utilityName": "Commonwealth Utilities Corp (Tinian)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000002",
+      "allUtilities": [
+        "Commonwealth Utilities Corp (Tinian)",
+        "Modern Stationary",
+        "San Jose Mart Water"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.88,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sinapalu",
+      "name": "Sinapalu",
+      "county": null,
+      "populationServed": 2504,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000003",
+      "utilityName": "Commonwealth Utilities Corp (Rota)",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000003",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "chalan-lau-lau",
+      "name": "CHALAN LAU LAU",
+      "county": null,
+      "populationServed": 1622,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000160",
+      "utilityName": "Star Water",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000160",
+      "allUtilities": [
+        "Saipan Vegas",
+        "Star Water"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.87,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-antonio",
+      "name": "SAN ANTONIO",
+      "county": null,
+      "populationServed": 848,
+      "waterSystemCount": 3,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000012",
+      "utilityName": "Pacific Islands Club",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000012",
+      "allUtilities": [
+        "Winners Residence",
+        "Pacific Islands Club",
+        "Aqua Water"
+      ],
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.28,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "as-matuis",
+      "name": "AS MATUIS",
+      "county": null,
+      "populationServed": 634,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000071",
+      "utilityName": "Kensington Hotel",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000071",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 19.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "concern",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "finasisu",
+      "name": "FINASISU",
+      "county": null,
+      "populationServed": 393,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000113",
+      "utilityName": "Finasisu Terrace Apartment",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000113",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.2,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "papago",
+      "name": "PAPAGO",
+      "county": null,
+      "populationServed": 300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000163",
+      "utilityName": "Marianas Ice And Water",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000163",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 3,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-jose",
+      "name": "San Jose",
+      "county": null,
+      "populationServed": 300,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000068",
+      "utilityName": "Tinian Ice And Water",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000068",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-roque",
+      "name": "SAN ROQUE",
+      "county": null,
+      "populationServed": 260,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000083",
+      "utilityName": "Kensington Dormitory",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000083",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.9,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "garapan",
+      "name": "GARAPAN",
+      "county": null,
+      "populationServed": 228,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000027",
+      "utilityName": "JG Sablan Ice And Water",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000027",
+      "allUtilities": [
+        "JG Sablan Ice And Water",
+        "99 Cents Supermart Water"
+      ],
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.64,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "sinapalu",
+      "name": "SINAPALU",
+      "county": null,
+      "populationServed": 226,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000165",
+      "utilityName": "Rota Crystal",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000165",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-jose-village",
+      "name": "SAN JOSE VILLAGE",
+      "county": null,
+      "populationServed": 208,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000176",
+      "utilityName": "3K Ice And Water Company",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000176",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "kagman",
+      "name": "KAGMAN",
+      "county": null,
+      "populationServed": 200,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000084",
+      "utilityName": "Lao Lao Bay Golf Resort",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000084",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 2,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 10.4,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "moderate",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "puerto-rico",
+      "name": "PUERTO RICO",
+      "county": null,
+      "populationServed": 191,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000043",
+      "utilityName": "Anaks Condominium",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000043",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "capital-hill",
+      "name": "CAPITAL HILL",
+      "county": null,
+      "populationServed": 155,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000064",
+      "utilityName": "Diamond Ice And Water",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000064",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "black-micro-corporation-tinian",
+      "name": "BLACK MICRO CORPORATION TINIAN",
+      "county": null,
+      "populationServed": 150,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000248",
+      "utilityName": "Black Micro Corporation Tinian",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000248",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 55,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H1",
+        "lastSampleDate": "2025-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "chalan-kiya",
+      "name": "CHALAN KIYA",
+      "county": null,
+      "populationServed": 102,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000040",
+      "utilityName": "Pacific Palms",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000040",
+      "allUtilities": [
+        "Pacific Palms",
+        "CK Townhouse"
+      ],
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.68,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "san-vincente",
+      "name": "SAN VINCENTE",
+      "county": null,
+      "populationServed": 84,
+      "waterSystemCount": 2,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000115",
+      "utilityName": "Hilltop Condominium",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000115",
+      "allUtilities": [
+        "Stanford Resort Hotel",
+        "Hilltop Condominium"
+      ],
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 6.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "koblerville",
+      "name": "KOBLERVILLE",
+      "county": null,
+      "populationServed": 79,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000218",
+      "utilityName": "Xu Sunshine Corp",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000218",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 9,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "fina-sisu",
+      "name": "FINA SISU",
+      "county": null,
+      "populationServed": 66,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000029",
+      "utilityName": "MSV Villagomez Estate",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000029",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "gualo-rai",
+      "name": "GUALO RAI",
+      "county": null,
+      "populationServed": 55,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000221",
+      "utilityName": "Diamond Water Gualo Rai",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000221",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 1,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "afetnas",
+      "name": "Afetnas",
+      "county": null,
+      "populationServed": 47,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000242",
+      "utilityName": "Tropical Drinking Water",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000242",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 26,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 4.3,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2024-H2",
+        "lastSampleDate": "2024-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "afetna",
+      "name": "AFETNA",
+      "county": null,
+      "populationServed": 40,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "MP0000229",
+      "utilityName": "Afetna Supermarket",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=MP0000229",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 0,
+        "healthBased": 0
+      },
+      "hasActiveViolations": false,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.7,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2025-H2",
+        "lastSampleDate": "2025-12-31"
+      },
+      "hardness": null
+    }
+  ]
+}

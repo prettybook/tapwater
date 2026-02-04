@@ -180,7 +180,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jacksonville",
@@ -237,7 +246,8 @@
         "county": "Baker",
         "sampleCount": 189,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -279,7 +289,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -644,7 +655,8 @@
         "county": "Collier",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -682,7 +694,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -813,7 +826,8 @@
         "county": "St. Lucie",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -995,7 +1009,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pembroke-pines",
@@ -1101,7 +1124,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Charlotte",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cape-coral",
@@ -1247,7 +1279,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -1378,7 +1411,8 @@
         "county": "Hernando",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1532,7 +1566,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -1716,7 +1751,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1747,7 +1783,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "the-villages",
@@ -1856,7 +1901,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "winter-haven",
@@ -1948,7 +2002,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2232,7 +2287,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2371,7 +2427,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "leesburg",
@@ -2476,7 +2541,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "plantation",
@@ -2782,7 +2856,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "apopka",
@@ -2907,7 +2990,8 @@
         "county": "St. Lucie",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2938,7 +3022,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "delray-beach",
@@ -2978,7 +3071,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3019,7 +3113,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "new-smyrna-beach",
@@ -3053,7 +3156,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "panama-city-beach",
@@ -3219,7 +3331,8 @@
         "county": "Gadsden",
         "sampleCount": 550,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -3300,7 +3413,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Charlotte",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "santa-rosa-beach",
@@ -3410,7 +3532,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sebring",
@@ -3481,7 +3612,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-port",
@@ -3592,7 +3732,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3630,7 +3771,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3664,7 +3806,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lauderhill",
@@ -3885,7 +4036,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pinellas-park",
@@ -3952,7 +4112,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4272,7 +4433,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Charlotte",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mount-dora",
@@ -4414,7 +4584,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "zephyrhills",
@@ -4536,7 +4715,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ocoee",
@@ -4606,7 +4794,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dunnellon",
@@ -4682,7 +4879,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cooper-city",
@@ -4752,7 +4958,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "marco-island",
@@ -4792,7 +5007,8 @@
         "county": "Collier",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4830,7 +5046,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4942,7 +5159,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5080,7 +5298,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -5116,7 +5335,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fleming-island",
@@ -5146,7 +5374,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lady-lake",
@@ -5325,7 +5562,8 @@
         "county": "Collier",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5590,7 +5828,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Duval",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "okeechobee",
@@ -5759,7 +6006,8 @@
         "county": "Baker",
         "sampleCount": 189,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -5946,7 +6194,8 @@
         "county": "St. Lucie",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6007,7 +6256,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Duval",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "homosassa",
@@ -6045,7 +6303,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "arcadia",
@@ -6092,7 +6359,8 @@
         "county": "DeSoto",
         "sampleCount": 4,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6209,7 +6477,8 @@
         "county": "Hernando",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6580,7 +6849,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clewiston",
@@ -6620,7 +6898,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6723,7 +7002,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ponte-vedra",
@@ -6793,7 +7081,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7007,7 +7296,8 @@
         "county": "Collier",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7045,7 +7335,8 @@
         "county": "Hendry",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7109,7 +7400,16 @@
         "samplePeriod": "2021-H2",
         "lastSampleDate": "2021-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "live-oak",
@@ -7144,7 +7444,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Suwannee",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "celebration",
@@ -7343,7 +7652,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "barefoot-bay",
@@ -7380,7 +7698,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7459,7 +7778,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "frostproof",
@@ -7629,7 +7957,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7738,7 +8067,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "perry",
@@ -7840,7 +8178,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-bay-village",
@@ -7916,7 +8263,8 @@
         "county": "Baker",
         "sampleCount": 189,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7957,7 +8305,8 @@
         "county": "Hamilton",
         "sampleCount": 157,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8056,7 +8405,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Charlotte",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "port-richey",
@@ -8089,7 +8447,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chipley",
@@ -8130,7 +8497,8 @@
         "county": "Holmes",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8238,7 +8606,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "patrick-air-force-base",
@@ -8275,7 +8652,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -8317,7 +8695,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8388,7 +8767,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Duval",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bunnell",
@@ -8645,7 +9033,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fort-myers-beach",
@@ -8750,7 +9147,8 @@
         "county": "Gadsden",
         "sampleCount": 550,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8827,7 +9225,8 @@
         "county": "Hamilton",
         "sampleCount": 157,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -9115,7 +9514,8 @@
         "county": "Gadsden",
         "sampleCount": 550,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -9146,7 +9546,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "surfside",
@@ -9474,7 +9883,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Hardee",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bushnell",
@@ -9653,7 +10071,8 @@
         "county": "St. Lucie",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9691,7 +10110,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9827,7 +10247,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Hardee",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "umatilla",
@@ -10003,7 +10432,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10146,7 +10576,8 @@
         "county": "Holmes",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10321,7 +10752,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 27.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Leon",
+        "sampleCount": 550,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newberry",
@@ -10351,7 +10791,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chuluota",
@@ -10381,7 +10830,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "havana",
@@ -10418,7 +10876,8 @@
         "county": "Gadsden",
         "sampleCount": 550,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -10512,7 +10971,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sneads",
@@ -10775,7 +11243,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -10813,7 +11282,8 @@
         "county": "Gadsden",
         "sampleCount": 550,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -10851,7 +11321,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10882,7 +11353,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 27.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Calhoun",
+        "sampleCount": 550,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bonifay",
@@ -10924,7 +11404,8 @@
         "county": "Holmes",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11038,7 +11519,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -11205,7 +11687,16 @@
         "samplePeriod": "2021-H2",
         "lastSampleDate": "2021-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Hardee",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "atlantis",
@@ -11242,7 +11733,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11313,7 +11805,8 @@
         "county": "Collier",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11382,7 +11875,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "st-leo",
@@ -11526,7 +12028,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "steinhatchee",
@@ -11593,7 +12104,8 @@
         "county": "DeSoto",
         "sampleCount": 4,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11824,7 +12336,8 @@
         "county": "Jefferson",
         "sampleCount": 115,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11889,7 +12402,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "virginia-gardens",
@@ -11959,7 +12481,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Seminole",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mayo",
@@ -12059,7 +12590,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12127,7 +12659,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Hardee",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grand-island",
@@ -12429,7 +12970,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "laurel-hill",
@@ -12495,7 +13045,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Duval",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sumterville",
@@ -12708,7 +13267,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "paxton",
@@ -12850,7 +13418,8 @@
         "county": "Baker",
         "sampleCount": 189,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -12947,7 +13516,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "astatula",
@@ -13013,7 +13591,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Charlotte",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "micco",
@@ -13056,7 +13643,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -13147,7 +13735,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "satsuma",
@@ -13417,7 +14014,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13592,7 +14190,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jennings",
@@ -13629,7 +14236,8 @@
         "county": "Hamilton",
         "sampleCount": 157,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -13667,7 +14275,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13774,7 +14383,8 @@
         "county": "Holmes",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13882,7 +14492,8 @@
         "county": "Columbia",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13913,7 +14524,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 27.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Calhoun",
+        "sampleCount": 550,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "branford",
@@ -13980,7 +14600,8 @@
         "county": "Jefferson",
         "sampleCount": 115,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14018,7 +14639,8 @@
         "county": "Gadsden",
         "sampleCount": 550,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14049,7 +14671,16 @@
         "samplePeriod": "2021-H2",
         "lastSampleDate": "2021-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Suwannee",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "center-hill",
@@ -14112,7 +14743,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fort-white",
@@ -14149,7 +14789,8 @@
         "county": "Columbia",
         "sampleCount": 12,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14303,7 +14944,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "st-augustine",
@@ -14499,7 +15149,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lorida",
@@ -14566,7 +15225,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "yalaha",
@@ -14662,7 +15330,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Suwannee",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alford",
@@ -14731,7 +15408,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mcintosh",
@@ -14825,7 +15511,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "taveres",
@@ -14885,7 +15580,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 68.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Charlotte",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "glen-st-mary",
@@ -14922,7 +15626,8 @@
         "county": "Baker",
         "sampleCount": 189,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -14960,7 +15665,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14998,7 +15704,8 @@
         "county": "Holmes",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15066,7 +15773,8 @@
         "county": "Hernando",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15097,7 +15805,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 32.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Madison",
+        "sampleCount": 157,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wausau",
@@ -15164,7 +15881,8 @@
         "county": "Holmes",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15244,7 +15962,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 19.5,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Alachua",
+        "sampleCount": 12,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "altoona",
@@ -15315,7 +16042,8 @@
         "county": "Brevard",
         "sampleCount": 156,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -15483,7 +16211,8 @@
         "county": "Holmes",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15554,7 +16283,8 @@
         "county": "Hendry",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15628,7 +16358,8 @@
         "county": "Hendry",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15695,7 +16426,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bellview",
@@ -15792,7 +16532,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15990,7 +16731,8 @@
         "county": "Palm Beach",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16024,7 +16766,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 190.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Citrus",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ft-mccoy",
@@ -16123,7 +16874,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "windermere",
@@ -16436,7 +17196,8 @@
         "county": "Gadsden",
         "sampleCount": 550,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -16474,7 +17235,8 @@
         "county": "Collier",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16655,7 +17417,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 360.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Volusia",
+        "sampleCount": 156,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pinetta",
@@ -16685,7 +17456,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-01"
       },
-      "hardness": null
+      "hardness": {
+        "value": 32.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Madison",
+        "sampleCount": 157,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gibsonton",

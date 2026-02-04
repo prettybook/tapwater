@@ -1366,7 +1366,8 @@
         "county": "Pierce",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1624,7 +1625,8 @@
         "county": "Foster",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1956,7 +1958,8 @@
         "county": "Bowman",
         "sampleCount": 39,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2501,7 +2504,8 @@
         "county": "Griggs",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2575,7 +2579,8 @@
         "county": "Griggs",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2721,7 +2726,8 @@
         "county": "Pierce",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2867,7 +2873,8 @@
         "county": "Griggs",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2977,7 +2984,8 @@
         "county": "McIntosh",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3195,7 +3203,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3377,7 +3386,8 @@
         "county": "Logan",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3631,7 +3641,8 @@
         "county": "McIntosh",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3777,7 +3788,8 @@
         "county": "Kidder",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4247,7 +4259,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4501,7 +4514,8 @@
         "county": "Foster",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4611,7 +4625,8 @@
         "county": "Steele",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4937,7 +4952,8 @@
         "county": "Sheridan",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5119,7 +5135,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5301,7 +5318,8 @@
         "county": "Burke",
         "sampleCount": 152,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5447,7 +5465,8 @@
         "county": "Logan",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5701,7 +5720,8 @@
         "county": "Bowman",
         "sampleCount": 39,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5739,7 +5759,8 @@
         "county": "Burke",
         "sampleCount": 152,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5849,7 +5870,8 @@
         "county": "Steele",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6751,7 +6773,8 @@
         "county": "Griggs",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7077,7 +7100,8 @@
         "county": "Bowman",
         "sampleCount": 39,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7403,7 +7427,8 @@
         "county": "Burke",
         "sampleCount": 152,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7693,7 +7718,8 @@
         "county": "Burke",
         "sampleCount": 152,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7767,7 +7793,8 @@
         "county": "Griggs",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7877,7 +7904,8 @@
         "county": "Burke",
         "sampleCount": 152,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8311,7 +8339,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8385,7 +8414,8 @@
         "county": "Sheridan",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8495,7 +8525,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8677,7 +8708,8 @@
         "county": "Foster",
         "sampleCount": 27,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8823,7 +8855,8 @@
         "county": "McIntosh",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8897,7 +8930,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9079,7 +9113,8 @@
         "county": "McIntosh",
         "sampleCount": 16,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9117,7 +9152,8 @@
         "county": "Kidder",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9263,7 +9299,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9337,7 +9374,8 @@
         "county": "Burke",
         "sampleCount": 152,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -9987,7 +10025,8 @@
         "county": "Pierce",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10061,7 +10100,8 @@
         "county": "Kidder",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10171,7 +10211,8 @@
         "county": "LaMoure",
         "sampleCount": 25,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

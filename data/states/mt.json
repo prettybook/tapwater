@@ -700,7 +700,8 @@
         "county": "Hill",
         "sampleCount": 151,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -916,7 +917,8 @@
         "county": "Dawson",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1656,7 +1658,8 @@
         "county": "Pondera",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2785,7 +2788,8 @@
         "county": "Liberty",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3661,7 +3665,8 @@
         "county": "Pondera",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4225,7 +4230,16 @@
         "samplePeriod": "2027-H2",
         "lastSampleDate": "2027-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 231.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "McCone",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sheridan",
@@ -4554,7 +4568,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 231.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wibaux",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stanford",
@@ -4995,7 +5018,8 @@
         "county": "Carter",
         "sampleCount": 89,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -5075,7 +5099,8 @@
         "county": "Golden Valley",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5899,7 +5924,8 @@
         "county": "Treasure",
         "sampleCount": 119,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6427,7 +6453,8 @@
         "county": "Petroleum",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6501,7 +6528,8 @@
         "county": "Dawson",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6764,7 +6792,8 @@
         "county": "Hill",
         "sampleCount": 151,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6838,7 +6867,8 @@
         "county": "Pondera",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7671,7 +7701,8 @@
         "county": "Hill",
         "sampleCount": 151,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

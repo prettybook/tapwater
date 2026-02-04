@@ -114,7 +114,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -152,7 +153,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -225,7 +227,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -263,7 +266,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -301,7 +305,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -408,7 +413,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -656,7 +662,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -723,7 +730,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "university-of-mississippi",
@@ -819,7 +835,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "columbus",
@@ -928,7 +953,8 @@
         "county": "Carroll",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -966,7 +992,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1027,7 +1054,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "laurel",
@@ -1087,7 +1123,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hernando",
@@ -1127,7 +1172,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1165,7 +1211,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -1196,7 +1243,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "west-point",
@@ -1226,7 +1282,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "corinth",
@@ -1263,7 +1328,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1331,7 +1397,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1362,7 +1429,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Adams",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "moss-point",
@@ -1501,7 +1577,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1609,7 +1686,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "south-central",
@@ -1676,7 +1762,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1894,7 +1981,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1925,7 +2013,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "saltillo",
@@ -1960,7 +2057,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-lauderdale-wa-inc",
@@ -1997,7 +2103,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2028,7 +2135,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fulton",
@@ -2065,7 +2181,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2103,7 +2220,8 @@
         "county": "Walthall",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2210,7 +2328,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2307,7 +2426,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pontotoc",
@@ -2344,7 +2472,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2382,7 +2511,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2416,7 +2546,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "new-albany",
@@ -2453,7 +2592,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2484,7 +2624,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cmu-lake-caroline",
@@ -2514,7 +2663,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lewisburg",
@@ -2551,7 +2709,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2582,7 +2741,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Adams",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "adams-co-wa-4-kaiser-lake",
@@ -2612,7 +2780,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Adams",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "keesler-air-force-base",
@@ -2649,7 +2826,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2717,7 +2895,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2808,7 +2987,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "batesville",
@@ -2910,7 +3098,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-lowndes-wa-b-west-old-yorkville-rd",
@@ -2983,7 +3180,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3090,7 +3288,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3164,7 +3363,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3202,7 +3402,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3270,7 +3471,8 @@
         "county": "George",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3331,7 +3533,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Neshoba",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "center-wa-caesar-system",
@@ -3515,7 +3726,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3673,7 +3885,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3831,7 +4044,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3869,7 +4083,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3936,7 +4151,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hilldale",
@@ -4072,7 +4296,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4143,7 +4368,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4210,7 +4436,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Neshoba",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harmony",
@@ -4251,7 +4486,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4282,7 +4518,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-leflore",
@@ -4355,7 +4600,8 @@
         "county": "Noxubee",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4393,7 +4639,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4431,7 +4678,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4564,7 +4812,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "waynesboro",
@@ -4601,7 +4858,8 @@
         "county": "Wayne",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4714,7 +4972,8 @@
         "county": "Wayne",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4785,7 +5044,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4823,7 +5083,8 @@
         "county": "Tunica",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4861,7 +5122,8 @@
         "county": "Wayne",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4935,7 +5197,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5039,7 +5302,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5116,7 +5380,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5154,7 +5419,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5192,7 +5458,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5461,7 +5728,8 @@
         "county": "Walthall",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5522,7 +5790,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sunflower",
@@ -5595,7 +5872,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "whistler",
@@ -5632,7 +5918,8 @@
         "county": "Wayne",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5700,7 +5987,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5827,7 +6115,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "beat-iii-wa-1-sand-hill",
@@ -5864,7 +6161,8 @@
         "county": "Greene",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5932,7 +6230,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5970,7 +6269,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6037,7 +6337,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "southern-rankin-wa-2-plain",
@@ -6157,7 +6466,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "houston",
@@ -6194,7 +6512,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6225,7 +6544,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "calhoun",
@@ -6292,7 +6620,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6397,7 +6726,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6428,7 +6758,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "southwest-covington-wa",
@@ -6488,7 +6827,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-quitman-wa",
@@ -6525,7 +6873,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6586,7 +6935,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "evergreen",
@@ -6683,7 +7041,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6714,7 +7073,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "morton",
@@ -6810,7 +7178,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "acl",
@@ -6880,7 +7257,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7016,7 +7394,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wilkinson",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hub",
@@ -7053,7 +7440,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7121,7 +7509,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7159,7 +7548,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7190,7 +7580,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rawls-springs",
@@ -7257,7 +7656,8 @@
         "county": "George",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7318,7 +7718,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Neshoba",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pelucia-rural-wa-2-grav-hill",
@@ -7355,7 +7764,8 @@
         "county": "Carroll",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7419,7 +7829,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "homestead",
@@ -7458,7 +7877,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7489,7 +7909,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Claiborne",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-tallahatchie-wa",
@@ -7519,7 +7948,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wren-wa",
@@ -7556,7 +7994,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7587,7 +8026,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "h-h",
@@ -7743,7 +8191,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Claiborne",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "m-m",
@@ -7813,7 +8270,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7874,7 +8332,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pattison-wa-west",
@@ -7904,7 +8371,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Claiborne",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "durant",
@@ -7941,7 +8417,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8008,7 +8485,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "magnolia-rural",
@@ -8045,7 +8531,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8149,7 +8636,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8217,7 +8705,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8248,7 +8737,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wilkinson",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "freeny-wa-1",
@@ -8278,7 +8776,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sharon",
@@ -8348,7 +8855,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8386,7 +8894,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8454,7 +8963,8 @@
         "county": "Noxubee",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8558,7 +9068,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8596,7 +9107,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8634,7 +9146,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8738,7 +9251,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8806,7 +9320,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8844,7 +9359,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8875,7 +9391,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "strayhorn-wa-crockett",
@@ -8905,7 +9430,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "verona",
@@ -8935,7 +9469,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "central-rankin",
@@ -9002,7 +9545,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9063,7 +9607,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hickory",
@@ -9093,7 +9646,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "improve",
@@ -9130,7 +9692,8 @@
         "county": "Walthall",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9204,7 +9767,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9278,7 +9842,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9376,7 +9941,8 @@
         "county": "Greene",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9407,7 +9973,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tishomingo-co",
@@ -9444,7 +10019,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9565,7 +10141,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "copiah-wa-hazlehurst",
@@ -9625,7 +10210,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cleary",
@@ -9824,7 +10418,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9855,7 +10450,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "vaiden",
@@ -9892,7 +10496,8 @@
         "county": "Carroll",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9923,7 +10528,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "city-point",
@@ -9953,7 +10567,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "southwest-leake",
@@ -9983,7 +10606,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-decatur-wa-1",
@@ -10013,7 +10645,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "porterville-wa",
@@ -10050,7 +10691,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10088,7 +10730,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10162,7 +10805,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10296,7 +10940,8 @@
         "county": "Carroll",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10331,7 +10976,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mt-gilead-improve",
@@ -10368,7 +11022,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10399,7 +11054,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "yokena-jeff-davis",
@@ -10465,7 +11129,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kokomo-shiloh",
@@ -10502,7 +11175,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10563,7 +11237,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Jefferson",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-covington-wa-south",
@@ -10660,7 +11343,8 @@
         "county": "Walthall",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10698,7 +11382,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10736,7 +11421,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10899,7 +11585,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pearl-river-central-wa-north",
@@ -11031,7 +11726,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ecru",
@@ -11068,7 +11772,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11099,7 +11804,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-lowndes-wa-1-lee-stokes",
@@ -11195,7 +11909,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bogue-chitto",
@@ -11225,7 +11948,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lorman",
@@ -11255,7 +11987,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Jefferson",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wilk-amite-wa-1-south",
@@ -11292,7 +12033,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11323,7 +12065,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mantachie",
@@ -11360,7 +12111,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11391,7 +12143,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "taylorsville",
@@ -11458,7 +12219,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11532,7 +12294,8 @@
         "county": "George",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11570,7 +12333,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11608,7 +12372,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11646,7 +12411,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11677,7 +12443,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "anchor",
@@ -11743,7 +12518,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "myrtle",
@@ -11780,7 +12564,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11818,7 +12603,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11849,7 +12635,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lincoln-rural-wa-old-red-star",
@@ -11879,7 +12674,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 14.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lincoln",
+        "sampleCount": 13,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "coahoma-community-college",
@@ -11916,7 +12720,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11954,7 +12759,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12015,7 +12821,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grenada-ind-pk-airport",
@@ -12088,7 +12903,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12252,7 +13068,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12283,7 +13100,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "yalobusha",
@@ -12359,7 +13185,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12426,7 +13253,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "horn-lake-twin-lakes",
@@ -12463,7 +13299,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12530,7 +13367,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "raleigh",
@@ -12620,7 +13466,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wesson",
@@ -12687,7 +13542,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12725,7 +13581,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12853,7 +13710,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12891,7 +13749,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12958,7 +13817,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "blue-springs-wa",
@@ -12995,7 +13863,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13128,7 +13997,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "northeast-amite",
@@ -13165,7 +14043,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13239,7 +14118,8 @@
         "county": "Issaquena",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13270,7 +14150,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "l-f",
@@ -13330,7 +14219,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "short-coleman-park-nasa-plant",
@@ -13367,7 +14265,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13495,7 +14394,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13563,7 +14463,8 @@
         "county": "George",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13670,7 +14571,8 @@
         "county": "Lauderdale",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13701,7 +14603,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "new-zion",
@@ -13761,7 +14672,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lily-rose-wa-1",
@@ -13821,7 +14741,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "thorn",
@@ -13858,7 +14787,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13925,7 +14855,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "duffee",
@@ -13955,7 +14894,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hwy-30-west",
@@ -13992,7 +14940,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14023,7 +14972,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mound-bayou",
@@ -14060,7 +15018,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14128,7 +15087,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14192,7 +15152,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clara",
@@ -14229,7 +15198,8 @@
         "county": "Wayne",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14267,7 +15237,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14305,7 +15276,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14336,7 +15308,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mchenry",
@@ -14403,7 +15384,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14434,7 +15416,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shaw",
@@ -14471,7 +15462,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14539,7 +15531,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14642,7 +15635,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "state-line",
@@ -14679,7 +15681,8 @@
         "county": "Greene",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14717,7 +15720,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14778,7 +15782,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "toccopola",
@@ -14815,7 +15828,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14846,7 +15860,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tombigbee-wa",
@@ -14883,7 +15906,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14914,7 +15938,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "west-marion",
@@ -14951,7 +15984,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14989,7 +16023,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15020,7 +16055,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hopewell",
@@ -15123,7 +16167,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15161,7 +16206,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15258,7 +16304,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "new-houlka",
@@ -15295,7 +16350,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15367,7 +16423,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15435,7 +16492,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -15473,7 +16531,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15504,7 +16563,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-oxford",
@@ -15570,7 +16638,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "boyle-skene-wa3",
@@ -15607,7 +16684,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -15698,7 +16776,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "enon-locke-curtis",
@@ -15735,7 +16822,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15773,7 +16861,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15804,7 +16893,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Neshoba",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "union-church",
@@ -15834,7 +16932,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Jefferson",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "walnut",
@@ -15864,7 +16971,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wellsgate",
@@ -15937,7 +17053,8 @@
         "county": "George",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15968,7 +17085,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hermanville",
@@ -15998,7 +17124,16 @@
         "samplePeriod": "2022-H1",
         "lastSampleDate": "2022-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Claiborne",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "savannah",
@@ -16035,7 +17170,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16066,7 +17202,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hickory-flat",
@@ -16139,7 +17284,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16279,7 +17425,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -16340,7 +17487,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "oak-grove",
@@ -16436,7 +17592,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harmony-ridge",
@@ -16496,7 +17661,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "s-e-greene",
@@ -16533,7 +17707,8 @@
         "county": "Greene",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16564,7 +17739,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wilkinson",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "acona",
@@ -16594,7 +17778,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "new-site",
@@ -16624,7 +17817,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "paulding",
@@ -16654,7 +17856,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alcorn-wa-2-biggersville",
@@ -16691,7 +17902,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16758,7 +17970,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "renova",
@@ -16795,7 +18016,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -16829,7 +18051,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Adams",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jeff-davis-wa-inc",
@@ -16895,7 +18126,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-chickasaw-wa-2",
@@ -16932,7 +18172,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16963,7 +18204,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "west-madison-utl-dist",
@@ -16993,7 +18243,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rose-hill",
@@ -17023,7 +18282,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "como",
@@ -17060,7 +18328,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17098,7 +18367,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17136,7 +18406,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17167,7 +18438,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-covington-wa-north",
@@ -17227,7 +18507,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "randolph",
@@ -17264,7 +18553,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17295,7 +18585,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-lee-wa-4-macedonia",
@@ -17325,7 +18624,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "copiah-wa-bayou-pierre-1",
@@ -17428,7 +18736,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17466,7 +18775,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17497,7 +18807,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "centreville",
@@ -17527,7 +18846,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wilkinson",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kossuth-wa-2-bethlehem",
@@ -17564,7 +18892,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17691,7 +19020,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "goodman",
@@ -17721,7 +19059,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mcnair-stampley-wa-2",
@@ -17751,7 +19098,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Jefferson",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "poplar-springs",
@@ -17811,7 +19167,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "broadmoor",
@@ -17841,7 +19206,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Adams",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "three-forks",
@@ -17871,7 +19245,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "nw-kemper-wa-2-cleveland",
@@ -17908,7 +19291,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17939,7 +19323,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chapel-hill-pleasant-grove-wa",
@@ -18036,7 +19429,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18067,7 +19461,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "boyle-skene-wa-2",
@@ -18104,7 +19507,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -18178,7 +19582,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18209,7 +19614,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Neshoba",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mcnair-stampley-wa-1",
@@ -18239,7 +19653,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Jefferson",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "casey-jones",
@@ -18269,7 +19692,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "college-hill",
@@ -18342,7 +19774,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18410,7 +19843,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18441,7 +19875,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "big-black",
@@ -18471,7 +19914,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "blackland",
@@ -18501,7 +19953,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "nanih-waiya",
@@ -18531,7 +19992,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cross-roads",
@@ -18640,7 +20110,8 @@
         "county": "Carroll",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18731,7 +20202,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "southwest-wayne",
@@ -18768,7 +20248,8 @@
         "county": "Wayne",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18866,7 +20347,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18897,7 +20379,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mt-comfort-wa",
@@ -19006,7 +20497,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19133,7 +20625,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tutwiler",
@@ -19163,7 +20664,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mount-olive",
@@ -19253,7 +20763,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Claiborne",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mt-comfort-wa-mt-moriah",
@@ -19319,7 +20838,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mt-olive",
@@ -19379,7 +20907,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hudspeth-center",
@@ -19476,7 +21013,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19507,7 +21045,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shuqualak",
@@ -19544,7 +21091,8 @@
         "county": "Noxubee",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19582,7 +21130,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19620,7 +21169,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19658,7 +21208,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19696,7 +21247,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19763,7 +21315,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "buffalo",
@@ -19793,7 +21354,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wilkinson",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "jonestown",
@@ -19830,7 +21400,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19868,7 +21439,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20008,7 +21580,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20039,7 +21612,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wilkinson",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pope-courtland",
@@ -20076,7 +21658,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20114,7 +21697,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20181,7 +21765,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rienzi",
@@ -20218,7 +21811,8 @@
         "county": "Alcorn",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20279,7 +21873,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "enterprise",
@@ -20316,7 +21919,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20384,7 +21988,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20415,7 +22020,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "coffeeville",
@@ -20511,7 +22125,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harmony-wa-7-n-enterprise",
@@ -20548,7 +22171,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20586,7 +22210,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -20624,7 +22249,8 @@
         "county": "Noxubee",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20728,7 +22354,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20832,7 +22459,8 @@
         "county": "Tunica",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20870,7 +22498,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20908,7 +22537,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21006,7 +22636,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21047,7 +22678,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21085,7 +22717,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21231,7 +22864,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21262,7 +22896,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "country-haven-mobile-home-park",
@@ -21299,7 +22942,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21427,7 +23071,8 @@
         "county": "Tishomingo",
         "sampleCount": 50,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21458,7 +23103,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "braxton",
@@ -21525,7 +23179,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21653,7 +23308,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21691,7 +23347,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21722,7 +23379,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bude",
@@ -21789,7 +23455,8 @@
         "county": "Monroe",
         "sampleCount": 33,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21820,7 +23487,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Prentiss",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "buena-vista-lakes",
@@ -21857,7 +23533,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21888,7 +23565,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Winston",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sunny-oaks",
@@ -21954,7 +23640,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "liberty-hill",
@@ -21991,7 +23686,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22029,7 +23725,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22067,7 +23764,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22237,7 +23935,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22305,7 +24004,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22343,7 +24043,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22404,7 +24105,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "water-association-of-moon-lake",
@@ -22441,7 +24151,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22575,7 +24286,8 @@
         "county": "DeSoto",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22613,7 +24325,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22740,7 +24453,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mcadams",
@@ -22777,7 +24499,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22851,7 +24574,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22918,7 +24642,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "crowder",
@@ -22948,7 +24681,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "poor-house-wa-2",
@@ -23051,7 +24793,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23128,7 +24871,8 @@
         "county": "Carroll",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23196,7 +24940,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23593,7 +25338,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "south-newton-rural-wa-4",
@@ -23623,7 +25377,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "janice-wa-1",
@@ -23743,7 +25506,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mt-comfort-wa-sarepta",
@@ -23839,7 +25611,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cold-springs",
@@ -23899,7 +25680,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Claiborne",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sanders",
@@ -23965,7 +25755,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "south-terry",
@@ -24062,7 +25861,8 @@
         "county": "Pontotoc",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24130,7 +25930,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24161,7 +25962,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mize",
@@ -24221,7 +26031,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bleakhouse",
@@ -24254,7 +26073,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 184.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wilkinson",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "midway-wa-1",
@@ -24284,7 +26112,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mayersville",
@@ -24321,7 +26158,8 @@
         "county": "Issaquena",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24388,7 +26226,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "humphreys-co-wa-1-midnight",
@@ -24485,7 +26332,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24516,7 +26364,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sledge",
@@ -24546,7 +26403,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-bolivar-wa",
@@ -24583,7 +26449,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24644,7 +26511,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "arlington-wa",
@@ -24711,7 +26587,8 @@
         "county": "Issaquena",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24772,7 +26649,16 @@
         "samplePeriod": "2022-H1",
         "lastSampleDate": "2022-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "turner-springs",
@@ -24868,7 +26754,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mcnair-stampley-wa-3",
@@ -24898,7 +26793,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 91.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Jefferson",
+        "sampleCount": 36,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "philipp",
@@ -24928,7 +26832,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sumner",
@@ -24958,7 +26871,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "macedonia",
@@ -25024,7 +26946,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dlo",
@@ -25084,7 +27015,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chunky",
@@ -25114,7 +27054,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "white-cypress-lakes",
@@ -25180,7 +27129,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "longview",
@@ -25277,7 +27235,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25308,7 +27267,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "st-thomas",
@@ -25375,7 +27343,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25406,7 +27375,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "denmark",
@@ -25479,7 +27457,8 @@
         "county": "Greene",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25510,7 +27489,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "helena",
@@ -25685,7 +27673,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -25716,7 +27705,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "raskin-enterprises-llc-delta-village-mhp",
@@ -25819,7 +27817,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25850,7 +27849,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Jasper",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-end",
@@ -25923,7 +27931,8 @@
         "county": "Noxubee",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25961,7 +27970,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -25999,7 +28009,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26037,7 +28048,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26075,7 +28087,8 @@
         "county": "Noxubee",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26113,7 +28126,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26174,7 +28188,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "georgetown",
@@ -26277,7 +28300,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -26315,7 +28339,8 @@
         "county": "Greene",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26353,7 +28378,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26384,7 +28410,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-benton-wa",
@@ -26457,7 +28492,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26531,7 +28567,8 @@
         "county": "Greene",
         "sampleCount": 228,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26569,7 +28606,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26607,7 +28645,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26707,7 +28746,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Madison",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cedar-lake-biloxi-llc",
@@ -26744,7 +28792,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26782,7 +28831,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26856,7 +28906,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26917,7 +28968,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "webster-center",
@@ -26954,7 +29014,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26992,7 +29053,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27030,7 +29092,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27068,7 +29131,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27166,7 +29230,8 @@
         "county": "Noxubee",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27204,7 +29269,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27235,7 +29301,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pace",
@@ -27272,7 +29347,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -27340,7 +29416,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27378,7 +29455,8 @@
         "county": "Carroll",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27547,7 +29625,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ccm-inc",
@@ -27584,7 +29671,8 @@
         "county": "Chickasaw",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27622,7 +29710,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27653,7 +29742,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "moore-bayou-wa-3",
@@ -27690,7 +29788,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27800,7 +29899,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27831,7 +29931,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "minter",
@@ -27904,7 +30013,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -27942,7 +30052,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28016,7 +30127,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28090,7 +30202,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28151,7 +30264,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "enid-lake-estates",
@@ -28224,7 +30346,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28262,7 +30385,8 @@
         "county": "Attala",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28300,7 +30424,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28427,7 +30552,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "community",
@@ -28464,7 +30598,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28495,7 +30630,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "seminary",
@@ -28634,7 +30778,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28672,7 +30817,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28740,7 +30886,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28778,7 +30925,8 @@
         "county": "Issaquena",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28809,7 +30957,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "west-hill",
@@ -28839,7 +30996,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-lee-wa-5-red-hill",
@@ -28869,7 +31035,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gunnison",
@@ -28906,7 +31081,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28937,7 +31113,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "dancy",
@@ -28974,7 +31159,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29048,7 +31234,8 @@
         "county": "Webster",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29086,7 +31273,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -29124,7 +31312,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29185,7 +31374,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 57.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Newton",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lyon",
@@ -29222,7 +31420,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29253,7 +31452,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 29.1,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Tippah",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "doddsville",
@@ -29391,7 +31599,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Leake",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "silver-city",
@@ -29488,7 +31705,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -29556,7 +31774,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29666,7 +31885,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29704,7 +31924,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29772,7 +31993,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29936,7 +32158,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -29967,7 +32190,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-charleston",
@@ -29997,7 +32229,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-lee-blvd",
@@ -30093,7 +32334,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hide-a-way-hills",
@@ -30130,7 +32380,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30168,7 +32419,8 @@
         "county": "Marion",
         "sampleCount": 28,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30206,7 +32458,8 @@
         "county": "Clarke",
         "sampleCount": 184,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30237,7 +32490,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hays-creek-wa-new-liberty",
@@ -30310,7 +32572,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30341,7 +32604,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Clay",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "south-quitman-west-crowder",
@@ -30371,7 +32643,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-arrowhead",
@@ -30408,7 +32689,8 @@
         "county": "Union",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30439,7 +32721,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hurricane-hills-wa",
@@ -30505,7 +32796,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kipling-wa-4",
@@ -30542,7 +32842,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30676,7 +32977,8 @@
         "county": "Panola",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30707,7 +33009,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Choctaw",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "south-victoria",
@@ -30845,7 +33156,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harland-creek-wa-horseshoe-lk",
@@ -30875,7 +33195,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Holmes",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "symonds",
@@ -30912,7 +33241,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30979,7 +33309,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Quitman",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "eden",
@@ -31009,7 +33348,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wilk-amite-wa-2-northwest",
@@ -31046,7 +33394,8 @@
         "county": "Amite",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31150,7 +33499,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31188,7 +33538,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31226,7 +33577,8 @@
         "county": "Coahoma",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31264,7 +33616,8 @@
         "county": "Bolivar",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -31403,7 +33756,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "winterville",
@@ -31476,7 +33838,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31550,7 +33913,8 @@
         "county": "Kemper",
         "sampleCount": 105,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31581,7 +33945,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "diberville",
@@ -31618,7 +33991,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31649,7 +34023,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 24.6,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Lee",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "satartia",
@@ -31679,7 +34062,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.7,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Yazoo",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clermont-harbor",
@@ -31745,7 +34137,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 85.3,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tate",
+        "sampleCount": 11,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "humphreys-co-wa-5-woodyard",
@@ -31805,7 +34206,16 @@
         "samplePeriod": "2022-H1",
         "lastSampleDate": "2022-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 86.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Tallahatchie",
+        "sampleCount": 8,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "krebs-trailer-plaza",
@@ -31878,7 +34288,8 @@
         "county": "Pike",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31966,7 +34377,8 @@
         "county": "Harrison",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32004,7 +34416,8 @@
         "county": "Itawamba",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

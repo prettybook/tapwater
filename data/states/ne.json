@@ -275,7 +275,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Madison",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-platte",
@@ -525,7 +534,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gretna",
@@ -704,7 +722,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "York",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alliance",
@@ -945,7 +972,8 @@
         "county": "Cheyenne",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1053,7 +1081,8 @@
         "county": "Wayne",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1221,11 +1250,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 703.0,
+        "value": 538.5,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Keith",
-        "sampleCount": 3
+        "sampleCount": 2
       }
     },
     {
@@ -1371,7 +1400,8 @@
         "county": "Burt",
         "sampleCount": 85,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1468,7 +1498,16 @@
         "samplePeriod": "2027-H2",
         "lastSampleDate": "2027-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Holt",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gothenburg",
@@ -1535,7 +1574,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1566,7 +1606,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 336.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cuming",
+        "sampleCount": 85,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "valley",
@@ -1718,7 +1767,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tecumseh",
@@ -1920,7 +1978,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -1951,7 +2010,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Cherry",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kimball",
@@ -1988,7 +2056,8 @@
         "county": "Kimball",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2061,7 +2130,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 336.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cuming",
+        "sampleCount": 85,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wymore",
@@ -2292,7 +2370,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Madison",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "murdock",
@@ -2325,7 +2412,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ord",
@@ -2355,7 +2451,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 346.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Valley",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "imperial",
@@ -2385,7 +2490,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 620.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Chase",
+        "sampleCount": 81,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "superior",
@@ -2544,7 +2658,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Pierce",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "humboldt",
@@ -2621,7 +2744,8 @@
         "county": "Burt",
         "sampleCount": 85,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2652,7 +2776,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Brown",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "albion",
@@ -2689,7 +2822,8 @@
         "county": "Boone",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -2727,7 +2861,8 @@
         "county": "Antelope",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2765,7 +2900,8 @@
         "county": "Stanton",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3117,7 +3253,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "arlington",
@@ -3279,7 +3424,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Holt",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "plainview",
@@ -3309,7 +3463,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Pierce",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-bend",
@@ -3415,7 +3578,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wisner",
@@ -3445,7 +3617,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 336.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cuming",
+        "sampleCount": 85,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wood-river",
@@ -3535,7 +3716,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 620.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Perkins",
+        "sampleCount": 81,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "battle-creek",
@@ -3565,7 +3755,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Madison",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stromsburg",
@@ -3595,7 +3794,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Polk",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "creighton",
@@ -3691,7 +3899,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "burwell",
@@ -3721,7 +3938,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 346.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Garfield",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shelton",
@@ -3781,7 +4007,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "York",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "loup-city",
@@ -4168,7 +4403,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Madison",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "franklin",
@@ -4466,7 +4710,8 @@
         "county": "Deuel",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4593,7 +4838,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Polk",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "osmond",
@@ -4623,7 +4877,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Pierce",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "scribner",
@@ -4732,7 +4995,8 @@
         "county": "Dundy",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4932,7 +5196,8 @@
         "county": "Burt",
         "sampleCount": 85,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5023,7 +5288,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 538.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Garden",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "curtis",
@@ -5376,7 +5650,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Madison",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "oxford",
@@ -5443,7 +5726,8 @@
         "county": "Antelope",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5510,7 +5794,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Polk",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alda",
@@ -5613,7 +5906,8 @@
         "county": "Boone",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -5644,7 +5938,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 1760.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Rock",
+        "sampleCount": 14,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "elmwood",
@@ -5674,7 +5977,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hershey",
@@ -5884,7 +6196,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hay-springs",
@@ -6239,7 +6560,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6366,7 +6688,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "howells",
@@ -6475,7 +6806,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6549,7 +6881,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6580,7 +6913,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 620.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Chase",
+        "sampleCount": 81,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "culbertson",
@@ -6766,7 +7108,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 336.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cuming",
+        "sampleCount": 85,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "boyd-co-rwd-2",
@@ -6803,7 +7154,8 @@
         "county": "Boyd",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6864,7 +7216,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 320.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Greeley",
+        "sampleCount": 10,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stuart",
@@ -6894,7 +7255,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Holt",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "paxton",
@@ -6925,11 +7295,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 703.0,
+        "value": 538.5,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Keith",
-        "sampleCount": 3
+        "sampleCount": 2
       }
     },
     {
@@ -7020,7 +7390,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "York",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ansley",
@@ -7057,7 +7436,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7197,7 +7577,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -7258,7 +7639,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 320.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Greeley",
+        "sampleCount": 10,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "winside",
@@ -7295,7 +7685,8 @@
         "county": "Wayne",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7363,7 +7754,8 @@
         "county": "Burt",
         "sampleCount": 85,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7629,7 +8021,8 @@
         "county": "Boone",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7697,7 +8090,8 @@
         "county": "Antelope",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7771,7 +8165,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -7862,7 +8257,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Holt",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pleasanton",
@@ -8001,7 +8405,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8039,7 +8444,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -8107,7 +8513,8 @@
         "county": "Stanton",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8175,7 +8582,8 @@
         "county": "Boyd",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8236,7 +8644,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Polk",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shickley",
@@ -8303,7 +8720,8 @@
         "county": "Cheyenne",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8370,7 +8788,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "York",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "petersburg",
@@ -8407,7 +8834,8 @@
         "county": "Boone",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8439,11 +8867,11 @@
         "lastSampleDate": "2021-12-31"
       },
       "hardness": {
-        "value": 703.0,
+        "value": 538.5,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Keith",
-        "sampleCount": 3
+        "sampleCount": 2
       }
     },
     {
@@ -8541,7 +8969,8 @@
         "county": "Antelope",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8579,7 +9008,8 @@
         "county": "Antelope",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8617,7 +9047,8 @@
         "county": "Cheyenne",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8744,7 +9175,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 320.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Greeley",
+        "sampleCount": 10,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lodgepole-rr-name-lodge-pole",
@@ -8781,7 +9221,8 @@
         "county": "Cheyenne",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9070,7 +9511,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Brown",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stapleton",
@@ -9100,7 +9550,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Logan",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lawrence",
@@ -9160,7 +9619,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Madison",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bennington",
@@ -9334,7 +9802,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 346.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Valley",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "amherst",
@@ -9520,7 +9997,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Holt",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "otoe",
@@ -9586,7 +10072,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 320.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Greeley",
+        "sampleCount": 10,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "monroe",
@@ -9652,7 +10147,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 346.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Valley",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "big-springs",
@@ -9689,7 +10193,8 @@
         "county": "Deuel",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9750,7 +10255,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 538.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Hooker",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bradshaw",
@@ -9780,7 +10294,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "York",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "madrid",
@@ -9810,7 +10333,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 620.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Perkins",
+        "sampleCount": 81,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "diller",
@@ -9979,7 +10511,8 @@
         "county": "Wayne",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10047,7 +10580,8 @@
         "county": "Kimball",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10078,7 +10612,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "York",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lindsay",
@@ -10144,7 +10687,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harrison",
@@ -10592,7 +11144,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -10630,7 +11183,8 @@
         "county": "Cheyenne",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11130,7 +11684,8 @@
         "county": "Boyd",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11191,7 +11746,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 318.6,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "York",
+        "sampleCount": 64,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stamford",
@@ -11383,7 +11947,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 1760.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Keya Paha",
+        "sampleCount": 14,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "thedford",
@@ -11456,7 +12029,8 @@
         "county": "Burt",
         "sampleCount": 85,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11494,7 +12068,8 @@
         "county": "Boyd",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11591,7 +12166,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "trumbull",
@@ -11658,7 +12242,8 @@
         "county": "Wayne",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11696,7 +12281,8 @@
         "county": "Antelope",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11866,7 +12452,8 @@
         "county": "Antelope",
         "sampleCount": 5,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11897,7 +12484,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 620.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Perkins",
+        "sampleCount": 81,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ulysses",
@@ -11934,7 +12530,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -11965,7 +12562,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "verdon",
@@ -12038,7 +12644,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12129,7 +12736,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 538.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Grant",
+        "sampleCount": 2,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ithaca",
@@ -12195,7 +12811,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Holt",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "henry",
@@ -12262,7 +12887,8 @@
         "county": "Dundy",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12432,7 +13058,8 @@
         "county": "Thurston",
         "sampleCount": 4,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12503,7 +13130,8 @@
         "county": "Boyd",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12577,7 +13205,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12644,7 +13273,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Cherry",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "concord",
@@ -12800,7 +13438,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "brownville",
@@ -12956,7 +13603,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 620.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Perkins",
+        "sampleCount": 81,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shubert",
@@ -13584,7 +14240,8 @@
         "county": "Kimball",
         "sampleCount": 81,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13754,7 +14411,8 @@
         "county": "Blaine",
         "sampleCount": 44,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13858,7 +14516,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14022,7 +14681,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -14083,7 +14743,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Cherry",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "naponee",
@@ -14186,7 +14855,8 @@
         "county": "Custer",
         "sampleCount": 2,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14217,7 +14887,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 299.3,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Cass",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "valley-view-estates",
@@ -14283,7 +14962,16 @@
         "samplePeriod": "2018-H2",
         "lastSampleDate": "2018-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wheeler",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ericson",
@@ -14313,7 +15001,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Wheeler",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rockville",
@@ -14439,7 +15136,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Cherry",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "carleton",
@@ -14661,7 +15367,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 1760.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Rock",
+        "sampleCount": 14,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "prosser",
@@ -14823,7 +15538,16 @@
         "samplePeriod": "2027-H2",
         "lastSampleDate": "2027-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Cherry",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "crookston",
@@ -14853,7 +15577,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.5,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Cherry",
+        "sampleCount": 44,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "primrose",
@@ -14890,7 +15623,8 @@
         "county": "Boone",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14988,7 +15722,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -15026,7 +15761,8 @@
         "county": "Boyd",
         "sampleCount": 14,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15495,7 +16231,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 246.9,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Pierce",
+        "sampleCount": 5,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "julian",
@@ -15682,7 +16427,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -15786,7 +16532,8 @@
         "county": "Butler",
         "sampleCount": 64,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {

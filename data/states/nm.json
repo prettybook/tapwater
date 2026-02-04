@@ -507,7 +507,8 @@
         "county": "Valencia",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -843,7 +844,8 @@
         "county": "Luna",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -885,7 +887,8 @@
         "county": "Valencia",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1485,7 +1488,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1685,7 +1689,8 @@
         "county": "Sierra",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1727,7 +1732,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1818,7 +1824,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1925,7 +1932,8 @@
         "county": "Valencia",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2126,7 +2134,8 @@
         "county": "Hidalgo",
         "sampleCount": 48,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2164,7 +2173,8 @@
         "county": "Sierra",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2313,7 +2323,8 @@
         "county": "Sierra",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2844,7 +2855,8 @@
         "county": "De Baca",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -2923,7 +2935,8 @@
         "county": "Luna",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3142,7 +3155,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3764,7 +3778,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4027,7 +4042,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4065,7 +4081,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4282,7 +4299,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4514,7 +4532,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "san-rafael",
@@ -6057,7 +6084,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "maxwell",
@@ -6097,7 +6133,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6135,7 +6172,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6206,7 +6244,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newcomb",
@@ -6695,7 +6742,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Harding",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-valley",
@@ -6930,7 +6986,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7144,7 +7201,16 @@
         "samplePeriod": "2014-H2",
         "lastSampleDate": "2014-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ilfeld",
@@ -7559,7 +7625,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "red-valley-east-of",
@@ -8048,7 +8123,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8256,7 +8332,16 @@
         "samplePeriod": "2014-H2",
         "lastSampleDate": "2014-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Harding",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mexican-springs-west-of",
@@ -8389,7 +8474,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8660,7 +8746,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ojo-sarco",
@@ -8985,7 +9080,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9089,7 +9185,8 @@
         "county": "Valencia",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9235,7 +9332,8 @@
         "county": "Valencia",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9273,7 +9371,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9451,7 +9550,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "nageezi",
@@ -9767,7 +9875,8 @@
         "county": "Sierra",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9913,7 +10022,8 @@
         "county": "Colfax",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9944,7 +10054,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "napi-region-i-complex-southeast-of-farm",
@@ -10356,7 +10475,8 @@
         "county": "Hidalgo",
         "sampleCount": 48,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10387,7 +10507,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rodarte",
@@ -10670,7 +10799,8 @@
         "county": "Sierra",
         "sampleCount": 8,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10834,7 +10964,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "weed",
@@ -11111,7 +11250,8 @@
         "county": "Torrance",
         "sampleCount": 243,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11178,7 +11318,16 @@
         "samplePeriod": "2026-H2",
         "lastSampleDate": "2026-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 71.2,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Mora",
+        "sampleCount": 18,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "las-nutrias",

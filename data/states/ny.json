@@ -2156,7 +2156,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2322,7 +2323,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2360,7 +2362,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2398,7 +2401,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2436,7 +2440,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2474,7 +2479,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2512,7 +2518,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2550,7 +2557,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2588,7 +2596,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2626,7 +2635,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2664,7 +2674,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3299,7 +3310,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3337,7 +3349,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3375,7 +3388,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3452,7 +3466,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3490,7 +3505,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3528,7 +3544,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3602,7 +3619,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3640,7 +3658,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3678,7 +3697,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3716,7 +3736,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3904,7 +3925,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4068,7 +4090,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4269,7 +4292,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4383,7 +4407,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4748,7 +4773,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5356,7 +5382,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5654,7 +5681,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5911,7 +5939,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6312,7 +6341,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6568,7 +6598,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clay-t",
@@ -6634,7 +6673,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "carmel-t",
@@ -6711,7 +6759,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7119,7 +7168,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7327,7 +7377,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7365,7 +7416,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7522,7 +7574,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7724,7 +7777,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8031,7 +8085,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8072,7 +8127,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8381,7 +8437,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8588,7 +8645,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8727,7 +8785,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9371,7 +9430,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9600,7 +9660,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -10164,7 +10225,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10274,7 +10336,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -10900,7 +10963,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -11108,7 +11172,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11332,7 +11397,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12018,7 +12084,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12296,7 +12363,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12412,7 +12480,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12512,7 +12581,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12560,7 +12630,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12751,7 +12822,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13346,7 +13418,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13424,7 +13497,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13613,7 +13687,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14004,7 +14079,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14344,7 +14420,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17401,7 +17478,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17826,7 +17904,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18261,7 +18340,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -18907,7 +18987,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19105,7 +19186,8 @@
         "county": "Westchester",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19443,7 +19525,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19930,7 +20013,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -20570,7 +20654,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -20804,7 +20889,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kinderhook-v",
@@ -20848,7 +20942,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -21368,7 +21463,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -21701,7 +21797,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -21811,7 +21908,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -22553,7 +22651,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22669,7 +22768,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -22707,7 +22807,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -23043,7 +23144,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24148,7 +24250,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24411,7 +24514,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24532,7 +24636,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24649,7 +24754,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24716,7 +24822,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shelby-t",
@@ -25241,7 +25356,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "elba-town-wd2",
@@ -25314,7 +25438,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25613,7 +25738,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25794,7 +25920,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "whitney-point-v",
@@ -26176,7 +26311,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fair-haven-v",
@@ -26698,7 +26842,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "savannah-t",
@@ -27427,7 +27580,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "davenport-t",
@@ -28109,7 +28271,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28760,7 +28923,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -29179,7 +29343,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29260,7 +29425,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30082,7 +30248,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cincinnatus-t",
@@ -30119,7 +30294,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30232,7 +30408,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30314,7 +30491,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30620,7 +30798,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "remsen-t",
@@ -30842,7 +31029,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30922,7 +31110,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -31297,7 +31486,8 @@
         "county": "Putnam",
         "sampleCount": 132,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31335,7 +31525,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -31565,7 +31756,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "deruyter-v",
@@ -31750,7 +31950,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -31869,7 +32070,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -31913,7 +32115,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -31983,7 +32186,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "preble-t",
@@ -32025,7 +32237,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32134,7 +32347,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hinsdale-t",
@@ -32212,7 +32434,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -32825,7 +33048,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -32953,7 +33177,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "independence-t",
@@ -33878,7 +34111,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kensington-woods-wd",
@@ -33951,7 +34193,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -34135,7 +34378,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "westerlo-t",
@@ -34322,7 +34574,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "barneveld-v",
@@ -34400,7 +34661,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -34515,7 +34777,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -34816,7 +35079,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bangor-t",
@@ -35154,7 +35426,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35188,7 +35461,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chemung-t",
@@ -35228,7 +35510,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -35860,7 +36143,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -36424,7 +36708,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -36617,7 +36902,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -36730,7 +37016,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36765,7 +37052,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "brasher-t",
@@ -37065,7 +37361,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37451,7 +37748,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37607,7 +37905,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -37645,7 +37944,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -38196,7 +38496,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -38306,7 +38607,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38969,7 +39271,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -39344,7 +39647,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -39382,7 +39686,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -39456,7 +39761,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -39608,7 +39914,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39858,7 +40165,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 52.8,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Otsego",
+        "sampleCount": 15,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alabama",
@@ -40078,7 +40394,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -40413,7 +40730,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -40563,7 +40881,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40709,7 +41028,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40783,7 +41103,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -41245,7 +41566,8 @@
         "county": "Chemung",
         "sampleCount": 496,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -41463,7 +41785,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -41645,7 +41968,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41755,7 +42079,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -41793,7 +42118,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -42011,7 +42337,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42049,7 +42376,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42087,7 +42415,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -42125,7 +42454,8 @@
         "county": "Columbia",
         "sampleCount": 393,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -42163,7 +42493,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42309,7 +42640,8 @@
         "county": "Chenango",
         "sampleCount": 15,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -42455,7 +42787,8 @@
         "county": "Cortland",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42493,7 +42826,8 @@
         "county": "Rockland",
         "sampleCount": 99,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42531,7 +42865,8 @@
         "county": "Tioga",
         "sampleCount": 13,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

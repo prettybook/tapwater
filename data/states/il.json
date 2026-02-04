@@ -6429,7 +6429,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11680,7 +11681,8 @@
         "county": "Cass",
         "sampleCount": 53,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -12943,7 +12945,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13857,7 +13860,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 301.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Menard",
+        "sampleCount": 53,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "auburn",
@@ -14448,7 +14460,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16448,7 +16461,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -17215,7 +17229,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -17328,7 +17343,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18275,7 +18291,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19150,7 +19167,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21000,7 +21018,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22634,7 +22653,8 @@
         "county": "Cass",
         "sampleCount": 53,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -22816,7 +22836,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -23034,7 +23055,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -24188,7 +24210,8 @@
         "county": "Cass",
         "sampleCount": 53,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -24766,7 +24789,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27593,7 +27617,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28027,7 +28052,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -28317,7 +28343,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29291,7 +29318,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29545,7 +29573,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29612,7 +29641,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 301.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Menard",
+        "sampleCount": 53,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hanover",
@@ -30081,7 +30119,8 @@
         "county": "Cass",
         "sampleCount": 53,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -30587,7 +30626,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -31017,7 +31057,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 301.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Menard",
+        "sampleCount": 53,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-city",
@@ -31342,7 +31391,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31887,7 +31937,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32897,7 +32948,8 @@
         "county": "Cass",
         "sampleCount": 53,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -35722,7 +35774,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -38856,7 +38909,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39038,7 +39092,8 @@
         "county": "Cass",
         "sampleCount": 53,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -39184,7 +39239,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39294,7 +39350,8 @@
         "county": "Cass",
         "sampleCount": 53,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -39548,7 +39605,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41893,7 +41951,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -43011,7 +43070,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -44705,7 +44765,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -44916,7 +44977,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 301.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Menard",
+        "sampleCount": 53,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stonefort",
@@ -47642,7 +47712,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -48400,7 +48471,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -49151,7 +49223,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 301.1,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Menard",
+        "sampleCount": 53,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stephenson-mobile-estates",
@@ -49944,7 +50025,8 @@
         "county": "Lee",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -51566,7 +51648,8 @@
         "county": "Carroll",
         "sampleCount": 116,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -53429,7 +53512,8 @@
         "county": "Union",
         "sampleCount": 51,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

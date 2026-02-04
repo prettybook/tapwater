@@ -41,7 +41,8 @@
         "county": "Suffolk",
         "sampleCount": 167,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -964,7 +965,8 @@
         "county": "Suffolk",
         "sampleCount": 167,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1778,7 +1780,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2003,7 +2006,8 @@
         "county": "Suffolk",
         "sampleCount": 167,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2710,7 +2714,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 31.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Nantucket",
+        "sampleCount": 21,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "milford",
@@ -2858,7 +2871,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3485,7 +3499,8 @@
         "county": "Dukes",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3850,7 +3865,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4071,7 +4087,8 @@
         "county": "Suffolk",
         "sampleCount": 167,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4760,7 +4777,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6219,7 +6237,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6815,7 +6834,8 @@
         "county": "Dukes",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7712,7 +7732,8 @@
         "county": "Dukes",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8200,7 +8221,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8238,7 +8260,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8659,7 +8682,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8924,7 +8948,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9287,7 +9312,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9610,7 +9636,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10112,7 +10139,8 @@
         "county": "Dukes",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10193,7 +10221,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10272,7 +10301,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10457,7 +10487,8 @@
         "county": "Dukes",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10498,7 +10529,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11490,7 +11522,8 @@
         "county": "Hampshire",
         "sampleCount": 31,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

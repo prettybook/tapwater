@@ -4878,11 +4878,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 720.5,
+        "value": 281.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Hudson",
-        "sampleCount": 2
+        "sampleCount": 1
       }
     },
     {
@@ -6549,11 +6549,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 720.5,
+        "value": 281.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Hudson",
-        "sampleCount": 2
+        "sampleCount": 1
       }
     },
     {
@@ -6995,11 +6995,11 @@
         "lastSampleDate": "2025-12-31"
       },
       "hardness": {
-        "value": 720.5,
+        "value": 281.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Hudson",
-        "sampleCount": 2
+        "sampleCount": 1
       }
     },
     {
@@ -7370,11 +7370,11 @@
         "lastSampleDate": "2025-06-30"
       },
       "hardness": {
-        "value": 720.5,
+        "value": 281.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Hudson",
-        "sampleCount": 2
+        "sampleCount": 1
       }
     },
     {
@@ -10176,11 +10176,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 720.5,
+        "value": 281.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Hudson",
-        "sampleCount": 2
+        "sampleCount": 1
       }
     },
     {
@@ -14553,11 +14553,11 @@
         "lastSampleDate": "2024-12-31"
       },
       "hardness": {
-        "value": 720.5,
+        "value": 281.0,
         "unit": "ppm",
         "classification": "Very Hard",
         "county": "Hudson",
-        "sampleCount": 2
+        "sampleCount": 1
       }
     },
     {

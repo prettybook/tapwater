@@ -2774,7 +2774,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2812,7 +2813,8 @@
         "county": "Carbon",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -2994,7 +2996,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3392,7 +3395,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3430,7 +3434,8 @@
         "county": "Carbon",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -3756,7 +3761,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3830,7 +3836,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4037,7 +4044,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4327,7 +4335,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4822,7 +4831,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5223,7 +5233,8 @@
         "county": "Carbon",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -5369,7 +5380,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5587,7 +5599,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5625,7 +5638,8 @@
         "county": "Carbon",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -5876,7 +5890,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6130,7 +6145,8 @@
         "county": "Carbon",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -6706,7 +6722,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6744,7 +6761,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7568,7 +7586,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7714,7 +7733,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8548,7 +8568,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9306,7 +9327,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9488,7 +9510,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9670,7 +9693,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9996,7 +10020,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10106,7 +10131,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10529,7 +10555,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10567,7 +10594,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11253,7 +11281,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12143,7 +12172,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12253,7 +12283,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13071,7 +13102,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13217,7 +13249,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13255,7 +13288,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13960,7 +13994,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14754,7 +14789,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14792,7 +14828,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14866,7 +14903,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14940,7 +14978,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15075,7 +15114,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15113,7 +15153,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15295,7 +15336,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15369,7 +15411,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15443,7 +15486,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15553,7 +15597,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15807,7 +15852,8 @@
         "county": "Summit",
         "sampleCount": 34,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16205,7 +16251,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17362,7 +17409,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17389,7 +17437,8 @@
         "county": "Rich",
         "sampleCount": 22,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17463,7 +17512,8 @@
         "county": "Morgan",
         "sampleCount": 10,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

@@ -582,7 +582,8 @@
         "county": "Houston",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -703,7 +704,8 @@
         "county": "Houston",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1813,7 +1815,8 @@
         "county": "Houston",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3913,7 +3916,8 @@
         "county": "Houston",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5604,7 +5608,8 @@
         "county": "Jenkins",
         "sampleCount": 199,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6899,7 +6904,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Charlton",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lyons",
@@ -8541,7 +8555,8 @@
         "county": "Treutlen",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10128,7 +10143,8 @@
         "county": "Twiggs",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13013,7 +13029,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Charlton",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "woodbury",
@@ -18472,7 +18497,8 @@
         "county": "Twiggs",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28738,7 +28764,8 @@
         "county": "Twiggs",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30686,7 +30713,8 @@
         "county": "Twiggs",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31372,7 +31400,8 @@
         "county": "Jenkins",
         "sampleCount": 199,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33786,7 +33815,8 @@
         "county": "Twiggs",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40655,7 +40685,8 @@
         "county": "Twiggs",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42090,7 +42121,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 21.0,
+        "unit": "ppm",
+        "classification": "Soft",
+        "county": "Charlton",
+        "sampleCount": 189,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mineral-springs-subdivision",
@@ -42800,7 +42840,8 @@
         "county": "Twiggs",
         "sampleCount": 38,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

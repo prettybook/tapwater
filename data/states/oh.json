@@ -1010,7 +1010,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1473,7 +1474,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 113.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Lawrence",
+        "sampleCount": 63,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fairborn",
@@ -2020,7 +2030,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2238,7 +2249,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3627,7 +3639,8 @@
         "county": "Meigs",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -4640,7 +4653,8 @@
         "county": "Clinton",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -4851,7 +4865,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 113.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Lawrence",
+        "sampleCount": 63,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "northwest-regional",
@@ -6976,7 +6999,8 @@
         "county": "Meigs",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8346,7 +8370,8 @@
         "county": "Monroe",
         "sampleCount": 135,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8672,7 +8697,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9070,7 +9096,8 @@
         "county": "Clinton",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -9213,7 +9240,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 113.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Lawrence",
+        "sampleCount": 63,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bluffton-village",
@@ -10474,7 +10510,8 @@
         "county": "Noble",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10584,7 +10621,8 @@
         "county": "Adams",
         "sampleCount": 36,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -11414,7 +11452,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11848,7 +11887,8 @@
         "county": "Noble",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11994,7 +12034,8 @@
         "county": "Monroe",
         "sampleCount": 135,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12284,7 +12325,8 @@
         "county": "Monroe",
         "sampleCount": 135,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12322,7 +12364,8 @@
         "county": "Clinton",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12432,7 +12475,8 @@
         "county": "Meigs",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -12902,7 +12946,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12979,7 +13024,8 @@
         "county": "Noble",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13298,7 +13344,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 113.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Lawrence",
+        "sampleCount": 63,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "aqua-ohio-midvale",
@@ -13659,7 +13714,8 @@
         "county": "Adams",
         "sampleCount": 36,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -13985,7 +14041,8 @@
         "county": "Adams",
         "sampleCount": 36,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14419,7 +14476,8 @@
         "county": "Meigs",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -16041,7 +16099,8 @@
         "county": "Monroe",
         "sampleCount": 135,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -16979,7 +17038,8 @@
         "county": "Monroe",
         "sampleCount": 135,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -17269,7 +17329,8 @@
         "county": "Clinton",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -18138,7 +18199,8 @@
         "county": "Adams",
         "sampleCount": 36,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -19184,7 +19246,8 @@
         "county": "Adams",
         "sampleCount": 36,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -20230,7 +20293,8 @@
         "county": "Meigs",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -20376,7 +20440,8 @@
         "county": "Noble",
         "sampleCount": 70,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20594,7 +20659,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21640,7 +21706,8 @@
         "county": "Meigs",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -22535,7 +22602,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 113.0,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Lawrence",
+        "sampleCount": 63,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "robin-park-mobile-homes",
@@ -22716,7 +22792,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22898,7 +22975,8 @@
         "county": "Clinton",
         "sampleCount": 29,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -25780,7 +25858,8 @@
         "county": "Monroe",
         "sampleCount": 135,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -31542,7 +31621,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32541,7 +32621,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35448,7 +35529,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35702,7 +35784,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36280,7 +36363,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37974,7 +38058,8 @@
         "county": "Medina",
         "sampleCount": 11,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

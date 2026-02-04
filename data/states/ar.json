@@ -3380,7 +3380,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5792,7 +5793,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14340,7 +14342,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17066,7 +17069,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19467,7 +19471,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20447,7 +20452,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20629,7 +20635,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21826,7 +21833,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22140,7 +22148,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23861,7 +23870,8 @@
         "county": "Desha",
         "sampleCount": 41,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

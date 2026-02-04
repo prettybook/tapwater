@@ -1,0 +1,307 @@
+{
+  "stateCode": "AS",
+  "stateName": "American Samoa",
+  "lastUpdated": "2026-02-03",
+  "cities": [
+    {
+      "slug": "fagasa",
+      "name": "Fagasa",
+      "county": null,
+      "populationServed": 577,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9711356",
+      "utilityName": "Fagasa ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9711356",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.69,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "vatia",
+      "name": "Vatia",
+      "county": null,
+      "populationServed": 460,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9710657",
+      "utilityName": "Vatia ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9710657",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 1.1,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "masefau-masausi-sailele",
+      "name": "Masefau, Masausi & Sailele",
+      "county": null,
+      "populationServed": 457,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9710855",
+      "utilityName": "Masefau ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9710855",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aunuu",
+      "name": "Aunu'u",
+      "county": null,
+      "populationServed": 402,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9310751",
+      "utilityName": "Aunuu ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9310751",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 8,
+        "healthBased": 1
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 2.0,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2018-H1",
+        "lastSampleDate": "2018-06-30"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "aoa",
+      "name": "Aoa",
+      "county": null,
+      "populationServed": 344,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9710652",
+      "utilityName": "Aoa ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9710652",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 2
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 3.02,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "afono",
+      "name": "Afono",
+      "county": null,
+      "populationServed": 327,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9710858",
+      "utilityName": "Afono ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9710858",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 5,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.61,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2016-H2",
+        "lastSampleDate": "2016-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "ofu-olosega",
+      "name": "Ofu - Olosega",
+      "county": null,
+      "populationServed": 270,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9430546",
+      "utilityName": "Ofu - Olosega ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9430546",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 13,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "tau-faleasao",
+      "name": "Ta'u & Faleasao",
+      "county": null,
+      "populationServed": 236,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9630243",
+      "utilityName": "Tau-Faleasao ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9630243",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 7,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "fitiuta",
+      "name": "Fitiuta",
+      "county": null,
+      "populationServed": 213,
+      "waterSystemCount": 1,
+      "primarySource": "Groundwater",
+      "pwsid": "AS9630145",
+      "utilityName": "Fitiuta ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9630145",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 6,
+        "healthBased": 0
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.6,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2022-H2",
+        "lastSampleDate": "2022-12-31"
+      },
+      "hardness": null
+    },
+    {
+      "slug": "tutuila",
+      "name": "Tutuila",
+      "county": null,
+      "populationServed": 0,
+      "waterSystemCount": 1,
+      "primarySource": "Ground Water Under Influence",
+      "pwsid": "AS9711948",
+      "utilityName": "Central ASG",
+      "epaUrl": "https://echo.epa.gov/detailed-facility-report?fid=AS9711948",
+      "allUtilities": null,
+      "violations3yr": {
+        "total": 185,
+        "healthBased": 3
+      },
+      "hasActiveViolations": true,
+      "leadAndCopper": {
+        "lead90thPercentile": 0.5,
+        "leadUnit": "ppb",
+        "leadActionLevel": 15.0,
+        "leadStatus": "good",
+        "copper90thPercentile": null,
+        "copperUnit": "ppm",
+        "copperActionLevel": 1.3,
+        "copperStatus": null,
+        "samplePeriod": "2019-H2",
+        "lastSampleDate": "2019-12-31"
+      },
+      "hardness": null
+    }
+  ]
+}

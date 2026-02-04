@@ -73,7 +73,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kalamazoo",
@@ -103,7 +112,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lansing",
@@ -178,7 +196,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -397,7 +416,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 233.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 92,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "canton-township",
@@ -621,7 +649,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -724,7 +753,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shelby-township",
@@ -908,7 +946,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1083,7 +1122,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "redford-township",
@@ -1257,7 +1305,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "saginaw",
@@ -1327,7 +1384,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1388,7 +1446,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chesterfield-township",
@@ -1454,7 +1521,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bloomfield-township",
@@ -1586,7 +1662,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "muskegon",
@@ -1623,7 +1708,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -1654,7 +1740,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "port-huron",
@@ -1684,7 +1779,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bay-city",
@@ -2119,7 +2223,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2222,7 +2327,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "wyandotte",
@@ -2397,7 +2511,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2639,7 +2754,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2677,7 +2793,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2715,7 +2832,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -2818,7 +2936,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "trenton",
@@ -2884,7 +3011,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "st-joseph",
@@ -3124,7 +3260,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "huron-twp",
@@ -3226,7 +3371,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "berkley",
@@ -3329,7 +3483,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3541,7 +3696,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -3609,7 +3765,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -3913,7 +4070,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clawson",
@@ -4022,7 +4188,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4053,7 +4220,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fort-gratiot-township",
@@ -4083,7 +4259,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "farmington",
@@ -4251,7 +4436,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "flat-rock",
@@ -4356,7 +4550,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "big-rapids",
@@ -4452,7 +4655,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Wexford",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "brighton",
@@ -4482,7 +4694,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alpena",
@@ -4608,7 +4829,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "muskegon-heights",
@@ -4645,7 +4875,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4676,7 +4907,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newport",
@@ -4706,7 +4946,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 233.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 92,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clay-township",
@@ -4736,7 +4985,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grosse-pointe-farms",
@@ -4911,7 +5169,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -4942,7 +5201,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lyon-township",
@@ -5015,7 +5283,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5113,7 +5382,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5151,7 +5421,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5189,7 +5460,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5329,7 +5601,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5360,7 +5633,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "highland-park",
@@ -5628,7 +5910,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5666,7 +5949,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5737,7 +6021,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5804,7 +6089,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grand-blanc",
@@ -5841,7 +6135,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5945,7 +6240,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -5976,7 +6272,16 @@
         "samplePeriod": "2025-H1",
         "lastSampleDate": "2025-06-30"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "st-johns",
@@ -6036,7 +6341,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "iron-mountain",
@@ -6073,7 +6387,8 @@
         "county": "Dickinson",
         "sampleCount": 75,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -6111,7 +6426,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6142,7 +6458,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kinross-township",
@@ -6238,7 +6563,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "muskegon-co-eastside",
@@ -6275,7 +6609,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6313,7 +6648,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6344,7 +6680,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "oscoda-township",
@@ -6470,7 +6815,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ishpeming",
@@ -6507,7 +6861,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -6784,7 +7139,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 233.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 92,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "allegan",
@@ -6821,7 +7185,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -6852,7 +7217,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "charter-township-of-alpena",
@@ -6949,7 +7323,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7027,7 +7402,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7160,7 +7536,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lansing-township",
@@ -7220,7 +7605,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kingsford",
@@ -7257,7 +7651,8 @@
         "county": "Dickinson",
         "sampleCount": 75,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7390,7 +7785,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 233.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 92,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ironwood",
@@ -7427,7 +7831,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7518,7 +7923,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "musk-co-northside",
@@ -7555,7 +7969,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7659,7 +8074,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7697,7 +8113,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7896,7 +8313,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gladstone",
@@ -7933,7 +8359,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -7964,7 +8391,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "negaunee",
@@ -8001,7 +8437,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8032,7 +8469,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fremont",
@@ -8099,7 +8545,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8173,7 +8620,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8214,7 +8662,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8281,7 +8730,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lowell",
@@ -8311,7 +8769,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sparta",
@@ -8341,7 +8808,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "otsego",
@@ -8378,7 +8854,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8409,7 +8886,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lathrup-village",
@@ -8482,7 +8968,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -8583,7 +9070,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8621,7 +9109,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8725,7 +9214,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8763,7 +9253,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8837,7 +9328,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8911,7 +9403,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8949,7 +9442,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -8991,7 +9485,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9052,7 +9547,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "imlay-city",
@@ -9089,7 +9593,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9192,7 +9697,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "essexville",
@@ -9292,7 +9806,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9323,7 +9838,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "carson-city",
@@ -9390,7 +9914,8 @@
         "county": "Dickinson",
         "sampleCount": 75,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -9421,7 +9946,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rockwood",
@@ -9494,7 +10028,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9525,7 +10060,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ferrysburg",
@@ -9555,7 +10099,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cottrellville-township",
@@ -9585,7 +10138,16 @@
         "samplePeriod": "2025-H2",
         "lastSampleDate": "2025-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "laketown-township",
@@ -9622,7 +10184,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -9696,7 +10259,8 @@
         "county": "Schoolcraft",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9786,7 +10350,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9914,7 +10479,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -9975,7 +10541,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "iron-river",
@@ -10073,7 +10648,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10140,7 +10716,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Mackinac",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "coloma",
@@ -10275,7 +10860,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "vicksburg",
@@ -10308,7 +10902,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gladwin",
@@ -10411,7 +11014,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10442,7 +11046,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "larkin-township",
@@ -10640,7 +11253,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-tawas",
@@ -10707,7 +11329,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10853,7 +11476,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10921,7 +11545,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10989,7 +11614,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11123,7 +11749,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11161,7 +11788,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11192,7 +11820,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "gwinn",
@@ -11229,7 +11866,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11267,7 +11905,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11449,7 +12088,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chesaning-village-of",
@@ -11509,7 +12157,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "au-sable-township",
@@ -11569,7 +12226,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "clinton",
@@ -11606,7 +12272,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11644,7 +12311,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11790,7 +12458,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11828,7 +12497,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -11866,7 +12536,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12042,7 +12713,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12080,7 +12752,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12256,7 +12929,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "perry",
@@ -12353,7 +13035,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12500,7 +13183,8 @@
         "county": "Kalkaska",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12623,7 +13307,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12650,7 +13335,8 @@
         "county": "Luce",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12681,7 +13367,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grass-lake",
@@ -12777,7 +13472,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "laurium",
@@ -12925,7 +13629,8 @@
         "county": "Crawford",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -12963,7 +13668,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13019,7 +13725,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "northville-crossing",
@@ -13056,7 +13771,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13222,7 +13938,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "southeast-oakland-township",
@@ -13288,7 +14013,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "nunica",
@@ -13318,7 +14052,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "brooklyn",
@@ -13395,7 +14138,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13499,7 +14243,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -13537,7 +14282,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13641,7 +14387,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13672,7 +14419,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "capac",
@@ -13691,7 +14447,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "evart",
@@ -13857,7 +14622,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13884,7 +14650,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13911,7 +14678,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13949,7 +14717,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -13987,7 +14756,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14054,7 +14824,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hemlockrichland-township",
@@ -14150,7 +14929,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "three-oaks",
@@ -14223,7 +15011,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -14261,7 +15050,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -14388,7 +15178,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 233.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 92,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "centreville-rr-name-centervil",
@@ -14418,7 +15217,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "birch-run-village-of",
@@ -14539,7 +15347,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "scottville",
@@ -14764,7 +15581,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -14917,7 +15735,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15075,7 +15894,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15113,7 +15933,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -15144,7 +15965,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Wexford",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "frankfort",
@@ -15170,7 +16000,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15471,7 +16302,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "birchwood-farms",
@@ -15501,7 +16341,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fraser-township",
@@ -15568,7 +16417,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15757,7 +16607,8 @@
         "county": "Dickinson",
         "sampleCount": 75,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -15788,7 +16639,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "kings-court-mobile-home-park",
@@ -15825,7 +16685,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -15863,7 +16724,8 @@
         "county": "Dickinson",
         "sampleCount": 75,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -15919,7 +16781,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "colon",
@@ -15949,7 +16820,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "thornton-farms",
@@ -15986,7 +16866,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16109,7 +16990,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -16147,7 +17029,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16185,7 +17068,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16216,7 +17100,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 233.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 92,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newberry-correctional-facility",
@@ -16253,7 +17146,8 @@
         "county": "Luce",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16284,7 +17178,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harrison",
@@ -16344,7 +17247,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bellaire",
@@ -16399,7 +17311,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "woodland-ridge",
@@ -16429,7 +17350,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "reading",
@@ -16466,7 +17396,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16757,7 +17688,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16795,7 +17727,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16826,7 +17759,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ridgewood-mobile-home-park-inc",
@@ -16918,7 +17860,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -16949,7 +17892,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lakeview",
@@ -17184,7 +18136,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17211,7 +18164,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17315,7 +18269,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17395,7 +18350,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "windmill-park",
@@ -17517,7 +18481,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17628,7 +18593,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sherman-oaks",
@@ -17767,7 +18741,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17798,7 +18773,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-park-village-condominiums",
@@ -17835,7 +18819,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -17866,7 +18851,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grant",
@@ -17951,7 +18945,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "onaway",
@@ -18007,7 +19010,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18105,7 +19109,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18172,7 +19177,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ubly-village-of",
@@ -18269,7 +19283,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18330,7 +19345,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Wexford",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "forestville-village-of",
@@ -18420,7 +19444,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "deckerville-village-of",
@@ -18510,7 +19543,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "coventry-woods-mhc",
@@ -18540,7 +19582,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cranberry-lake-mhc",
@@ -18602,7 +19653,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18644,7 +19696,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18822,7 +19875,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -18860,7 +19914,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -18906,7 +19961,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19011,7 +20067,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hidden-lakes-of-green-oaks",
@@ -19041,7 +20106,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "timberline-estates",
@@ -19078,7 +20152,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19116,7 +20191,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19226,7 +20302,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19264,7 +20341,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19284,7 +20362,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tekonsha",
@@ -19321,7 +20408,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19359,7 +20447,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19427,7 +20516,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19458,7 +20548,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "yankee-springs-meadows",
@@ -19488,7 +20587,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hickory-hills",
@@ -19525,7 +20633,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19618,7 +20727,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19645,7 +20755,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -19683,7 +20794,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -19939,7 +21051,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "baldwin-township",
@@ -20006,7 +21127,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20092,7 +21214,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stonegate-mobile-home-community",
@@ -20430,7 +21561,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20570,7 +21702,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20667,7 +21800,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mackinac-island",
@@ -20697,7 +21839,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Mackinac",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "byron",
@@ -20757,7 +21908,16 @@
         "samplePeriod": "2000-H2",
         "lastSampleDate": "2000-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stambaugh-township-west-brule",
@@ -20808,7 +21968,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -20846,7 +22007,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -20884,7 +22046,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -20915,7 +22078,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "thornapple-lake-estates",
@@ -20945,7 +22117,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "waldron",
@@ -20982,7 +22163,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21043,7 +22225,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Wexford",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "woods-and-fields-communities-east",
@@ -21159,7 +22350,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21197,7 +22389,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21271,7 +22464,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21309,7 +22503,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21414,7 +22609,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harrisville",
@@ -21474,7 +22678,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "countryside-village",
@@ -21541,7 +22754,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21579,7 +22793,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -21646,7 +22861,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cedarfield-mobile-home-park",
@@ -21676,7 +22900,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pewamo",
@@ -21773,7 +23006,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -21804,7 +23038,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "munising-industrial-park",
@@ -21906,7 +23149,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "powers",
@@ -22032,7 +23284,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mills-township",
@@ -22099,7 +23360,8 @@
         "county": "Luce",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22258,7 +23520,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22387,7 +23650,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -22414,7 +23678,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22488,7 +23753,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -22519,7 +23785,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "crockery-mobile-home-park",
@@ -22549,7 +23824,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "albee-township",
@@ -22634,7 +23918,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "college-heights-mobile-home-park",
@@ -22781,7 +24074,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22819,7 +24113,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22857,7 +24152,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -22877,7 +24173,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mesick",
@@ -22907,7 +24212,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Wexford",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "indian-village",
@@ -22973,7 +24287,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ewen",
@@ -23028,7 +24351,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "penny-lake-estates-subdivision",
@@ -23197,7 +24529,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -23235,7 +24568,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23296,7 +24630,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "parma-township-amberton-vill",
@@ -23405,7 +24748,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23443,7 +24787,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23481,7 +24826,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23555,7 +24901,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23654,7 +25001,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23692,7 +25040,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23723,7 +25072,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "leisure-village",
@@ -23753,7 +25111,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "eaton-green-estates-subdivision",
@@ -23839,7 +25206,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23870,7 +25238,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "silver-shores-mobile-home-park",
@@ -23896,7 +25273,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -23993,7 +25371,16 @@
         "samplePeriod": "2015-H2",
         "lastSampleDate": "2015-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "amasa",
@@ -24132,7 +25519,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24361,7 +25749,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "greens-lake-apartments",
@@ -24416,7 +25813,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "thornapple-manor",
@@ -24446,7 +25852,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-isabella",
@@ -24502,7 +25917,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24570,7 +25986,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24597,7 +26014,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24671,7 +26089,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24711,7 +26130,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -24749,7 +26169,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24776,7 +26197,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24814,7 +26236,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -24845,7 +26268,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "whiteford-township",
@@ -24875,7 +26307,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 233.5,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Monroe",
+        "sampleCount": 92,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "chatham",
@@ -24951,7 +26392,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25018,7 +26460,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "old-orchard-estates",
@@ -25055,7 +26506,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25157,7 +26609,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "iron-river-township-ryden-road",
@@ -25266,7 +26727,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25297,7 +26759,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "stoddard-mobile-home-court",
@@ -25353,7 +26824,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25391,7 +26863,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -25422,7 +26895,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "austin-commons-ii",
@@ -25459,7 +26941,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25589,7 +27072,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25620,7 +27104,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "long-lake-village-subdivision",
@@ -25759,7 +27252,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -25786,7 +27280,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -25817,7 +27312,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "the-peninsula-development-llc",
@@ -25847,7 +27351,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tallmadge-meadows",
@@ -25877,7 +27390,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "washington-mhp",
@@ -25943,7 +27465,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "ely-township-greenwood",
@@ -25980,7 +27511,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26018,7 +27550,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26056,7 +27589,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26123,7 +27657,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sunset-mobile-home-park",
@@ -26190,7 +27733,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26228,7 +27772,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26259,7 +27804,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "franklin-quincy",
@@ -26321,7 +27875,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26395,7 +27950,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26499,7 +28055,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26526,7 +28083,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26564,7 +28122,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -26595,7 +28154,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "eastern-michigan-nazarene-district-cente",
@@ -26625,7 +28193,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hemingway-pointe-club-owners-association",
@@ -26662,7 +28239,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -26730,7 +28308,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -26780,7 +28359,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "white-birch-mobile-home-village",
@@ -26817,7 +28405,8 @@
         "county": "Dickinson",
         "sampleCount": 75,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -26957,7 +28546,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27061,7 +28651,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27092,7 +28683,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "northwoods-community",
@@ -27159,7 +28759,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27215,7 +28816,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "village-east-estates",
@@ -27252,7 +28862,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -27345,7 +28956,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27412,7 +29024,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mystic-ridge-llc",
@@ -27442,7 +29063,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "white-eagle-subdivision",
@@ -27515,7 +29145,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27643,7 +29274,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27663,7 +29295,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sandpiper-estates",
@@ -27730,7 +29371,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27800,7 +29442,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27820,7 +29463,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bergland",
@@ -27922,7 +29574,16 @@
         "samplePeriod": "2001-H2",
         "lastSampleDate": "2001-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "leffingwell-estates",
@@ -27959,7 +29620,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -27990,7 +29652,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "bay-shore-estates",
@@ -28020,7 +29691,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pine-crest-mobile-home-park",
@@ -28099,7 +29779,16 @@
         "samplePeriod": "2010-H2",
         "lastSampleDate": "2010-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "carney",
@@ -28154,7 +29843,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "copper-harbor",
@@ -28227,7 +29925,8 @@
         "county": "Schoolcraft",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28349,7 +30048,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "minden-city-village-of",
@@ -28416,7 +30124,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28454,7 +30163,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28485,7 +30195,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "regency-at-whitmore-lake",
@@ -28522,7 +30241,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28585,7 +30305,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28623,7 +30344,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28661,7 +30383,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28722,7 +30445,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-forest-park",
@@ -28789,7 +30521,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -28907,7 +30640,8 @@
         "county": "Dickinson",
         "sampleCount": 75,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -28957,7 +30691,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "waters-edge-mh-community",
@@ -28994,7 +30737,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29025,7 +30769,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pointe-aux-barques-township",
@@ -29122,7 +30875,8 @@
         "county": "Gogebic",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -29287,7 +31041,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "np-creek-valley-north",
@@ -29313,7 +31076,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29381,7 +31145,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29408,7 +31173,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29505,7 +31271,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "conway-commons-mobile-home-park",
@@ -29535,7 +31310,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shangrai-la-village",
@@ -29572,7 +31356,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -29649,7 +31434,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29716,7 +31502,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hess-lake-rv-and-mobile-home-park",
@@ -29849,7 +31644,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -29917,7 +31713,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -29955,7 +31752,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -29986,7 +31784,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "baltimore-terrace",
@@ -30016,7 +31823,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cricklewood-court",
@@ -30046,7 +31862,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "east-bay-mobile-home-park",
@@ -30072,7 +31897,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30146,7 +31972,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30177,7 +32004,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sugar-loaf-townhouses",
@@ -30214,7 +32050,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30318,7 +32155,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30349,7 +32187,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "university-mobile-estates-2",
@@ -30379,7 +32226,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fairview",
@@ -30439,7 +32295,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "shady-acres-community-llc",
@@ -30476,7 +32341,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30580,7 +32446,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -30641,7 +32508,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hardy-park",
@@ -30774,7 +32650,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30812,7 +32689,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30843,7 +32721,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "green-acres-mobile-home-park",
@@ -30873,7 +32760,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pullman",
@@ -30913,7 +32809,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -30933,7 +32830,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lakeshore-village-subdivision",
@@ -30963,7 +32869,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "grand-country",
@@ -30993,7 +32908,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "acme-township-hope-village",
@@ -31030,7 +32954,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31068,7 +32993,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31088,7 +33014,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "amber-estates-mobile-home-park",
@@ -31125,7 +33060,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -31156,7 +33092,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "barrys-resort",
@@ -31186,7 +33131,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "circle-drive-mobile-home-park",
@@ -31253,7 +33207,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31515,7 +33470,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31546,7 +33502,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "whispering-pines-estates",
@@ -31583,7 +33548,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31614,7 +33580,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cedar-creek-township",
@@ -31644,7 +33619,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Wexford",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mitchell-brothers-mobile-home-park",
@@ -31681,7 +33665,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31755,7 +33740,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -31793,7 +33779,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31860,7 +33847,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "landings-at-cranes-cove",
@@ -31897,7 +33893,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -31958,7 +33955,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lakeshore-village",
@@ -32124,7 +34130,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -32162,7 +34169,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -32304,7 +34312,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32342,7 +34351,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32380,7 +34390,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32407,7 +34418,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32474,7 +34486,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "brook-of-houghton-lake",
@@ -32541,7 +34562,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32568,7 +34590,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32606,7 +34629,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -32641,7 +34665,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "golden-pond-estates",
@@ -32671,7 +34704,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "oakview-mobile-estates",
@@ -32786,7 +34828,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "allegan-mobile-estates",
@@ -32823,7 +34874,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -32890,7 +34942,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "glenn-haven-shores",
@@ -32927,7 +34988,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -32977,7 +35039,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hearthside-grove-motor-coach-resort",
@@ -33007,7 +35078,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "homecrest-villa-mobile-home-park",
@@ -33044,7 +35124,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -33111,7 +35192,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "michiana-mobile-home-park",
@@ -33141,7 +35231,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "north-dort-manor-ltd",
@@ -33178,7 +35277,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33198,7 +35298,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "remus-apartment-company",
@@ -33243,7 +35352,8 @@
         "county": "Schoolcraft",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33274,7 +35384,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "swan-lake-mobile-estates",
@@ -33311,7 +35430,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -33385,7 +35505,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33453,7 +35574,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33491,7 +35613,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33511,7 +35634,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "highfields-youth-camp",
@@ -33650,7 +35782,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -33711,7 +35844,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "woodruff-lake-cooperative",
@@ -33741,7 +35883,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "evergreen-pleasant-valley-trailer-park",
@@ -33808,7 +35959,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -33930,7 +36082,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "corewell-health-berrien-cntr",
@@ -34056,7 +36217,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "loon-lake-mobile-home-park",
@@ -34093,7 +36263,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34215,7 +36386,16 @@
         "samplePeriod": "1996-H2",
         "lastSampleDate": "1996-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "treetops-resort-treetops-north",
@@ -34252,7 +36432,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34326,7 +36507,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34357,7 +36539,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "yoder-apartments",
@@ -34406,7 +36597,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "indian-acres-mobile-home-park",
@@ -34443,7 +36643,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -34511,7 +36712,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34585,7 +36787,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34616,7 +36819,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alabaster-township",
@@ -34676,7 +36888,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "town-and-country-mhp",
@@ -34706,7 +36927,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "villa-at-green-lake-estates",
@@ -34791,7 +37021,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lakeshore-east-condominiums",
@@ -34872,7 +37111,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34940,7 +37180,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -34971,7 +37212,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 278.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Clair",
+        "sampleCount": 79,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cambridge-village",
@@ -35044,7 +37294,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35101,7 +37352,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35132,7 +37384,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "lake-michigan-beach-resort-pottawattamie",
@@ -35274,7 +37535,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35335,7 +37597,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 351.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "St. Joseph",
+        "sampleCount": 4,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "buena-vista-estates",
@@ -35372,7 +37643,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35403,7 +37675,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "country-village",
@@ -35433,7 +37714,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Ottawa",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "meadow-woods-nr-center",
@@ -35470,7 +37760,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35541,7 +37832,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -35579,7 +37871,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35610,7 +37903,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 168.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Wexford",
+        "sampleCount": 412,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rolling-meadows",
@@ -35647,7 +37949,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35710,7 +38013,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35773,7 +38077,8 @@
         "county": "Crawford",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -35853,7 +38158,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "leelanau-co-law-enforcement-center",
@@ -35890,7 +38204,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36000,7 +38315,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36038,7 +38354,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36065,7 +38382,8 @@
         "county": "Lapeer",
         "sampleCount": 79,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36103,7 +38421,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36171,7 +38490,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36238,7 +38558,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "york-condominiums",
@@ -36275,7 +38604,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36313,7 +38643,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36374,7 +38705,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "marble-lake-resort-marina",
@@ -36477,7 +38817,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36581,7 +38922,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36631,7 +38973,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "quiet-cove-trailer-park",
@@ -36723,7 +39074,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -36791,7 +39143,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -36882,7 +39235,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hartland-hills-condominiums",
@@ -36912,7 +39274,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "au-gres-township",
@@ -36998,7 +39369,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37025,7 +39397,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37045,7 +39418,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "foxfield-apartments",
@@ -37075,7 +39457,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "harbor-hills-subdivision-association",
@@ -37105,7 +39496,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "island-lake-apartments",
@@ -37135,7 +39535,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "sheridan-estates",
@@ -37233,7 +39642,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "somerset-mobile-home-park",
@@ -37306,7 +39724,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37380,7 +39799,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -37411,7 +39831,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "king-nursing-rehabilitation-community",
@@ -37497,7 +39926,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37560,7 +39990,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37653,7 +40084,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37691,7 +40123,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37729,7 +40162,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -37767,7 +40201,8 @@
         "county": "Washtenaw",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37805,7 +40240,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -37902,7 +40338,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fairlawn-meadows",
@@ -37921,7 +40366,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pinecrest-apartments",
@@ -37987,7 +40441,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "country-living-adult-foster-care",
@@ -38024,7 +40487,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38051,7 +40515,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38126,7 +40591,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "pinehurst-apartments",
@@ -38152,7 +40626,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38190,7 +40665,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38228,7 +40704,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38248,7 +40725,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "boynaire-landowners-association",
@@ -38278,7 +40764,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fife-lake-townhouses",
@@ -38315,7 +40810,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38342,7 +40838,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38380,7 +40877,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38467,7 +40965,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38541,7 +41040,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -38579,7 +41079,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38610,7 +41111,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 153.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kent",
+        "sampleCount": 184,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "alanson-estates-mobile-home-park",
@@ -38640,7 +41150,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "autumn-hills",
@@ -38727,7 +41246,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38765,7 +41285,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38803,7 +41324,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -38871,7 +41393,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39011,7 +41534,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39038,7 +41562,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39126,7 +41651,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39157,7 +41683,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Mackinac",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "mack-co-housing-engadine",
@@ -39176,7 +41711,16 @@
       },
       "hasActiveViolations": true,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Mackinac",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "maple-leaf-village",
@@ -39243,7 +41787,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39281,7 +41826,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39349,7 +41895,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39387,7 +41934,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39444,7 +41992,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39537,7 +42086,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -39568,7 +42118,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "hillside-acres",
@@ -39605,7 +42164,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39740,7 +42300,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "rapid-river-meadows",
@@ -39777,7 +42346,8 @@
         "county": "Kalkaska",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -39815,7 +42385,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -40064,7 +42635,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40102,7 +42674,8 @@
         "county": "Van Buren",
         "sampleCount": 148,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40176,7 +42749,8 @@
         "county": "Benzie",
         "sampleCount": 412,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40207,7 +42781,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "country-place-senior-care-center",
@@ -40263,7 +42846,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40301,7 +42885,8 @@
         "county": "Grand Traverse",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40375,7 +42960,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -40406,7 +42992,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 304.0,
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "county": "Livingston",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "highland-havenwoodside-apts",
@@ -40493,7 +43088,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -40560,7 +43156,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "vicinia-gardens",
@@ -40597,7 +43202,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41016,7 +43622,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41090,7 +43697,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41121,7 +43729,16 @@
         "samplePeriod": "2012-H2",
         "lastSampleDate": "2012-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "roseville-apartments",
@@ -41181,7 +43798,16 @@
         "samplePeriod": "2022-H2",
         "lastSampleDate": "2022-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "tj-white-pine-manor-apartments",
@@ -41326,7 +43952,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 133.4,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Kalamazoo",
+        "sampleCount": 154,
+        "isNeighborEstimate": true,
+        "neighborCount": 2,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "deer-park-condominiums",
@@ -41479,7 +44114,8 @@
         "county": "Charlevoix",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41536,7 +44172,8 @@
         "county": "Lenawee",
         "sampleCount": 92,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41574,7 +44211,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -41624,7 +44262,16 @@
       },
       "hasActiveViolations": false,
       "leadAndCopper": null,
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Emmet",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "indian-river-mhp",
@@ -41654,7 +44301,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 178.0,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Cheboygan",
+        "sampleCount": 1,
+        "isNeighborEstimate": true,
+        "neighborCount": 1,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "idlewild-garden-housing",
@@ -41735,7 +44391,8 @@
         "county": "Muskegon",
         "sampleCount": 30,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41869,7 +44526,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -41907,7 +44565,8 @@
         "county": "Leelanau",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -41945,7 +44604,8 @@
         "county": "Delta",
         "sampleCount": 204,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -42002,7 +44662,8 @@
         "county": "Otsego",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42226,7 +44887,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 142.7,
+        "unit": "ppm",
+        "classification": "Hard",
+        "county": "Barry",
+        "sampleCount": 163,
+        "isNeighborEstimate": true,
+        "neighborCount": 3,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "northern-pines",
@@ -42329,7 +44999,8 @@
         "county": "Hillsdale",
         "sampleCount": 20,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42397,7 +45068,8 @@
         "county": "Allegan",
         "sampleCount": 154,
         "isNeighborEstimate": true,
-        "neighborCount": 2
+        "neighborCount": 2,
+        "neighborDegree": 1
       }
     },
     {
@@ -42443,7 +45115,8 @@
         "county": "Genesee",
         "sampleCount": 1,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42481,7 +45154,8 @@
         "county": "Calhoun",
         "sampleCount": 9,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -42593,7 +45267,8 @@
         "county": "Marquette",
         "sampleCount": 24,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {

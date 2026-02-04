@@ -493,7 +493,16 @@
         "samplePeriod": "2020-H2",
         "lastSampleDate": "2020-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 77.1,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Prince George's",
+        "sampleCount": 1127,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "freedom-district",
@@ -1038,7 +1047,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -1605,7 +1615,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -1920,7 +1931,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -2138,7 +2150,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -2464,7 +2477,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3139,7 +3153,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3670,7 +3685,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -3938,7 +3954,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4048,7 +4065,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -4626,7 +4644,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -4754,7 +4773,16 @@
         "samplePeriod": "2024-H2",
         "lastSampleDate": "2024-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 77.1,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Prince George's",
+        "sampleCount": 1127,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "fairmount",
@@ -6178,7 +6206,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -6432,7 +6461,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -6470,7 +6500,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -6508,7 +6539,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -6535,7 +6567,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -6891,7 +6924,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7037,7 +7071,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7111,7 +7146,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7149,7 +7185,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7284,7 +7321,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -7315,7 +7353,16 @@
         "samplePeriod": "2021-H2",
         "lastSampleDate": "2021-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 77.1,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Prince George's",
+        "sampleCount": 1127,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "newark",
@@ -7496,7 +7543,8 @@
         "county": "Howard",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -7671,7 +7719,16 @@
         "samplePeriod": "2023-H2",
         "lastSampleDate": "2023-12-31"
       },
-      "hardness": null
+      "hardness": {
+        "value": 77.1,
+        "unit": "ppm",
+        "classification": "Moderate",
+        "county": "Prince George's",
+        "sampleCount": 1127,
+        "isNeighborEstimate": true,
+        "neighborCount": 4,
+        "neighborDegree": 2
+      }
     },
     {
       "slug": "cedar-mobile-home-park",
@@ -8068,7 +8125,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -8491,7 +8549,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -8997,7 +9056,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -9240,7 +9300,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -9386,7 +9447,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -9856,7 +9918,8 @@
         "county": "Howard",
         "sampleCount": 18,
         "isNeighborEstimate": true,
-        "neighborCount": 1
+        "neighborCount": 1,
+        "neighborDegree": 1
       }
     },
     {
@@ -10104,7 +10167,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -11006,7 +11070,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -11080,7 +11145,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -11372,7 +11438,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -11698,7 +11765,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -12204,7 +12272,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -12242,7 +12311,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -12964,7 +13034,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -13002,7 +13073,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -13148,7 +13220,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -13787,7 +13860,8 @@
         "county": "Calvert",
         "sampleCount": 21,
         "isNeighborEstimate": true,
-        "neighborCount": 3
+        "neighborCount": 3,
+        "neighborDegree": 1
       }
     },
     {
@@ -14714,7 +14788,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
@@ -15292,7 +15367,8 @@
         "county": "Baltimore",
         "sampleCount": 840,
         "isNeighborEstimate": true,
-        "neighborCount": 4
+        "neighborCount": 4,
+        "neighborDegree": 1
       }
     },
     {
