@@ -551,8 +551,17 @@ export default async function CityPage({ params }: CityPageProps) {
 
                     {city.hardness.sampleCount && (
                       <p className="text-sm text-brand-900/50">
-                        Based on {city.hardness.sampleCount} water samples
-                        {city.hardness.county && ` from ${city.hardness.county} County`}.
+                        {hasMunicipalData && waterQualityData?.source.sourceName ? (
+                          <>
+                            Based on {city.hardness.sampleCount} samples from{' '}
+                            {waterQualityData.source.sourceName} ({waterQualityData.source.dataYear})
+                          </>
+                        ) : (
+                          <>
+                            Based on {city.hardness.sampleCount} water samples
+                            {city.hardness.county && ` from ${city.hardness.county} County`}
+                          </>
+                        )}
                       </p>
                     )}
                   </div>
