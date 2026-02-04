@@ -6,7 +6,7 @@ excerpt: "You got a number from your water report or a test strip — now you ne
 category: "Guides"
 date: "2026-02-04"
 readingTime: 9
-image: "/blog/water-hardness-scale-chart.svg"
+image: "/blog/water-hardness-scale.jpg"
 imageAlt: "Water hardness scale chart showing PPM and GPG classifications"
 faqs:
   - question: "What is considered hard water in PPM?"
