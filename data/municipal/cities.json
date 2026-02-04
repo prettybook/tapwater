@@ -1,0 +1,819 @@
+{
+  "version": "2024-01",
+  "lastUpdated": "2026-02-04",
+  "description": "Municipal tap water quality data from official Consumer Confidence Reports",
+  "cities": [
+    {
+      "state": "CA",
+      "city": "SAN FRANCISCO",
+      "pwsid": "CA3810001",
+      "utilityName": "San Francisco Public Utilities Commission",
+      "hardness": {
+        "value": 60,
+        "range": [8.4, 106],
+        "unit": "ppm",
+        "classification": "Soft",
+        "source": "SFPUC 2024 Annual Water Quality Report",
+        "sourceUrl": "https://www.sfpuc.gov/sites/default/files/accounts-and-services/water-quality/EN_SF_2024.pdf",
+        "reportYear": "2024"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 4.9,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "phg": 0.2,
+          "exceedsMCL": false,
+          "range": [1, 8.8]
+        },
+        {
+          "name": "Copper",
+          "value": 72,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "phg": 300,
+          "exceedsMCL": false,
+          "range": [0, 152]
+        },
+        {
+          "name": "Chromium (VI)",
+          "value": 0.1,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 10,
+          "phg": 0.02,
+          "exceedsMCL": false,
+          "range": [0, 0.2]
+        },
+        {
+          "name": "Fluoride",
+          "value": 0.3,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 2.0,
+          "phg": 1,
+          "exceedsMCL": false,
+          "range": [0, 0.8]
+        },
+        {
+          "name": "Nitrate (as N)",
+          "value": 0,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 10,
+          "phg": 10,
+          "exceedsMCL": false,
+          "range": [0, 0.4],
+          "note": "ND"
+        },
+        {
+          "name": "Chloramine",
+          "value": 2.6,
+          "unit": "ppm",
+          "average": true,
+          "mrdl": 4.0,
+          "mrdlg": 4,
+          "exceedsMCL": false,
+          "range": [0.1, 3.5]
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "city": "LOS ANGELES",
+      "pwsid": "CA1910067",
+      "utilityName": "Los Angeles Department of Water and Power",
+      "hardness": {
+        "value": 112,
+        "range": [109, 113],
+        "unit": "ppm",
+        "classification": "Moderate",
+        "source": "LADWP 2024 Water Quality Report",
+        "sourceUrl": "https://www.ladwp.com/water-quality-report",
+        "reportYear": "2024"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 5,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "phg": 0.2,
+          "exceedsMCL": false,
+          "note": "ND (<5)"
+        },
+        {
+          "name": "Copper",
+          "value": 529,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "phg": 300,
+          "exceedsMCL": false
+        },
+        {
+          "name": "Chromium (VI)",
+          "value": 0.1,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 10,
+          "phg": 0.02,
+          "exceedsMCL": false,
+          "note": "ND (<0.1)"
+        },
+        {
+          "name": "Fluoride",
+          "value": 0.8,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 2.0,
+          "phg": 1,
+          "exceedsMCL": false,
+          "range": [0.7, 0.9]
+        },
+        {
+          "name": "Nitrate (as N)",
+          "value": 0.4,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 10,
+          "phg": 10,
+          "exceedsMCL": false,
+          "note": "ND (<0.4)"
+        },
+        {
+          "name": "Haloacetic Acids (Five)",
+          "value": 14.9,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 60,
+          "exceedsMCL": false,
+          "range": [3.6, 16.3]
+        },
+        {
+          "name": "Total Trihalomethanes",
+          "value": 34.4,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 80,
+          "exceedsMCL": false,
+          "range": [13.9, 35.8]
+        },
+        {
+          "name": "Chloride",
+          "value": 34,
+          "unit": "ppm",
+          "average": true,
+          "smcl": 500,
+          "exceedsMCL": false,
+          "range": [31, 36]
+        },
+        {
+          "name": "Sulfate",
+          "value": 48,
+          "unit": "ppm",
+          "average": true,
+          "smcl": 500,
+          "exceedsMCL": false,
+          "range": [47, 50]
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "city": "AUSTIN",
+      "pwsid": "TX1010013",
+      "utilityName": "Austin Water",
+      "hardness": {
+        "value": 114,
+        "range": [109, 119],
+        "unit": "ppm",
+        "classification": "Moderate",
+        "source": "Austin Water 2024 Consumer Confidence Report",
+        "sourceUrl": "https://www.austintexas.gov/department/water-quality-reports",
+        "reportYear": "2024"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 1.0,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "exceedsMCL": false,
+          "note": "ND (<1.0)"
+        },
+        {
+          "name": "Copper",
+          "value": 8,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "exceedsMCL": false,
+          "note": "ND (<0.008 ppm)"
+        },
+        {
+          "name": "Fluoride",
+          "value": 0.57,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 4.0,
+          "mclg": 4,
+          "exceedsMCL": false,
+          "range": [0.21, 0.81]
+        },
+        {
+          "name": "Nitrate (as Nitrogen)",
+          "value": 0.10,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 10,
+          "mclg": 10,
+          "exceedsMCL": false,
+          "range": [0.09, 0.10]
+        },
+        {
+          "name": "Haloacetic Acids (HAA5)",
+          "value": 10.1,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 60,
+          "exceedsMCL": false,
+          "range": [6.1, 15.7]
+        },
+        {
+          "name": "Total Trihalomethanes (TTHM)",
+          "value": 38.6,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 80,
+          "exceedsMCL": false,
+          "range": [25.5, 54.7]
+        },
+        {
+          "name": "Chloramines",
+          "value": 2.29,
+          "unit": "ppm",
+          "average": true,
+          "mrdl": 4.0,
+          "mrdlg": 4,
+          "exceedsMCL": false,
+          "range": [0.46, 3.10]
+        },
+        {
+          "name": "Barium",
+          "value": 0.012,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 2,
+          "mclg": 2,
+          "exceedsMCL": false,
+          "range": [0.010, 0.015]
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "city": "SAN DIEGO",
+      "pwsid": "CA3710001",
+      "utilityName": "City of San Diego Public Utilities Department",
+      "hardness": {
+        "value": 225,
+        "range": [172, 248],
+        "unit": "ppm",
+        "classification": "Hard",
+        "source": "City of San Diego 2024 Water Quality Report",
+        "sourceUrl": "https://www.sandiego.gov/public-utilities/sustainability/water-quality",
+        "reportYear": "2024",
+        "note": "Average across three treatment plants (Alvarado: 216, Miramar: 229, Otay: 230)"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 5,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "phg": 0.2,
+          "exceedsMCL": false,
+          "note": "ND (Non-Detectable)"
+        },
+        {
+          "name": "Copper",
+          "value": 600,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "phg": 300,
+          "exceedsMCL": false
+        },
+        {
+          "name": "Chloride",
+          "value": 116,
+          "unit": "ppm",
+          "average": true,
+          "smcl": 500,
+          "exceedsMCL": false,
+          "range": [77.1, 199],
+          "note": "Average across treatment plants"
+        },
+        {
+          "name": "Sulfate",
+          "value": 146,
+          "unit": "ppm",
+          "average": true,
+          "smcl": 500,
+          "exceedsMCL": false,
+          "range": [80.8, 207],
+          "note": "Average across treatment plants"
+        },
+        {
+          "name": "Total Dissolved Solids",
+          "value": 525,
+          "unit": "ppm",
+          "average": true,
+          "smcl": 1000,
+          "exceedsMCL": false,
+          "range": [367, 614]
+        },
+        {
+          "name": "Haloacetic Acids (HAA5)",
+          "value": 15,
+          "unit": "ppb",
+          "mcl": 60,
+          "exceedsMCL": false,
+          "range": [0, 23.7],
+          "note": "Maximum LRAA"
+        },
+        {
+          "name": "Total Trihalomethanes (TTHM)",
+          "value": 49,
+          "unit": "ppb",
+          "mcl": 80,
+          "exceedsMCL": false,
+          "range": [8.2, 64.1],
+          "note": "Maximum LRAA"
+        },
+        {
+          "name": "Chloramines",
+          "value": 1.73,
+          "unit": "ppm",
+          "average": true,
+          "mrdl": 4.0,
+          "mrdlg": 4,
+          "exceedsMCL": false,
+          "range": [0, 3.80]
+        }
+      ]
+    },
+    {
+      "state": "AZ",
+      "city": "PHOENIX",
+      "pwsid": "AZ0400015",
+      "utilityName": "City of Phoenix Water Services Department",
+      "hardness": {
+        "value": 251,
+        "range": [158, 344],
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "source": "City of Phoenix 2024 Water Quality Report",
+        "sourceUrl": "https://www.phoenix.gov/waterservices/waterquality",
+        "reportYear": "2024"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 3,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "exceedsMCL": false,
+          "range": [0, 41.8],
+          "note": "2 out of 56 sites above AL"
+        },
+        {
+          "name": "Copper",
+          "value": 300,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "exceedsMCL": false,
+          "range": [40, 500]
+        },
+        {
+          "name": "Arsenic",
+          "value": 6,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 10,
+          "mclg": 0,
+          "exceedsMCL": false,
+          "range": [0, 8.3]
+        },
+        {
+          "name": "Fluoride",
+          "value": 0.55,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 4.0,
+          "mclg": 4,
+          "exceedsMCL": false,
+          "range": [0.3, 0.8]
+        },
+        {
+          "name": "Nitrate (as N)",
+          "value": 4.3,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 10,
+          "mclg": 10,
+          "exceedsMCL": false,
+          "range": [0, 8.2]
+        },
+        {
+          "name": "Total Trihalomethanes (TTHM)",
+          "value": 60,
+          "unit": "ppb",
+          "mcl": 80,
+          "exceedsMCL": false,
+          "range": [4, 59],
+          "note": "Highest LRAA"
+        },
+        {
+          "name": "Haloacetic Acids (HAA5)",
+          "value": 17,
+          "unit": "ppb",
+          "mcl": 60,
+          "exceedsMCL": false,
+          "range": [0.5, 25],
+          "note": "Highest LRAA"
+        },
+        {
+          "name": "Chlorine",
+          "value": 0.83,
+          "unit": "ppm",
+          "average": true,
+          "mrdl": 4.0,
+          "mrdlg": 4,
+          "exceedsMCL": false,
+          "range": [0.17, 1.95]
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "city": "HOUSTON",
+      "pwsid": "TX1010013",
+      "utilityName": "Houston Water",
+      "hardness": {
+        "value": 110,
+        "range": [43.4, 137],
+        "unit": "ppm",
+        "classification": "Moderate",
+        "source": "Houston Water 2024 Quality Report",
+        "sourceUrl": "https://houstonpublicworks.org/unregulated-contaminant-monitoring-rule-ucmr",
+        "reportYear": "2024"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 4.4,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "exceedsMCL": false,
+          "note": "9 samples above 15 ppb"
+        },
+        {
+          "name": "Copper",
+          "value": 250,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "exceedsMCL": false,
+          "note": "2 samples above 1.3 ppm"
+        },
+        {
+          "name": "Arsenic",
+          "value": 1.8,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 10,
+          "mclg": 0,
+          "exceedsMCL": false,
+          "range": [0, 9.9]
+        },
+        {
+          "name": "Fluoride",
+          "value": 0.21,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 4.0,
+          "mclg": 4,
+          "exceedsMCL": false,
+          "range": [0.11, 0.28]
+        },
+        {
+          "name": "Nitrate",
+          "value": 0.21,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 10,
+          "mclg": 10,
+          "exceedsMCL": false,
+          "range": [0, 0.95]
+        },
+        {
+          "name": "Barium",
+          "value": 0.12,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 2,
+          "mclg": 2,
+          "exceedsMCL": false,
+          "range": [0.04, 0.36]
+        },
+        {
+          "name": "Haloacetic Acids (HAA5)",
+          "value": 39,
+          "unit": "ppb",
+          "mcl": 60,
+          "exceedsMCL": false,
+          "range": [0, 50.4],
+          "note": "Highest LRAA"
+        },
+        {
+          "name": "Total Trihalomethanes (TTHM)",
+          "value": 45,
+          "unit": "ppb",
+          "mcl": 80,
+          "exceedsMCL": false,
+          "range": [0, 48.5],
+          "note": "Highest LRAA"
+        },
+        {
+          "name": "Chloramines",
+          "value": 3.0,
+          "unit": "ppm",
+          "average": true,
+          "mrdl": 4.0,
+          "mrdlg": 4,
+          "exceedsMCL": false,
+          "range": [0.03, 5.4]
+        }
+      ]
+    },
+    {
+      "state": "IL",
+      "city": "CHICAGO",
+      "pwsid": "IL1000600",
+      "utilityName": "City of Chicago Department of Water Management",
+      "hardness": {
+        "value": 148,
+        "range": [130, 150],
+        "unit": "ppm",
+        "classification": "Hard",
+        "source": "Chicago Water Quality Report 2024 + City of Chicago Official Data",
+        "sourceUrl": "https://www.chicago.gov/city/en/depts/water/supp_info/water_quality_resultsandreports.html",
+        "reportYear": "2024"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 7.1,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "exceedsMCL": false,
+          "range": [0.69, 12]
+        },
+        {
+          "name": "Copper",
+          "value": 52,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "exceedsMCL": false,
+          "range": [0, 38],
+          "note": "Range: <0.01-0.038 ppm"
+        },
+        {
+          "name": "Barium",
+          "value": 0.0203,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 2,
+          "mclg": 2,
+          "exceedsMCL": false
+        },
+        {
+          "name": "Nitrate",
+          "value": 0.39,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 10,
+          "mclg": 10,
+          "exceedsMCL": false
+        },
+        {
+          "name": "Fluoride",
+          "value": 0.76,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 4.0,
+          "mclg": 4,
+          "exceedsMCL": false
+        },
+        {
+          "name": "Total Trihalomethanes (TTHM)",
+          "value": 32.6,
+          "unit": "ppb",
+          "mcl": 80,
+          "exceedsMCL": false,
+          "range": [15.9, 51.0],
+          "note": "LRAA"
+        },
+        {
+          "name": "Haloacetic Acids (HAA5)",
+          "value": 16.4,
+          "unit": "ppb",
+          "mcl": 60,
+          "exceedsMCL": false,
+          "range": [6.0, 26.9],
+          "note": "LRAA"
+        },
+        {
+          "name": "Chlorine",
+          "value": 1.0,
+          "unit": "ppm",
+          "average": true,
+          "mrdl": 4.0,
+          "mrdlg": 4,
+          "exceedsMCL": false
+        },
+        {
+          "name": "Sulfate",
+          "value": 28.2,
+          "unit": "ppm",
+          "average": true,
+          "smcl": 500,
+          "exceedsMCL": false
+        },
+        {
+          "name": "Sodium",
+          "value": 9.18,
+          "unit": "ppm",
+          "average": true,
+          "exceedsMCL": false,
+          "note": "Unregulated contaminant"
+        }
+      ]
+    },
+    {
+      "state": "NV",
+      "city": "LAS VEGAS",
+      "pwsid": "NV0000407",
+      "utilityName": "Las Vegas Valley Water District",
+      "hardness": {
+        "value": 291,
+        "range": [291, 291],
+        "unit": "ppm",
+        "classification": "Very Hard",
+        "source": "LVVWD 2025 Water Quality Report",
+        "sourceUrl": "https://www.lvvwd.com",
+        "reportYear": "2024",
+        "note": "17 grains per gallon"
+      },
+      "contaminants": [
+        {
+          "name": "Lead",
+          "value": 2.6,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 15,
+          "actionLevel": 15,
+          "exceedsMCL": false,
+          "range": [0, 16],
+          "note": "2022 data - One sample exceeded Action Level"
+        },
+        {
+          "name": "Copper",
+          "value": 850,
+          "unit": "ppb",
+          "percentile": 90,
+          "mcl": 1300,
+          "actionLevel": 1300,
+          "exceedsMCL": false,
+          "range": [0, 2300],
+          "note": "2022 data - Two samples exceeded Action Level"
+        },
+        {
+          "name": "Arsenic",
+          "value": 1.4,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 10,
+          "mclg": 0,
+          "exceedsMCL": false,
+          "range": [0.77, 4.0]
+        },
+        {
+          "name": "Barium",
+          "value": 0.1,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 2,
+          "mclg": 2,
+          "exceedsMCL": false,
+          "range": [0.03, 0.2]
+        },
+        {
+          "name": "Fluoride",
+          "value": 0.66,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 4.0,
+          "mclg": 4,
+          "exceedsMCL": false,
+          "range": [0.29, 0.74]
+        },
+        {
+          "name": "Nitrate (as Nitrogen)",
+          "value": 0.57,
+          "unit": "ppm",
+          "average": true,
+          "mcl": 10,
+          "mclg": 10,
+          "exceedsMCL": false,
+          "range": [0.45, 6.3]
+        },
+        {
+          "name": "Haloacetic Acids (HAA5)",
+          "value": 42,
+          "unit": "ppb",
+          "mcl": 60,
+          "exceedsMCL": false,
+          "range": [0, 49],
+          "note": "Highest LRAA"
+        },
+        {
+          "name": "Total Trihalomethanes (TTHM)",
+          "value": 77,
+          "unit": "ppb",
+          "mcl": 80,
+          "exceedsMCL": false,
+          "range": [1, 90],
+          "note": "Highest LRAA"
+        },
+        {
+          "name": "Chlorine",
+          "value": 1.0,
+          "unit": "ppm",
+          "average": true,
+          "mrdl": 4.0,
+          "mrdlg": 4,
+          "exceedsMCL": false,
+          "range": [0, 2.5]
+        },
+        {
+          "name": "Selenium",
+          "value": 2.3,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 50,
+          "mclg": 50,
+          "exceedsMCL": false,
+          "range": [0, 2.7]
+        },
+        {
+          "name": "Uranium",
+          "value": 3.9,
+          "unit": "ppb",
+          "average": true,
+          "mcl": 30,
+          "mclg": 0,
+          "exceedsMCL": false,
+          "range": [1.8, 4.4]
+        }
+      ]
+    }
+  ]
+}

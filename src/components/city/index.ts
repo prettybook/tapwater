@@ -8,3 +8,6 @@ export { ViolationsTable } from './ViolationsTable';
 export { FactCard, QuickFactCard } from './FactCard';
 export { SectionNav } from './SectionNav';
 export { MiniBarChart } from './MiniBarChart';
+export { DataSourceBadge } from './DataSourceBadge';
+export { EnhancedHardnessCard } from './EnhancedHardnessCard';
+export { ContaminantsTable } from './ContaminantsTable';

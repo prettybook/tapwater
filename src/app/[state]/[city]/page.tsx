@@ -29,8 +29,12 @@ import {
   ViolationsTable,
   SectionNav,
   MiniBarChart,
+  DataSourceBadge,
+  EnhancedHardnessCard,
+  ContaminantsTable,
 } from '@/components/city';
 import { BreadcrumbSchema } from '@/components/seo/BreadcrumbSchema';
+import { getWaterQuality } from '@/lib/data/municipal-loader';
 
 interface CityPageProps {
   params: Promise<{
@@ -113,6 +117,9 @@ export async function generateMetadata({
 
 export default async function CityPage({ params }: CityPageProps) {
   const { state, city: citySlug } = await params;
+
+  // Try to get municipal data first, fallback to WQP data
+  const waterQualityData = await getWaterQuality(state, citySlug);
   const city = await getCityData(state, citySlug);
 
   if (!city) {
@@ -127,6 +134,9 @@ export default async function CityPage({ params }: CityPageProps) {
   const faqItems = generateCityFAQs(city);
   const stateAverage = getStateAverageHardness(city.stateSlug);
   const hardnessGpg = city.hardness?.value ? ppmToGpg(city.hardness.value) : undefined;
+
+  // Check if we have municipal data
+  const hasMunicipalData = waterQualityData?.source.type === 'municipal';
 
   // Suppress unused variable warning
   void filterRecommendation;
@@ -198,6 +208,17 @@ export default async function CityPage({ params }: CityPageProps) {
           </div>
         </div>
       </section>
+
+      {/* ========================================
+          DATA SOURCE BADGE
+          ======================================== */}
+      {waterQualityData && (
+        <section className="bg-white border-b border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <DataSourceBadge source={waterQualityData.source} />
+          </div>
+        </section>
+      )}
 
       {/* ========================================
           FACT CARDS ROW
@@ -347,6 +368,17 @@ export default async function CityPage({ params }: CityPageProps) {
           </div>
         </div>
       </section>
+
+      {/* ========================================
+          CONTAMINANTS TABLE (Municipal Data Only)
+          ======================================== */}
+      {hasMunicipalData && waterQualityData && (
+        <section className="bg-white border-b border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <ContaminantsTable contaminants={waterQualityData.contaminants} />
+          </div>
+        </section>
+      )}
 
       {/* ========================================
           MAIN CONTENT WITH SIDEBAR
