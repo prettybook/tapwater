@@ -182,10 +182,85 @@ export default async function CityPage({ params }: CityPageProps) {
     { name: displayName, url: `/${city.stateSlug}/${city.slug}` },
   ];
 
+  // FAQPage schema
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
+  };
+
+  // Dataset schema for water quality data
+  const datasetSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    name: `${displayName}, ${city.state} Tap Water Quality Data`,
+    description: `Comprehensive water quality data for ${displayName}, ${city.state} including hardness levels, lead concentrations, EPA violations, and contaminant measurements from ${waterQualityData?.source.sourceName || 'EPA SDWIS'}.`,
+    url: `https://tapwater.org/${city.stateSlug}/${city.slug}`,
+    keywords: [
+      'water quality',
+      'tap water',
+      'drinking water',
+      displayName,
+      city.state,
+      'EPA',
+      'hardness',
+      'lead',
+      'contaminants',
+    ],
+    creator: {
+      '@type': 'Organization',
+      name: 'TapWater.org',
+      url: 'https://tapwater.org',
+    },
+    distribution: {
+      '@type': 'DataDownload',
+      encodingFormat: 'text/html',
+      contentUrl: `https://tapwater.org/${city.stateSlug}/${city.slug}`,
+    },
+    spatialCoverage: {
+      '@type': 'Place',
+      name: `${displayName}, ${city.state}`,
+      geo: {
+        '@type': 'GeoCoordinates',
+        addressCountry: 'US',
+      },
+    },
+    temporalCoverage: waterQualityData?.source.dataYear || 'Recent',
+    isBasedOn: waterQualityData?.source.sourceUrl
+      ? {
+          '@type': 'CreativeWork',
+          name: waterQualityData.source.sourceName,
+          url: waterQualityData.source.sourceUrl,
+        }
+      : undefined,
+    measurementTechnique: 'Laboratory analysis per EPA methods',
+    variableMeasured: [
+      'Water Hardness (ppm)',
+      'Lead Concentration (ppb)',
+      'Copper Concentration (ppb)',
+      'EPA Compliance Violations',
+    ],
+  };
+
   return (
     <article>
       {/* Structured Data */}
       <BreadcrumbSchema items={breadcrumbs} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }}
+      />
 
       {/* ========================================
           HERO SECTION

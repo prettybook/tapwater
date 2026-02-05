@@ -341,7 +341,20 @@ export async function getNearbyCities(
 export async function getPopularCities(limit: number = 20): Promise<CityDataWithState[]> {
   const allCities = await getAllCities();
 
-  return allCities.sort((a, b) => b.population - a.population).slice(0, limit);
+  // Sort by population first
+  const sorted = allCities.sort((a, b) => b.population - a.population);
+
+  // Deduplicate by state+slug combination, keeping the one with highest population
+  const seenCities = new Map<string, CityDataWithState>();
+  for (const city of sorted) {
+    const key = `${city.stateSlug}:${city.slug}`;
+    if (!seenCities.has(key)) {
+      seenCities.set(key, city);
+    }
+  }
+
+  // Convert back to array and take top N
+  return Array.from(seenCities.values()).slice(0, limit);
 }
 
 /**
@@ -409,11 +422,21 @@ export async function getWorstCities(limit: number = 12): Promise<CityDataWithSt
   });
 
   // Sort by score descending and filter out cities with no issues
-  return scoredCities
+  const sorted = scoredCities
     .filter((item) => item.score > 0)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, limit)
-    .map((item) => item.city);
+    .sort((a, b) => b.score - a.score);
+
+  // Deduplicate by state+slug combination, keeping the one with highest score
+  const seenCities = new Map<string, CityDataWithState>();
+  for (const item of sorted) {
+    const key = `${item.city.stateSlug}:${item.city.slug}`;
+    if (!seenCities.has(key)) {
+      seenCities.set(key, item.city);
+    }
+  }
+
+  // Convert back to array and take top N
+  return Array.from(seenCities.values()).slice(0, limit);
 }
 
 // ============================================

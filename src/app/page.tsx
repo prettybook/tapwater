@@ -62,8 +62,32 @@ export default async function HomePage() {
       population: city.population,
     }));
 
+  // Organization schema
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'TapWater.org',
+    url: SITE_URL,
+    logo: `${SITE_URL}/logo.png`,
+    description: 'Free US tap water quality reports providing hardness, lead levels, and EPA violations for every city based on official government data.',
+    sameAs: [
+      // Add social media profiles when available
+    ],
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'Customer Service',
+      availableLanguage: 'English',
+    },
+  };
+
   return (
     <>
+      {/* Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+
       {/* Hero Section with Animated Space-Earth Gradient */}
       <section className="relative text-white overflow-hidden z-20">
         {/* Base dark gradient - even darker */}
