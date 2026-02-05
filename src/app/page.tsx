@@ -1,11 +1,45 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { Metadata } from 'next';
 import { getPopularCities, getWorstCities, getAllCities, getStatesWithCityCounts } from '@/lib/data/loader';
 import { formatCityName, formatPopulation } from '@/lib/data/helpers';
 import { getAllBlogPosts } from '@/lib/blog/loader';
 import { HeroSearch } from '@/components/home/HeroSearch';
 import { WorstCitiesSlider } from '@/components/home/WorstCitiesSlider';
 import { PopularCitiesSlider } from '@/components/home/PopularCitiesSlider';
+
+const SITE_URL = 'https://tapwater.org';
+
+export const metadata: Metadata = {
+  title: 'TapWater.org - Free US Tap Water Quality Reports by City',
+  description: 'Is your tap water safe? Free water quality reports for every US city. Check hardness, lead levels, and EPA violations based on official government data from SDWIS.',
+  keywords: [
+    'tap water quality',
+    'drinking water safety',
+    'water hardness',
+    'lead in water',
+    'EPA violations',
+    'water quality report',
+    'SDWIS',
+    'safe drinking water',
+  ],
+  openGraph: {
+    title: 'TapWater.org - Free US Tap Water Quality Reports by City',
+    description: 'Is your tap water safe? Check hardness, lead levels, and EPA violations for every US city based on official government data.',
+    url: SITE_URL,
+    type: 'website',
+    images: [{ url: `${SITE_URL}/og-image.jpg` }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'TapWater.org - Free US Tap Water Quality Reports',
+    description: 'Check tap water quality, hardness, lead levels, and EPA violations for your city.',
+    images: [`${SITE_URL}/og-image.jpg`],
+  },
+  alternates: {
+    canonical: SITE_URL,
+  },
+};
 
 export default async function HomePage() {
   const popularCities = await getPopularCities(12);
