@@ -83,9 +83,10 @@ function generateSchemaData() {
         position: 1,
         item: {
           '@type': 'Product',
-          name: 'Tap Score Essential Water Test',
+          name: 'Tap Score Advanced City Water Test',
+          image: 'https://tapwater.org/products/tap-score-advanced.jpg',
           brand: { '@type': 'Brand', name: 'SimpleLab' },
-          description: 'Best overall water test kit with 52 contaminants tested.',
+          description: 'Best overall water test kit with 116 contaminants tested.',
           offers: {
             '@type': 'Offer',
             price: 199,
@@ -94,7 +95,7 @@ function generateSchemaData() {
           },
           aggregateRating: {
             '@type': 'AggregateRating',
-            ratingValue: 4.8,
+            ratingValue: 4.7,
             reviewCount: 1200,
             bestRating: 5,
             worstRating: 1,
@@ -106,12 +107,13 @@ function generateSchemaData() {
         position: 2,
         item: {
           '@type': 'Product',
-          name: 'WaterCheck Deluxe',
+          name: 'WaterCheck Standard',
+          image: 'https://tapwater.org/products/watercheck-deluxe.jpg',
           brand: { '@type': 'Brand', name: 'National Testing Laboratories' },
           description: 'Best value lab test with 83 contaminants.',
           offers: {
             '@type': 'Offer',
-            price: 295,
+            price: 149,
             priceCurrency: 'USD',
             availability: 'https://schema.org/InStock',
           },
@@ -129,18 +131,19 @@ function generateSchemaData() {
         position: 3,
         item: {
           '@type': 'Product',
-          name: 'Varify 17-in-1 Complete Water Test Kit',
+          name: 'Varify 17-in-1 Premium Water Test Kit',
+          image: 'https://tapwater.org/products/varify-17-in-1.jpg',
           brand: { '@type': 'Brand', name: 'Varify' },
           description: 'Best DIY kit with 100 test strips.',
           offers: {
             '@type': 'Offer',
-            price: 32.99,
+            price: 27,
             priceCurrency: 'USD',
             availability: 'https://schema.org/InStock',
           },
           aggregateRating: {
             '@type': 'AggregateRating',
-            ratingValue: 4.6,
+            ratingValue: 4.5,
             reviewCount: 7500,
             bestRating: 5,
             worstRating: 1,
@@ -153,6 +156,7 @@ function generateSchemaData() {
         item: {
           '@type': 'Product',
           name: 'Tap Score Lead & Copper Test',
+          image: 'https://tapwater.org/products/tap-score-lead.jpg',
           brand: { '@type': 'Brand', name: 'SimpleLab' },
           description: 'Best focused test for lead concerns.',
           offers: {
@@ -163,7 +167,7 @@ function generateSchemaData() {
           },
           aggregateRating: {
             '@type': 'AggregateRating',
-            ratingValue: 4.9,
+            ratingValue: 4.6,
             reviewCount: 450,
             bestRating: 5,
             worstRating: 1,

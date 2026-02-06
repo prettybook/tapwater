@@ -111,6 +111,7 @@ export const waterTestKits: Product[] = [
     amazonUrl: 'https://www.amazon.com/dp/B07H2QJP3C',
     rating: 4.4,
     reviews: 620,
+    image: '/products/tap-score-advanced.jpg',
   },
   {
     id: 'tap-score-essential',
@@ -139,6 +140,7 @@ export const waterTestKits: Product[] = [
     amazonUrl: 'https://www.amazon.com/dp/B08DP5TMWQ',
     rating: 4.5,
     reviews: 780,
+    image: '/products/tap-score-essential.jpg',
   },
 
   // DIY KITS
