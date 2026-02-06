@@ -1,6 +1,6 @@
 ---
 title: "Water Hardness Scale: What the Numbers on Your Water Report Actually Mean"
-metaTitle: "Water Hardness Scale — PPM, GPG & mg/L Chart (2026)"
+metaTitle: "Water Hardness Scale: Is Your Water Soft, Hard, or Very Hard?"
 metaDescription: "Understand the water hardness scale in PPM, grains per gallon, and mg/L. Free chart, unit conversion, and real hardness data for US cities."
 excerpt: "You got a number from your water report or a test strip — now you need to know what it means. Learn how to interpret water hardness in PPM, grains per gallon, and what the numbers mean for your home."
 category: "Guides"
